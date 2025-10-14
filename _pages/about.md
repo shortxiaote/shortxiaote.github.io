@@ -15,6 +15,8 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+<span class='show_paper_citations' data='blUFYi4AAAAJ:ALROH1vI_8AC'></span>
+
 <span class='anchor' id='about-me'></span>
 <br><br>
 Dr. Xiao is an Associate Professor at the Department of Civil Engineering, Shanghai Jiao Tong University. His main research interests include geotechnical risk and reliability, machine learning and digital twins, uncertainty characterization in site investigation, landslide hazard chains, risk-informed decision-making, etc. He has authored over 40 peer-reviewed journal papers and one academic monograph.
