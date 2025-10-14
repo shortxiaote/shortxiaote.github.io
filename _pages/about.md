@@ -81,52 +81,40 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🌍 Professional Services
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+[**Journal editorial services**]
+- *2024 – present*, Assistant Editor & Editorial Board Member, Georisk: Assessment and Management of Risk for Engineered Systems and Geohazards
+- *2024 – present*, Early Career Editorial Board Member, Intelligent Geoengineering
+- *2025*, Guest Editor, Geodata and AI
+
+[**Professional societies**]
+- *2022 – present*, Member, ASCE Embankments, Dams, and Slopes Committee
+- *2022 – present*, Corresponding Member, ISSMGE Technical Committees TC304 (Risk) / TC309 (Machine Learning) / TC222 (BIM and Digital Twin)
+- *2019 – present*, Member, Youth Committee of Risk and Insurance Research Branch of China Civil Engineering Society
+- *2024 – present*, Early Career Member, Future of Machine Learning in Geotechnics (FOMLIG) Council
+- *2021 – present*, Member, International Society for Soil Mechanics and Geotechnical Engineering (ISSMGE)
+- *2018 – present*, Member, International Society for Rock Mechanics
+- *2024 – present*, Member, China Civil Engineering Society
+- *2022 – present*, Member, Hong Kong Geotechnical Society
+- *2017 – present*, Associate Member, American Society of Civil Engineers (ASCE)
+
+[**Conference services**]
+- *2025*, Secretary of Congress Question, The 28th Congress of International Commission on Large Dams, Chengdu
+- *2024*, Organizing Committee Secretary, The 2nd Workshop on Future of Machine Learning in Geotechnics, Chengdu
+- *2025*, Session Chair, The 9th International Symposium for Geotechnical Safety and Risk, Oslo, Norway
+- *2023*, Session Chair, The XIV Congress of the International Association for Engineering Geology and the Environment, Chengdu
+- *2023*, Session Chair, ASCE Geo-Risk 2023, Arlington, United States
+- *2024*, Session Chair, The 6th National Young Scholar Symposium on Engineering Risk Analysis & Management, Nanjing
+- *2023*, Session Chair, The 8th Youth Scientist Forum of Earth Science, Wuhan
 
 
 # 🏆 Honors and Awards
-- *2023* Shanghai Magnolia Talents (Youth)
-- *2023* ISSMGE Bright Spark Lecture Award, ISSMGE
-- *2024* HKIE Geotechnical Paper Award, The Hong Kong Institution of Engineers
-- *2023* 75th Géotechnique Anniversary Early Career Award, Journal Géotechnique
-- *2018* Georisk Best Paper Award, Journal Georisk
-- *2020* Georisk Most Cited Award, Journal Georisk
-- *2019* Outstanding Doctoral Thesis in Hydraulic Engineering, China Association of Hydraulic Engineering Education
-- *2013* Outstanding Bachelor’s Thesis, Education Board of Hubei Province
-- *2021* Frontrunner 5000 - Top Articles in Outstanding S&T Journals of China, Institute of Scientific and Technical Information of China, twice
-- *2023* Excellent Paper Award, Joint Workshop on Future of Machine Learning in Geotechnics & Use of Urban Geoinformation for Geotechnical Practice
+- *2023*, Shanghai Magnolia Talents (Youth)
+- *2023*, ISSMGE Bright Spark Lecture Award, ISSMGE
+- *2024*, HKIE Geotechnical Paper Award, The Hong Kong Institution of Engineers
+- *2023*, 75th Géotechnique Anniversary Early Career Award, Journal Géotechnique
+- *2018*, Georisk Best Paper Award, Journal Georisk
+- *2020*, Georisk Most Cited Award, Journal Georisk
+- *2019*, Outstanding Doctoral Thesis in Hydraulic Engineering, China Association of Hydraulic Engineering Education
+- *2013*, Outstanding Bachelor’s Thesis, Education Board of Hubei Province
+- *2021*, Frontrunner 5000 - Top Articles in Outstanding S&T Journals of China, Institute of Scientific and Technical Information of China, twice
+- *2023*, Excellent Paper Award, Joint Workshop on Future of Machine Learning in Geotechnics & Use of Urban Geoinformation for Geotechnical Practice
