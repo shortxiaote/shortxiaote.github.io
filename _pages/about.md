@@ -62,15 +62,16 @@ Several positions are available for Ph.D./M.Phil. students and Postdoc fellows. 
 
 **Journal papers**
 [**Intelligent hazard risk management**]
-
+- **Xiao, T.**, Zhang, L. M.*, Cheung, R. W. M., Lacasse, S. (2023). Predicting spatio-temporal man-made slope failures induced by rainfall in Hong Kong using machine learning techniques. Géotechnique, [73(9), 749-765](https://doi.org/10.1680/jgeot.21.00160).
 
 [**Geotechnical risk and reliability**]
-
+- **Xiao, T.**, Li, D. Q.*, Cao, Z. J., Au, S. K., Phoon, K. K. (2016). Three-dimensional slope reliability and risk assessment using auxiliary random finite element method. Computers and Geotechnics, [79, 146-158](https://doi.org/).
 
 [**Probabilistic site characterization and modeling**]
-
+- **Xiao, T.**, Li, D. Q.*, Cao, Z. J., Zhang, L. M. (2018). CPT-based probabilistic characterization of three-dimensional spatial variability using MLE. Journal of Geotechnical and Geoenvironmental Engineering, [114(5), 04018023](https://doi.org/).
 
 [**Offshore geotechnics**]
+- Zhao, F. Y., Zhang, L. L., **Xiao, T.***, Chen, Y. M. (2025). An equivalent state method for submarine spread modeling subject to hydrate dissociation. Engineering Geology, [352, 108070](https://doi.org/).
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
