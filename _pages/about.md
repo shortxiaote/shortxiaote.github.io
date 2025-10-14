@@ -60,7 +60,7 @@ Several positions are available for Ph.D./M.Phil. students and Postdoc fellows. 
 - Zhang, J., **Xiao, T.**, Ji, J., Zeng, P., Cao, Z. (2023). Geotechnical Reliability Analysis: Theories, Methods and Algorithms. Springer, Singapore. [310p](https://doi.org/10.1007/978-981-19-6254-7).
 <br><br>
 
-**Journal papers**
+**Journal papers**<br>
 [**Intelligent hazard risk management**]
 - **Xiao, T.**, Zhang, L. M.*, Cheung, R. W. M., Lacasse, S. (2023). Predicting spatio-temporal man-made slope failures induced by rainfall in Hong Kong using machine learning techniques. Géotechnique, [73(9), 749-765](https://doi.org/10.1680/jgeot.21.00160).
 
