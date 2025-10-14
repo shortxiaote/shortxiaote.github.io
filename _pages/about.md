@@ -46,6 +46,16 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 ---
+# 💼 Projects
+- *2025 – 2027*,	**PI**, NSFC, Excellent Young Scientists Fund (Overseas), Digital twin-powered risk control and emergency management for landslide hazards
+- *2025 – 2027*,	**PI**, NSFC, Young Scientists Fund, Methods for regional landslide spatiotemporal prediction and risk-informed early warning using incomplete data
+- *2024 – 2028*,	Co-I, RGC, Theme-based Research Scheme, Digital twin-empowered landslide emergency risk management
+- *2021 – 2024*,	Co-I, NSFC-RGC, Joint Research Scheme, Evolution of landslide hazard chains triggered by strong earthquakes and the associated dynamic risk management
+- *2023 – 2024*,	Co-I, Geotechnical Engineering Office of HKSAR Government, Uncertainties and target reliability of slopes
+<br><br><br>
+
+
+---
 # 📝 Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
