@@ -16,12 +16,12 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+<br><br>
+Dr. Xiao is an Associate Professor at the Department of Civil Engineering, Shanghai Jiao Tong University. His main research interests include geotechnical risk and reliability, machine learning and digital twins, uncertainty characterization in site investigation, landslide hazard chains, risk-informed decision-making, etc. He has authored over 40 peer-reviewed journal papers and one academic monograph.
 
-Dr. Xiao is an Associate Professor at the Department of Civil Engineering, Shanghai Jiao Tong University. His main research interests include geotechnical risk and reliability, machine learning and digital twins, uncertainty characterization in site investigation, landslide hazard chains, risk-informed decision-making, etc.
+<a href='https://scholar.google.com.hk/citations?user=blUFYi4AAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
-Several positions are available for Ph.D./M.Phil students and Postdoc fellows. Candidates with majors in civil engineering, hydraulic engineering, or engineering geology are preferred. Interested applicants may contact Dr. Xiao through [email](mailto:xiaote@sjtu.edu.cn).
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+Several positions are available for Ph.D./M.Phil. students and Postdoc fellows. Candidates with majors in civil engineering, hydraulic engineering, or engineering geology are preferred. Interested applicants may contact Dr. Xiao through [email](mailto:xiaote@sjtu.edu.cn).
 <br><br><br>
 
 
