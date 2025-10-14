@@ -24,9 +24,9 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📖 Background
 [**Professional experiences**]
-- *2024.01 - present*, Associate Professor, Dept of Civil Engineering, Shanghai Jiao Tong University
-- *2021.07 - 2023.12*, Research Assistant Professor, Dept of Civil & Environmental Engineering, Hong Kong University of Science and Technology
-- *2018.09 - 2021.06*, Postdoctoral Research Fellow, Dept of Civil & Environmental Engineering, Hong Kong University of Science and Technology
+- *2024.01 - present*, Associate Professor, Dept. of Civil Engineering, Shanghai Jiao Tong University
+- *2021.07 - 2023.12*, Research Assistant Professor, Dept. of Civil & Environmental Engineering, Hong Kong University of Science and Technology
+- *2018.09 - 2021.06*, Postdoctoral Research Fellow, Dept. of Civil & Environmental Engineering, Hong Kong University of Science and Technology
 
 [**Educations**]
 - *2013.09 - 2018.06*, Ph.D. in Hydraulic Structure Engineering, Wuhan University 
