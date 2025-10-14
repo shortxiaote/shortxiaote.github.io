@@ -26,12 +26,13 @@ Several positions are available for Ph.D./M.Phil. students and Postdoc fellows. 
 
 ---
 # 📖 Background
-[**Professional experiences**]
+**Professional experiences**
 - *2024.01 - present*, **Associate Professor**, Dept. of Civil Engineering, Shanghai Jiao Tong University
 - *2021.07 - 2023.12*, **Research Assistant Professor**, Dept. of Civil & Environmental Engineering, Hong Kong University of Science and Technology
 - *2018.09 - 2021.06*, **Postdoctoral Research Fellow**, Dept. of Civil & Environmental Engineering, Hong Kong University of Science and Technology
+<br><br>
 
-[**Educations**]
+**Educations**
 - *2013.09 - 2018.06*, **Ph.D.** in Hydraulic Structure Engineering, Wuhan University 
 - *2009.09 - 2013.06*, **B.Sc.** in Water Conservancy and Hydropower Engineering, Wuhan University
 <br><br><br>
@@ -55,10 +56,11 @@ Several positions are available for Ph.D./M.Phil. students and Postdoc fellows. 
 
 ---
 # 📝 Publications
-[**Monographs**]
+**Monographs**
 - Zhang, J., **Xiao, T.**, Ji, J., Zeng, P., Cao, Z. (2023). Geotechnical Reliability Analysis: Theories, Methods and Algorithms. Springer, Singapore. [310p](https://doi.org/10.1007/978-981-19-6254-7).
+<br><br>
 
-[**Journal papers**]
+**Journal papers**
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -87,12 +89,13 @@ Several positions are available for Ph.D./M.Phil. students and Postdoc fellows. 
 
 ---
 # 🌍 Professional Services
-[**Journal editorial services**]
+**Journal editorial services**
 - *2024 – present*, **Assistant Editor & Editorial Board Member**, Georisk: Assessment and Management of Risk for Engineered Systems and Geohazards
 - *2024 – present*, Early Career Editorial Board Member, Intelligent Geoengineering
 - *2025*, Guest Editor, Geodata and AI
+<br><br>
 
-[**Professional societies**]
+**Professional societies**
 - *2022 – present*, **Member**, ASCE Embankments, Dams, and Slopes Committee
 - *2022 – present*, **Corresponding Member**, ISSMGE Technical Committees TC304 (Risk) / TC309 (Machine Learning) / TC222 (BIM and Digital Twin)
 - *2019 – present*, **Member**, Youth Committee of Risk and Insurance Research Branch of China Civil Engineering Society
@@ -102,8 +105,9 @@ Several positions are available for Ph.D./M.Phil. students and Postdoc fellows. 
 - *2024 – present*, Member, China Civil Engineering Society
 - *2022 – present*, Member, Hong Kong Geotechnical Society
 - *2017 – present*, Associate Member, American Society of Civil Engineers (ASCE)
+<br><br>
 
-[**Conference services**]
+**Conference services**
 - *2025*, **Secretary of Congress Question**, The 28th Congress of International Commission on Large Dams, Chengdu
 - *2024*, **Organizing Committee Secretary**, The 2nd Workshop on Future of Machine Learning in Geotechnics, Chengdu
 - *2025*, Session Chair, The 9th International Symposium for Geotechnical Safety and Risk, Oslo, Norway
@@ -111,8 +115,9 @@ Several positions are available for Ph.D./M.Phil. students and Postdoc fellows. 
 - *2023*, Session Chair, ASCE Geo-Risk 2023, Arlington, United States
 - *2024*, Session Chair, The 6th National Young Scholar Symposium on Engineering Risk Analysis & Management, Nanjing
 - *2023*, Session Chair, The 8th Youth Scientist Forum of Earth Science, Wuhan
+<br><br>
 
-[**Journal reviews**]
+**Journal reviews**
 - Géotechnique
 - Journal of Geotechnical and Geoenvironmental Engineering
 - Canadian Geotechnical Journal
