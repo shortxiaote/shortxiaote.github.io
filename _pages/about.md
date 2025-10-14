@@ -20,6 +20,7 @@ redirect_from:
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+<br><br>
 
 
 # 📖 Background
@@ -31,6 +32,7 @@ My research interest includes neural machine translation and computer vision. I 
 [**Educations**]
 - *2013.09 - 2018.06*, Ph.D. in Hydraulic Structure Engineering, Wuhan University 
 - *2009.09 - 2013.06*, B.Sc. in Water Conservancy and Hydropower Engineering, Wuhan University
+<br><br>
 
 
 # 🔥 News
@@ -38,8 +40,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+<br><br>
 
 
 # 📝 Publications
@@ -57,6 +58,7 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<br><br>
 
 
 # 💬 Invited Talks
@@ -64,25 +66,12 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+<br><br>
 
 
 # 🌍 Professional Services
 [**Journal editorial services**]
-- *2024 – present*, Assistant Editor & Editorial Board Member, Georisk: Assessment and Management of Risk for Engineered Systems and Geohazards
+- *2024 – present*, **Assistant Editor & Editorial Board Member**, Georisk: Assessment and Management of Risk for Engineered Systems and Geohazards
 - *2024 – present*, Early Career Editorial Board Member, Intelligent Geoengineering
 - *2025*, Guest Editor, Geodata and AI
 
@@ -98,19 +87,20 @@ My research interest includes neural machine translation and computer vision. I 
 - *2017 – present*, Associate Member, American Society of Civil Engineers (ASCE)
 
 [**Conference services**]
-- *2025*, Secretary of Congress Question, The 28th Congress of International Commission on Large Dams, Chengdu
-- *2024*, Organizing Committee Secretary, The 2nd Workshop on Future of Machine Learning in Geotechnics, Chengdu
+- *2025*, **Secretary of Congress Question**, The 28th Congress of International Commission on Large Dams, Chengdu
+- *2024*, **Organizing Committee Secretary**, The 2nd Workshop on Future of Machine Learning in Geotechnics, Chengdu
 - *2025*, Session Chair, The 9th International Symposium for Geotechnical Safety and Risk, Oslo, Norway
 - *2023*, Session Chair, The XIV Congress of the International Association for Engineering Geology and the Environment, Chengdu
 - *2023*, Session Chair, ASCE Geo-Risk 2023, Arlington, United States
 - *2024*, Session Chair, The 6th National Young Scholar Symposium on Engineering Risk Analysis & Management, Nanjing
 - *2023*, Session Chair, The 8th Youth Scientist Forum of Earth Science, Wuhan
+<br><br>
 
 
 # 🏆 Honors and Awards
-- *2023*, Shanghai Magnolia Talents (Youth)
-- *2023*, ISSMGE Bright Spark Lecture Award, ISSMGE
-- *2024*, HKIE Geotechnical Paper Award, The Hong Kong Institution of Engineers
+- *2023*, **Shanghai Magnolia Talents (Youth)**
+- *2023*, **ISSMGE Bright Spark Lecture Award**, ISSMGE
+- *2024*, **HKIE Geotechnical Paper Award**, The Hong Kong Institution of Engineers (HKIE)
 - *2023*, 75th Géotechnique Anniversary Early Career Award, Journal Géotechnique
 - *2018*, Georisk Best Paper Award, Journal Georisk
 - *2020*, Georisk Most Cited Award, Journal Georisk
