@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Dr. Te XIAO"
-description              : "Associate Professor"
+description              : "Associate Professor, Ph.D."
 repository               : "shortxiaote/shortxiaote.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -30,7 +30,7 @@ author:
   googlescholar    : "https://scholar.google.com.hk/citations?user=blUFYi4AAAAJ&hl=en"
   email            : "xiaote@sjtu.edu.cn"
   researchgate     : "https://www.researchgate.net/profile/Te-Xiao-2"
-  uri              :
+  uri              : "https://oce.sjtu.edu.cn/teachers/xiaote.html"
   bitbucket        :
   codepen          :
   dribbble         :
