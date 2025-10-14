@@ -76,10 +76,11 @@ My research interest includes neural machine translation and computer vision. I 
 
 ---
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2023*, Machine learning-powered landslide forecasting: from initiation to mobility, **ISSMGE Bright Spark Lecture**, Hong Kong
+- *2025*, 3-D marine geological modeling driven by machine learning and data fusion, The 7th National Young Scholar Symposium on Engineering Risk Analysis & Management, Nanchang
+- *2024*, Machine learning for landslides: from spatio-temporal forecasting to risk assessment,The 6th National Young Scholar Symposium on Engineering Risk Analysis & Management, Nanjing
+- *2022*, Landslide hazard mitigation and early warning system in Hong Kong, The 2022 Summit on Diagnosis and Treatment for Civil Engineering, Shenzhen
+- *2021*, Probabilistic site characterization and data fusion in geotechnical engineering, The Youth Forum of Engineering Risk and Insurance Research, Shanghai
 <br><br><br>
 
 
@@ -91,9 +92,9 @@ My research interest includes neural machine translation and computer vision. I 
 - *2025*, Guest Editor, Geodata and AI
 
 [**Professional societies**]
-- *2022 – present*, Member, ASCE Embankments, Dams, and Slopes Committee
-- *2022 – present*, Corresponding Member, ISSMGE Technical Committees TC304 (Risk) / TC309 (Machine Learning) / TC222 (BIM and Digital Twin)
-- *2019 – present*, Member, Youth Committee of Risk and Insurance Research Branch of China Civil Engineering Society
+- *2022 – present*, **Member**, ASCE Embankments, Dams, and Slopes Committee
+- *2022 – present*, **Corresponding Member**, ISSMGE Technical Committees TC304 (Risk) / TC309 (Machine Learning) / TC222 (BIM and Digital Twin)
+- *2019 – present*, **Member**, Youth Committee of Risk and Insurance Research Branch of China Civil Engineering Society
 - *2024 – present*, Early Career Member, Future of Machine Learning in Geotechnics (FOMLIG) Council
 - *2021 – present*, Member, International Society for Soil Mechanics and Geotechnical Engineering (ISSMGE)
 - *2018 – present*, Member, International Society for Rock Mechanics
@@ -109,6 +110,19 @@ My research interest includes neural machine translation and computer vision. I 
 - *2023*, Session Chair, ASCE Geo-Risk 2023, Arlington, United States
 - *2024*, Session Chair, The 6th National Young Scholar Symposium on Engineering Risk Analysis & Management, Nanjing
 - *2023*, Session Chair, The 8th Youth Scientist Forum of Earth Science, Wuhan
+
+[**Journal reviews**]
+- Géotechnique
+- Journal of Geotechnical and Geoenvironmental Engineering
+- Canadian Geotechnical Journal
+- Engineering Geology
+- Landslides
+- Acta Geotechnica
+- Computers and Geotechnics
+- Bulletin of Engineering Geology and the Environment
+- Georisk: Assessment and Management of Risk for Engineered Systems and Geohazards
+- ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems, Part A: Civil Engineering
+- Journal of Rock Mechanics and Geotechnical Engineering
 <br><br><br>
 
 
@@ -125,3 +139,6 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021*, Frontrunner 5000 - Top Articles in Outstanding S&T Journals of China, Institute of Scientific and Technical Information of China, twice
 - *2023*, Excellent Paper Award, Joint Workshop on Future of Machine Learning in Geotechnics & Use of Urban Geoinformation for Geotechnical Practice
 <br><br><br>
+
+
+ \| [\[poster\]](https://github.com/)
