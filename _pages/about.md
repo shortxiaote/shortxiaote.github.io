@@ -24,12 +24,13 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📖 Background
 [**Professional experiences**]
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+- *2024.01 - present*, Associate Professor, Dept of Civil Engineering, Shanghai Jiao Tong University
+- *2021.07 - 2023.12*, Research Assistant Professor, Dept of Civil & Environmental Engineering, Hong Kong University of Science and Technology
+- *2018.09 - 2021.06*, Postdoctoral Research Fellow, Dept of Civil & Environmental Engineering, Hong Kong University of Science and Technology
 
 [**Educations**]
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+- *2013.09 - 2018.06*, Ph.D. in Hydraulic Structure Engineering, Wuhan University 
+- *2009.09 - 2013.06*, B.Sc. in Water Conservancy and Hydropower Engineering, Wuhan University
 
 
 # 🔥 News
