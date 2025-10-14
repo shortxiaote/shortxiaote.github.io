@@ -18,7 +18,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 <br><br>
-Dr. Xiao is an Associate Professor at the Department of Civil Engineering, Shanghai Jiao Tong University. His main research interests include geotechnical risk and reliability, machine learning and digital twins, uncertainty characterization in site investigation, landslide hazard chains, risk-informed decision-making, etc. He has authored 40+ peer-reviewed journal papers and one academic monograph <a href='https://scholar.google.com/citations?user=blUFYi4AAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https://cdn.jsdelivr.net/gh/shortxiaote/shortxiaote.github.io@google-scholar-stats/gs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. 
+Dr. Xiao is an Associate Professor at the Department of Civil Engineering, Shanghai Jiao Tong University. His main research interests include geotechnical risk and reliability, machine learning and digital twins, uncertainty characterization in site investigation, landslide hazard chains, risk-informed decision-making, etc. He has authored 40+ peer-reviewed journal papers and one academic monograph. He is the recipient of the NSFC Excellent Young Scientists Fund (Overseas)，ISSMGE Bright Spark Lecture Award, and HKIE Geotechnical Paper Award.
 
 Several positions are available for Ph.D./M.Phil. students and Postdoc fellows. Candidates with majors in civil engineering, hydraulic engineering, or engineering geology are preferred. Interested applicants may contact Dr. Xiao through [email](mailto:xiaote@sjtu.edu.cn).
 <br><br><br>
@@ -39,10 +39,7 @@ Several positions are available for Ph.D./M.Phil. students and Postdoc fellows. 
 
 ---
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.02*: 🎉🎉 To be updated. 
 <br><br><br>
 
 
@@ -58,7 +55,10 @@ Several positions are available for Ph.D./M.Phil. students and Postdoc fellows. 
 
 ---
 # 📝 Publications
+[**Monographs**]
+- Zhang, J., **Xiao, T.**, Ji, J., Zeng, P., Cao, Z. (2023). Geotechnical Reliability Analysis: Theories, Methods and Algorithms. Springer, Singapore. [310p](https://doi.org/10.1007/978-981-19-6254-7).
 
+[**Journal papers**]
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
