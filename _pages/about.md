@@ -61,7 +61,15 @@ Dr. Xiao is an Associate Professor at the Department of Civil Engineering, Shang
 
 **Journal papers**<br>
 [**Intelligent hazard risk management**]
-- **Xiao, T.**, Zhang, L. M.*, Cheung, R. W. M., Lacasse, S. (2023). [Predicting spatio-temporal man-made slope failures induced by rainfall in Hong Kong using machine learning techniques](https://doi.org/10.1680/jgeot.21.00160). Géotechnique, 73(9), 749-765.
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Predicting spatio-temporal man-made slope failures induced by rainfall in Hong Kong using machine learning techniques](https://github.com/shortxiaote/shortxiaote.github.io/blob/main/_files/papers/2023_Xiao_Geotechnique.pdf)
+**Xiao, T.**, Zhang, L. M.*, Cheung, R. W. M., Lacasse, S.
+- The machine learning model incorporates landslide time and consequences into conventional landslide susceptibility mapping to achieve spatio-temporal landslide forecasting.
+- The machine learning model significantly outperforms the statistical rainfall-landslide correlations, not only in the prediction accuracy but also in the ability to predict both landslide locations and consequences.
+</div></div>
+
+- **Xiao, T.**, Zhang, L. M.*, Cheung, R. W. M., Lacasse, S. (2023). [Predicting spatio-temporal man-made slope failures induced by rainfall in Hong Kong using machine learning techniques](https://doi.org/10.1680/jgeot.21.0016). Géotechnique, 73(9), 749-765.
 - **Xiao, T.**, Zhang, L. M.* (2023). [Data-driven landslide forecasting: methods, data completeness, and real-time warning](https://doi.org/10.1016/j.enggeo.2023.107068). Engineering Geology, 317, 107068.
 - Ju, L. Y., **Xiao, T.***, He, J., Wang, H. J., Zhang, L. M. (2022). [Predicting landslide runout paths using terrain matching-targeted machine learning](https://doi.org/10.1016/j.enggeo.2022.106902). Engineering Geology, 311, 106902.
 - Qiang, Y. J., **Xiao, T.***, He, J., Zhang, L. M. (2025). [Multi-hazard stress testing under extreme rainstorms in the Shenzhen metropolitan area](https://doi.org/10.1080/17499518.2024.2443477). Georisk: Assessment and Management of Risk for Engineered Systems and Geohazards, 19(3), 467-485.
@@ -110,18 +118,6 @@ Dr. Xiao is an Associate Professor at the Department of Civil Engineering, Shang
 
 [**Offshore geotechnics**]
 - Zhao, F. Y., Zhang, L. L., **Xiao, T.***, Chen, Y. M. (2025). [An equivalent state method for submarine spread modeling subject to hydrate dissociation](https://doi.org/10.1016/j.enggeo.2025.108070). Engineering Geology, 352, 108070.
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&user=blUFYi4AAAAJ&citation_for_view=blUFYi4AAAAJ:iH-uZ7U-co4C) <strong><span class='show_paper_citations' data='blUFYi4AAAAJ:iH-uZ7U-co4C'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
 <br><br>
 
 
