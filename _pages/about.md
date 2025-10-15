@@ -28,8 +28,8 @@ Dr. Te Xiao is an Associate Professor at the Department of Civil Engineering, Sh
 # 🔥 News
 - *2025.09*: 🎉🎉 Welcome Xianchong Li, Bingkun Song, and Shakhnoza Kambaralieva (Sasha) to our research group! Sasha from Uzbekistan is the first international student in our group.
 - *2024.09*: 🎉🎉 Welcome Heng Zhou and Jinbo Yi to our research group!
-- *2024.01*: 🎉🎉 Engineering Risk Group @SJTU is established. Welcome to following our WeChat Official Account (SJU工程风险课题组).
-<div class='image-box'><div class='image-box-image'><div><img src='images/Wechat QR code.jpg' alt="sym" width="40%"></div></div></div>
+- *2024.01*: 🎉🎉 Engineering Risk Group @SJTU is established. Welcome to following our WeChat Official Account [SJU工程风险课题组](http://weixin.qq.com/r/mp/uhMFHaXEEPhvreF_90ao).
+<div class='image-box'><div class='image-box-image'><div><img src='images/Wechat QR code.jpg' alt="img" width="40%"></div></div></div>
 <br><br>
 
 
@@ -66,7 +66,7 @@ Dr. Te Xiao is an Associate Professor at the Department of Civil Engineering, Sh
 ## Journal papers
 ## \[Intelligent hazard risk management\]
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Geotechnique 2023</div><img src='images/research/2023_Xiao_Geotechnique_500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Geotechnique 2023</div><img src='images/research/2023_Xiao_Geotechnique_500x300.png' alt="img" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - **Xiao, T.**, Zhang, L. M.*, Cheung, R. W. M., Lacasse, S. (2023). [Predicting spatio-temporal man-made slope failures induced by rainfall in Hong Kong using machine learning techniques](https://doi.org/10.1680/jgeot.21.0016). Géotechnique, 73(9), 749-765. \| [\[pdf\]](https://github.com/shortxiaote/shortxiaote.github.io/blob/main/_files/papers/2023_Xiao_Geotechnique.pdf) \| [\[poster\]](https://github.com/shortxiaote/shortxiaote.github.io/blob/main/_files/posters/Geotechnique%20Poster.pdf)
@@ -76,7 +76,7 @@ Dr. Te Xiao is an Associate Professor at the Department of Civil Engineering, Sh
   - The machine learning model significantly outperforms the statistical rainfall-landslide correlations.
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EG 2023</div><img src='images/research/2023_Xiao_EG_500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EG 2023</div><img src='images/research/2023_Xiao_EG_500x300.png' alt="img" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - **Xiao, T.**, Zhang, L. M.* (2023). [Data-driven landslide forecasting: methods, data completeness, and real-time warning](https://doi.org/10.1016/j.enggeo.2023.107068). Engineering Geology, 317, 107068. \| [\[pdf\]](https://github.com/shortxiaote/shortxiaote.github.io/blob/main/_files/papers/2023_Xiao_EG.pdf)
@@ -86,7 +86,7 @@ Dr. Te Xiao is an Associate Professor at the Department of Civil Engineering, Sh
   - Machine learning-powered spatio-temporal prediction enables real-time landslide warning.
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EG 2022</div><img src='images/research/2022_Ju_EG_500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EG 2022</div><img src='images/research/2022_Ju_EG_500x300.png' alt="img" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - Ju, L. Y., **Xiao, T.***, He, J., Wang, H. J., Zhang, L. M. (2022). [Predicting landslide runout paths using terrain matching-targeted machine learning](https://doi.org/10.1016/j.enggeo.2022.106902). Engineering Geology, 311, 106902. \| [\[pdf\]](https://github.com/shortxiaote/shortxiaote.github.io/blob/main/_files/papers/2022_Ju_EG.pdf)
@@ -96,7 +96,7 @@ Dr. Te Xiao is an Associate Professor at the Department of Civil Engineering, Sh
   - Internal terrain matching is introduced to consider terrain reality and trace features.
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Georisk 2025</div><img src='images/research/2025_Qiang_Georisk_500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Georisk 2025</div><img src='images/research/2025_Qiang_Georisk_500x300.png' alt="img" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - Qiang, Y. J., **Xiao, T.***, He, J., Zhang, L. M. (2025). [Multi-hazard stress testing under extreme rainstorms in the Shenzhen metropolitan area](https://doi.org/10.1080/17499518.2024.2443477). Georisk, 19(3), 467-485. \| [\[pdf\]](https://github.com/shortxiaote/shortxiaote.github.io/blob/main/_files/papers/2025_Qiang_Georisk.pdf)
@@ -106,7 +106,7 @@ Dr. Te Xiao is an Associate Professor at the Department of Civil Engineering, Sh
   - An integrated multi-hazard simulation is conducted under extreme rainstorms.
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Landslides 2019</div><img src='images/research/2019_Zhang_Landslides_500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Landslides 2019</div><img src='images/research/2019_Zhang_Landslides_500x300.png' alt="img" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - Zhang, L. M.*, **Xiao, T.**, He, J., Chen, C. (2019). [Erosion-based analysis of breaching of Baige landslide dams on the Jinsha River, China, in 2018](https://doi.org/10.1007/s10346-019-01247-y). Landslides, 16(10), 1965-1979. \| [\[pdf\]](https://github.com/shortxiaote/shortxiaote.github.io/blob/main/_files/papers/2019_Zhang_Landslides.pdf)
@@ -132,7 +132,7 @@ Dr. Te Xiao is an Associate Professor at the Department of Civil Engineering, Sh
 
 ## \[Geotechnical risk and reliability\]
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CG 2016</div><img src='images/research/2016_Xiao_CG_500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CG 2016</div><img src='images/research/2016_Xiao_CG_500x300.png' alt="img" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - **Xiao, T.**, Li, D. Q.*, Cao, Z. J., Au, S. K., Phoon, K. K. (2016). [Three-dimensional slope reliability and risk assessment using auxiliary random finite element method](https://doi.org/10.1016/j.compgeo.2016.05.024). Computers and Geotechnics, 79, 146-158. \| [\[pdf\]](https://github.com/shortxiaote/shortxiaote.github.io/blob/main/_files/papers/2016_Xiao_CG.pdf)
@@ -142,7 +142,7 @@ Dr. Te Xiao is an Associate Professor at the Department of Civil Engineering, Sh
   - XXX
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Georisk 2017</div><img src='images/research/2017_Xiao_Georisk_500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Georisk 2017</div><img src='images/research/2017_Xiao_Georisk_500x300.png' alt="img" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - **Xiao, T.**, Li, D. Q.*, Cao, Z. J., Tang, X. S. (2017). [Full probabilistic design of slopes in spatially variable soils using simplified reliability analysis method](https://doi.org/10.1080/17499518.2016.1250279). Georisk, 11(1), 146-159. \| [\[pdf\]](https://github.com/shortxiaote/shortxiaote.github.io/blob/main/_files/papers/2017_Xiao_Georisk.pdf)
@@ -152,7 +152,7 @@ Dr. Te Xiao is an Associate Professor at the Department of Civil Engineering, Sh
   - XXX
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Landslides 2016</div><img src='images/research/2016_Li_Landslides_500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Landslides 2016</div><img src='images/research/2016_Li_Landslides_500x300.png' alt="img" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - Li, D. Q., **Xiao, T.**, Cao, Z. J.*, Zhou, C. B., Zhang, L. M. (2016). [Enhancement of random finite element method in reliability analysis and risk assessment of soil slopes using Subset Simulation](https://doi.org/10.1007/s10346-015-0569-2). Landslides, 13(2), 293-303. \| [\[pdf\]](https://github.com/shortxiaote/shortxiaote.github.io/blob/main/_files/papers/2016_Li_Landslides.pdf)
@@ -162,7 +162,7 @@ Dr. Te Xiao is an Associate Professor at the Department of Civil Engineering, Sh
   - XXX
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AMM 2016</div><img src='images/research/2016_Li_AMM_500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AMM 2016</div><img src='images/research/2016_Li_AMM_500x300.png' alt="img" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - Li, D. Q., **Xiao, T.**, Cao, Z. J.*, Phoon, K. K., Zhou, C. B. (2016). [Efficient and consistent reliability analysis of soil slope stability using both limit equilibrium analysis and finite element analysis](https://doi.org/10.1016/j.apm.2015.11.044). Applied Mathematical Modelling, 40(9-10), 5216-5229. \| [\[pdf\]](https://github.com/shortxiaote/shortxiaote.github.io/blob/main/_files/papers/2016_Li_AMM.pdf)
@@ -172,7 +172,7 @@ Dr. Te Xiao is an Associate Professor at the Department of Civil Engineering, Sh
   - XXX
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CJGE 2025</div><img src='images/research/2025_Xiao_CJGE_500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CJGE 2025</div><img src='images/research/2025_Xiao_CJGE_500x300.png' alt="img" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - **Xiao, T.**, Li, D. Q.*, Zhou, C. B. (2025). [Collaborative risk assessment approach in geotechnical engineering 岩土工程协同式风险评估方法](https://doi.org/). Chinese Journal of Geotechnical Engineering, 47(7), 1335-1343. (in Chinese) \| [\[pdf\]](https://github.com/shortxiaote/shortxiaote.github.io/blob/main/_files/papers/2025_Xiao_CJGE.pdf)
@@ -193,7 +193,7 @@ Dr. Te Xiao is an Associate Professor at the Department of Civil Engineering, Sh
 - Li, D. Q.*, **Xiao, T.**, Cao, Z. J., Zhou, C. B., Phoon, K. K. (2016). [Slope risk assessment using efficient random finite element method 基于高效随机有限元法的边坡风险评估](https://doi.org/). Rock and Soil Mechanics, 37(7), 1994-2003. (in Chinese)
 
 ## \[Probabilistic site characterization and modeling\]
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JGGE 2018</div><img src='images/research/2018_Xiao_JGGE_500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JGGE 2018</div><img src='images/research/2018_Xiao_JGGE_500x300.png' alt="img" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - **Xiao, T.**, Li, D. Q.*, Cao, Z. J., Zhang, L. M. (2018). [CPT-based probabilistic characterization of three-dimensional spatial variability using MLE](https://doi.org/10.1061/(ASCE)GT.1943-5606.0001875). Journal of Geotechnical and Geoenvironmental Engineering, 114(5), 04018023. \| [\[pdf\]](https://github.com/shortxiaote/shortxiaote.github.io/blob/main/_files/papers/2018_Xiao_JGGE.pdf)
@@ -203,7 +203,7 @@ Dr. Te Xiao is an Associate Professor at the Department of Civil Engineering, Sh
   - XXX
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JRUES 2017</div><img src='images/research/2017_Xiao_JRUES_500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JRUES 2017</div><img src='images/research/2017_Xiao_JRUES_500x300.png' alt="img" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - **Xiao, T.**, Zhang, L. M.*, Li, X. Y., Li, D. Q. (2017). [Probabilistic stratification modeling in geotechnical site characterization](https://doi.org/10.1061/AJRUA6.0000924). ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems, Part A: Civil Engineering, 3(4), 04017019. \| [\[pdf\]](https://github.com/shortxiaote/shortxiaote.github.io/blob/main/_files/papers/2017_Xiao_JRUES.pdf)
@@ -213,7 +213,7 @@ Dr. Te Xiao is an Associate Professor at the Department of Civil Engineering, Sh
   - XXX
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BOEG 2021</div><img src='images/research/2021_Xiao_BOEG_500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BOEG 2021</div><img src='images/research/2021_Xiao_BOEG_500x300.png' alt="img" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - **Xiao, T.**, Zou, H. F., Yin, K. S., Du, Y., Zhang, L. M.* (2021). [Machine learning-enhanced soil classification by integrating borehole and CPTU data with noise filtering](https://doi.org/10.1007/s10064-021-02478-x). Bulletin of Engineering Geology and the Environment, 80(12), 9157-9171. \| [\[pdf\]](https://github.com/shortxiaote/shortxiaote.github.io/blob/main/_files/papers/2021_Xiao_BOEG.pdf)
@@ -223,7 +223,7 @@ Dr. Te Xiao is an Associate Professor at the Department of Civil Engineering, Sh
   - XXX
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AMM 2019</div><img src='images/research/2019_Li_AMM_500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AMM 2019</div><img src='images/research/2019_Li_AMM_500x300.png' alt="img" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - Li, D. Q.*, **Xiao, T.**, Zhang, L. M., Cao, Z. J. (2019). [Stepwise covariance matrix decomposition for efficient simulation of multivariate large-scale three-dimensional random fields](https://doi.org/10.1016/j.apm.2018.11.011). Applied Mathematical Modelling, 68, 169-181. \| [\[pdf\]](https://github.com/shortxiaote/shortxiaote.github.io/blob/main/_files/papers/2019_Li_AMM.pdf)
@@ -241,7 +241,7 @@ Dr. Te Xiao is an Associate Professor at the Department of Civil Engineering, Sh
 - Li, P. P., Li, D. Q., **Xiao, T.***, Cao, Z. J. (2018). Bayesian updating of excavation considering model uncertainty 考虑经验模型不确定性的基坑开挖贝叶斯更新. Journal of Natural Disasters, 27(4), 143-150. (in Chinese)
 
 ## \[Offshore geotechnics\]
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EG 2025</div><img src='images/research/2025_Zhao_EG_500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EG 2025</div><img src='images/research/2025_Zhao_EG_500x300.png' alt="img" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - Zhao, F. Y., Zhang, L. L., **Xiao, T.***, Chen, Y. M. (2025). [An equivalent state method for submarine spread modeling subject to hydrate dissociation](https://doi.org/10.1016/j.enggeo.2025.108070). Engineering Geology, 352, 108070. \| [\[pdf\]](https://github.com/shortxiaote/shortxiaote.github.io/blob/main/_files/papers/2025_Zhao_EG.pdf)
@@ -325,7 +325,7 @@ Dr. Te Xiao is an Associate Professor at the Department of Civil Engineering, Sh
 
 ---
 # 👥 Group Activities
-<div class='image-box'><div class='image-box-image'><div><img src='images/activities/2025_New Year.jpg' alt="sym" width="100%"></div></div>
+<div class='image-box'><div class='image-box-image'><div><img src='images/activities/2025_New Year.jpg' alt="img" width="100%"></div></div>
 <div class='image-box-text' markdown="1">
 - *2025.01*: 🎉🎉 Happy New Year!
 </div></div>
