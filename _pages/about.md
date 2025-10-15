@@ -32,13 +32,13 @@ Dr. Xiao is an Associate Professor at the Department of Civil Engineering, Shang
 
 ---
 # 📖 Background
-**Professional experiences**
+## Professional experiences
 - *2024.01 - present*, **Associate Professor**, Dept. of Civil Engineering, Shanghai Jiao Tong University
 - *2021.07 - 2023.12*, **Research Assistant Professor**, Dept. of Civil & Environmental Engineering, Hong Kong University of Science and Technology
 - *2018.09 - 2021.06*, **Postdoctoral Research Fellow**, Dept. of Civil & Environmental Engineering, Hong Kong University of Science and Technology
 <br>
 
-**Educations**
+## Educations
 - *2013.09 - 2018.06*, **Ph.D.** in Hydraulic Structure Engineering, Wuhan University 
 - *2009.09 - 2013.06*, **B.Sc.** in Water Conservancy and Hydropower Engineering, Wuhan University
 <br><br>
@@ -56,17 +56,17 @@ Dr. Xiao is an Associate Professor at the Department of Civil Engineering, Shang
 
 ---
 # 📝 Publications
-**Monographs**
+## Monographs
 - Zhang, J., **Xiao, T.**, Ji, J., Zeng, P., Cao, Z. (2023). [Geotechnical Reliability Analysis: Theories, Methods and Algorithms](https://doi.org/10.1007/978-981-19-6254-7). Springer, Singapore. 310p.
 <br>
 
-**Journal papers**<br>
-[**Intelligent hazard risk management**]
+## Journal papers
+### \[Intelligent hazard risk management\]
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Geotechnique 2023</div><img src='images/research/2023_Geotechnique_500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- **Xiao, T.**, Zhang, L. M.*, Cheung, R. W. M., Lacasse, S. (2023). [Predicting spatio-temporal man-made slope failures induced by rainfall in Hong Kong using machine learning techniques](https://doi.org/10.1680/jgeot.21.0016). Géotechnique, 73(9), 749-765. \| [\[pdf\]](https://github.com/shortxiaote/shortxiaote.github.io/blob/main/_files/papers/2023_Xiao_Geotechnique.pdf) \| [\[poster\]](https://github.com/shortxiaote/shortxiaote.github.io/blob/main/_files/posters/Geotechnique%20Poster.pdf)
+  **Xiao, T.**, Zhang, L. M.*, Cheung, R. W. M., Lacasse, S. (2023). [Predicting spatio-temporal man-made slope failures induced by rainfall in Hong Kong using machine learning techniques](https://doi.org/10.1680/jgeot.21.0016). Géotechnique, 73(9), 749-765. \| [\[pdf\]](https://github.com/shortxiaote/shortxiaote.github.io/blob/main/_files/papers/2023_Xiao_Geotechnique.pdf) \| [\[poster\]](https://github.com/shortxiaote/shortxiaote.github.io/blob/main/_files/posters/Geotechnique%20Poster.pdf)
 <br>
 
 **Highlights**
@@ -99,7 +99,7 @@ Dr. Xiao is an Associate Professor at the Department of Civil Engineering, Shang
 - Qiang, Y. J., Zhang, L. M.*, He, J., **Xiao, T.**, Huang, H. H., Wang, H. J. (2021). Urban flood analysis for Pearl River Delta cities using an equivalent drainage method upon combined rainfall-high tide-storm surge events. Journal of Hydrology, 597, 126293.
 - He, J., Zhang, L. M.*, **Xiao, T.**, Chen, C. (2022). Emergency risk management for landslide dam breaks in 2018 on the Yangtze River, China. Resilient Cities and Structures, 1(3), 1-11.
 
-[**Geotechnical risk and reliability**]
+### \[Geotechnical risk and reliability\]
 - **Xiao, T.**, Li, D. Q.*, Cao, Z. J., Au, S. K., Phoon, K. K. (2016). [Three-dimensional slope reliability and risk assessment using auxiliary random finite element method](https://doi.org/10.1016/j.compgeo.2016.05.024). Computers and Geotechnics, 79, 146-158.
 - **Xiao, T.**, Li, D. Q.*, Cao, Z. J., Tang, X. S. (2017). [Full probabilistic design of slopes in spatially variable soils using simplified reliability analysis method](https://doi.org/10.1080/17499518.2016.1250279). Georisk: Assessment and Management of Risk for Engineered Systems and Geohazards, 11(1), 146-159.
 - Li, D. Q., **Xiao, T.**, Cao, Z. J.*, Zhou, C. B., Zhang, L. M. (2016). [Enhancement of random finite element method in reliability analysis and risk assessment of soil slopes using Subset Simulation](https://doi.org/10.1007/s10346-015-0569-2). Landslides, 13(2), 293-303.
@@ -115,7 +115,7 @@ Dr. Xiao is an Associate Professor at the Department of Civil Engineering, Shang
 - Li, D. Q., **Xiao, T.**, Cao, Z. J.*, Tang, S. X., Phoon, K. K. (2016). [Auxiliary slope reliability analysis using limit equilibrium analysis and finite element analysis 基于极限平衡法和有限元法的边坡协同式可靠度分析](https://doi.org/). Chinese Journal of Geotechnical Engineering, 38(6), 1004-1013. (in Chinese)
 - Li, D. Q.*, **Xiao, T.**, Cao, Z. J., Zhou, C. B., Phoon, K. K. (2016). [Slope risk assessment using efficient random finite element method 基于高效随机有限元法的边坡风险评估](https://doi.org/). Rock and Soil Mechanics, 37(7), 1994-2003. (in Chinese)
 
-[**Probabilistic site characterization and modeling**]
+### \[Probabilistic site characterization and modeling\]
 - **Xiao, T.**, Li, D. Q.*, Cao, Z. J., Zhang, L. M. (2018). [CPT-based probabilistic characterization of three-dimensional spatial variability using MLE](https://doi.org/10.1061/(ASCE)GT.1943-5606.0001875). Journal of Geotechnical and Geoenvironmental Engineering, 114(5), 04018023.
 - **Xiao, T.**, Zhang, L. M.*, Li, X. Y., Li, D. Q. (2017). [Probabilistic stratification modeling in geotechnical site characterization](https://doi.org/10.1061/AJRUA6.0000924). ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems, Part A: Civil Engineering, 3(4), 04017019.
 - **Xiao, T.**, Zou, H. F., Yin, K. S., Du, Y., Zhang, L. M.* (2021). [Machine learning-enhanced soil classification by integrating borehole and CPTU data with noise filtering](https://doi.org/10.1007/s10064-021-02478-x). Bulletin of Engineering Geology and the Environment, 80(12), 9157-9171.
@@ -127,7 +127,7 @@ Dr. Xiao is an Associate Professor at the Department of Civil Engineering, Shang
 - Zhang, F. P., Li, D. Q., Cao, Z. J.*, **Xiao, T.**, Zhao, J. (2018). Revisiting statistical correlation between Mohr-Coulomb shear strength parameters of Hoek-Brown rock masses. Tunnelling and Underground Space Technology, 77, 36-44.
 - Li, P. P., Li, D. Q., **Xiao, T.***, Cao, Z. J. (2018). Bayesian updating of excavation considering model uncertainty 考虑经验模型不确定性的基坑开挖贝叶斯更新. Journal of Natural Disasters, 27(4), 143-150. (in Chinese)
 
-[**Offshore geotechnics**]
+### \[Offshore geotechnics\]
 - Zhao, F. Y., Zhang, L. L., **Xiao, T.***, Chen, Y. M. (2025). [An equivalent state method for submarine spread modeling subject to hydrate dissociation](https://doi.org/10.1016/j.enggeo.2025.108070). Engineering Geology, 352, 108070.
 <br><br>
 
@@ -144,13 +144,13 @@ Dr. Xiao is an Associate Professor at the Department of Civil Engineering, Shang
 
 ---
 # 🌍 Services
-**Journal editorial services**
+## Journal editorial services
 - *2024 – present*, **Assistant Editor & Editorial Board Member**, [Georisk: Assessment and Management of Risk for Engineered Systems and Geohazards](https://www.tandfonline.com/toc/ngrk20/current)
 - *2024 – present*, Early Career Editorial Board Member, Intelligent Geoengineering
 - *2025*, Guest Editor, Geodata and AI
 <br>
 
-**Professional societies**
+## Professional societies
 - *2022 – present*, **Member**, ASCE Embankments, Dams, and Slopes Committee
 - *2022 – present*, **Corresponding Member**, ISSMGE Technical Committees TC304 (Risk) / TC309 (Machine Learning) / TC222 (BIM and Digital Twin)
 - *2019 – present*, **Member**, Youth Committee of Risk and Insurance Research Branch of China Civil Engineering Society
@@ -162,7 +162,7 @@ Dr. Xiao is an Associate Professor at the Department of Civil Engineering, Shang
 - *2017 – present*, Associate Member, American Society of Civil Engineers (ASCE)
 <br>
 
-**Conference services**
+## Conference services
 - *2025*, **Secretary of Congress Question**, The 28th Congress of International Commission on Large Dams, Chengdu
 - *2024*, **Organizing Committee Secretary**, The 2nd Workshop on Future of Machine Learning in Geotechnics, Chengdu
 - *2025*, Session Chair, The 9th International Symposium for Geotechnical Safety and Risk, Oslo, Norway
@@ -172,7 +172,7 @@ Dr. Xiao is an Associate Professor at the Department of Civil Engineering, Shang
 - *2023*, Session Chair, The 8th Youth Scientist Forum of Earth Science, Wuhan
 <br>
 
-**Journal reviews**
+## Journal reviews
 - Géotechnique
 - Journal of Geotechnical and Geoenvironmental Engineering
 - Canadian Geotechnical Journal
