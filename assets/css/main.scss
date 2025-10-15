@@ -108,7 +108,8 @@
         max-width: 100%;
         order: 1;
     }
-    
+
+    @include breakpoint($medium) {
         .image-box-image{
             justify-content: left;
             min-width: 200px;
