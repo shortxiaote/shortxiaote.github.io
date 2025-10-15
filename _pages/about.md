@@ -118,7 +118,7 @@ Dr. Xiao is an Associate Professor at the Department of Civil Engineering, Shang
 
 **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&user=blUFYi4AAAAJ&citation_for_view=blUFYi4AAAAJ:iH-uZ7U-co4C) <strong><span class='show_paper_citations' data='blUFYi4AAAAJ:iH-uZ7U-co4C'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
@@ -127,7 +127,7 @@ Dr. Xiao is an Associate Professor at the Department of Civil Engineering, Shang
 
 ---
 # 💬 Invited Talks
-- *2023*, Machine learning-powered landslide forecasting: from initiation to mobility, **ISSMGE Bright Spark Lecture**, Hong Kong \| [\[pdf\]](https://github.com/)
+- *2023*, Machine learning-powered landslide forecasting: from initiation to mobility, **ISSMGE Bright Spark Lecture**, Hong Kong \| [\[pdf\]](https://github.com/shortxiaote/shortxiaote.github.io/blob/main/_files/papers/2023_ISSMGE%20Bright%20Spark%20Lecture.pdf)
 - *2025*, 3-D marine geological modeling driven by machine learning and data fusion, The 7th National Young Scholar Symposium on Engineering Risk Analysis & Management, Nanchang
 - *2024*, Machine learning for landslides: from spatio-temporal forecasting to risk assessment,The 6th National Young Scholar Symposium on Engineering Risk Analysis & Management, Nanjing
 - *2022*, Landslide hazard mitigation and early warning system in Hong Kong, The 2022 Summit on Diagnosis and Treatment for Civil Engineering, Shenzhen
@@ -138,7 +138,7 @@ Dr. Xiao is an Associate Professor at the Department of Civil Engineering, Shang
 ---
 # 🌍 Professional Services
 **Journal editorial services**
-- *2024 – present*, **Assistant Editor & Editorial Board Member**, Georisk: Assessment and Management of Risk for Engineered Systems and Geohazards
+- *2024 – present*, **Assistant Editor & Editorial Board Member**, [Georisk: Assessment and Management of Risk for Engineered Systems and Geohazards](https://www.tandfonline.com/toc/ngrk20/current)
 - *2024 – present*, Early Career Editorial Board Member, Intelligent Geoengineering
 - *2025*, Guest Editor, Geodata and AI
 <br>
