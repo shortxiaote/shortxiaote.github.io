@@ -65,10 +65,10 @@ Dr. Xiao is an Associate Professor at the Department of Civil Engineering, Shang
 - **Xiao, T.**, Zhang, L. M.* (2023). [Data-driven landslide forecasting: methods, data completeness, and real-time warning](https://doi.org/). Engineering Geology, 317, 107068.
 - Ju, L. Y., **Xiao, T.***, He, J., Wang, H. J., Zhang, L. M. (2022). [Predicting landslide runout paths using terrain matching-targeted machine learning](https://doi.org/). Engineering Geology, 311, 106902.
 - Qiang, Y. J., **Xiao, T.***, He, J., Zhang, L. M. (2025). [Multi-hazard stress testing under extreme rainstorms in the Shenzhen metropolitan area](https://doi.org/). Georisk: Assessment and Management of Risk for Engineered Systems and Geohazards, 19(3), 467-485.
-- Zhang, L. M.*, **Xiao, T.**, He, J., Chen, C. (2019). [Erosion-based analysis of breaching of Baige landslide dams on the Jinsha River, China, in 2018](https://doi.org/). Landslides, 16(10), 1965-1979.
-- Ju, L. Y., **Xiao, T.**, He, J., Xu, W. F., Xiao, S. H., Zhang, L. M.* (2025). [A simulation-enabled slope digital twin for real-time assessment of rain-induced landslides](https://doi.org/). Engineering Geology, 353, 108116.
-- Xiao, S. H., **Xiao, T.**, Jiang, R. C., Wang, H. J., Ju, L. Y., Zhang, L. M.* (2024). [Two-phase strategy for rapid and unbiased assessment of earthquake-induced landslides](https://doi.org/). Engineering Geology, 336, 107562.
-- Wang, H. J., **Xiao, T.**, Li, X. Y., Zhang, L. L., Zhang, L. M.* (2019). [A novel physically-based model for updating landslide susceptibility](https://doi.org/). Engineering Geology, 251, 71-80.
+- Zhang, L. M.*, **Xiao, T.**, He, J., Chen, C. (2019). Erosion-based analysis of breaching of Baige landslide dams on the Jinsha River, China, in 2018. Landslides, 16(10), 1965-1979.
+- Ju, L. Y., **Xiao, T.**, He, J., Xu, W. F., Xiao, S. H., Zhang, L. M.* (2025). A simulation-enabled slope digital twin for real-time assessment of rain-induced landslides. Engineering Geology, 353, 108116.
+- Xiao, S. H., **Xiao, T.**, Jiang, R. C., Wang, H. J., Ju, L. Y., Zhang, L. M.* (2024). Two-phase strategy for rapid and unbiased assessment of earthquake-induced landslides. Engineering Geology, 336, 107562.
+- Wang, H. J., **Xiao, T.**, Li, X. Y., Zhang, L. L., Zhang, L. M.* (2019). A novel physically-based model for updating landslide susceptibility. Engineering Geology, 251, 71-80.
 - Xiao, S. H., Zhang, L. M.*, **Xiao, T.**, Jiang, R. C., Peng, D. L., Lu, W. J., He, X. (2024). Landslide damming threats along the Jinsha River, China. Engineering, 42, 326-339.
 - Ju, L. Y., Zhang, L. M.*, **Xiao, T.** (2023). Power laws for accurate determination of landslide volume based on high-resolution LiDAR data. Engineering Geology, 312, 106935.
 - Qiang, Y. J., Zhang, L. M.*, **Xiao, T.** (2020). Spatial-temporal rain field generation for the Guangdong-Hong Kong-Macau Greater Bay Area considering climate change. Journal of Hydrology, 583, 124584.
@@ -82,6 +82,19 @@ Dr. Xiao is an Associate Professor at the Department of Civil Engineering, Shang
 
 [**Geotechnical risk and reliability**]
 - **Xiao, T.**, Li, D. Q.*, Cao, Z. J., Au, S. K., Phoon, K. K. (2016). [Three-dimensional slope reliability and risk assessment using auxiliary random finite element method](https://doi.org/). Computers and Geotechnics, 79, 146-158.
+- **Xiao, T.**, Li, D. Q.*, Cao, Z. J., Tang, X. S. (2017). [Full probabilistic design of slopes in spatially variable soils using simplified reliability analysis method](https://doi.org/). Georisk: Assessment and Management of Risk for Engineered Systems and Geohazards, 11(1), 146-159.
+- Li, D. Q., **Xiao, T.**, Cao, Z. J.*, Zhou, C. B., Zhang, L. M. (2016). [Enhancement of random finite element method in reliability analysis and risk assessment of soil slopes using Subset Simulation](https://doi.org/). Landslides, 13(2), 293-303.
+- Li, D. Q., **Xiao, T.**, Cao, Z. J.*, Phoon, K. K., Zhou, C. B. (2016). [Efficient and consistent reliability analysis of soil slope stability using both limit equilibrium analysis and finite element analysis](https://doi.org/). Applied Mathematical Modelling, 40(9-10), 5216-5229.
+- Wang, S., **Xiao, T.**, Li, G., Lv, Y., Dai, C., Zhan, L., Chen, Y., Zhang, S.* (2024). Spatial variability characterization of clayey waste soils and its impact on probabilistic stability assessment of a landfill slope. Acta Geotechnica, 19(8), 5157-5174.
+- Zhu, H., Zhang, L. M.*, **Xiao, T.** (2019). Evaluating the stability of anisotropically deposited soil slopes. Canadian Geotechnical Journal, 56(5), 753-760.
+- Zhu, H., Zhang, L. M.*, **Xiao, T.**, Li, X. Y. (2017). Enhancement of slope stability by vegetation considering uncertainties in root distribution. Computers and Geotechnics, 85, 84-89.
+- Zhou, Z., Li, D. Q.*, **Xiao, T.**, Cao, Z. J., Du, W. (2021). Response surface guided adaptive slope reliability analysis in spatially varying soils. Computers and Geotechnics, 132, 103966.
+- Li, X. Y., Zhang, L. M.*, **Xiao, T.**, Zhang, S., Chen, C. (2019). Learning failure modes of soil slopes using monitoring data. Probabilistic Engineering Mechanics, 56, 50-57.
+- Li, X. Y., Fan, Z. B., Lu, T., **Xiao, T.**, Zhang, L. M.* (2018). A resilience model for engineered slopes subject to anchor corrosion. KSCE Journal of Civil Engineering, 22(3), 887-895.
+- **Xiao, T.**, Li, D. Q.*, Zhou, C. B. (2025). [Collaborative risk assessment approach in geotechnical engineering 岩土工程协同式风险评估方法](https://doi.org/). Chinese Journal of Geotechnical Engineering, 47(7), 1335-1343. (in Chinese)
+- **Xiao, T.**, Li, D. Q.*, Zhou, C. B., Phoon, K. K. (2014). [Non-intrusive reliability analysis of multi-layered slopes using strength reduction FEM 基于有限元强度折减法的多层边坡非侵入式可靠度分析](https://doi.org/). Journal of Basic Science and Engineering, 22(4), 718-732. (in Chinese)
+- Li, D. Q., **Xiao, T.**, Cao, Z. J.*, Tang, S. X., Phoon, K. K. (2016). [Auxiliary slope reliability analysis using limit equilibrium analysis and finite element analysis 基于极限平衡法和有限元法的边坡协同式可靠度分析](https://doi.org/). Chinese Journal of Geotechnical Engineering, 38(6), 1004-1013. (in Chinese)
+- Li, D. Q.*, **Xiao, T.**, Cao, Z. J., Zhou, C. B., Phoon, K. K. (2016). [Slope risk assessment using efficient random finite element method 基于高效随机有限元法的边坡风险评估](https://doi.org/). Rock and Soil Mechanics, 37(7), 1994-2003. (in Chinese)
 
 [**Probabilistic site characterization and modeling**]
 - **Xiao, T.**, Li, D. Q.*, Cao, Z. J., Zhang, L. M. (2018). [CPT-based probabilistic characterization of three-dimensional spatial variability using MLE](https://doi.org/). Journal of Geotechnical and Geoenvironmental Engineering, 114(5), 04018023.
@@ -100,8 +113,6 @@ Dr. Xiao is an Associate Professor at the Department of Civil Engineering, Shang
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 <br><br>
 
 
