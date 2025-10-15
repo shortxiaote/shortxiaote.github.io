@@ -18,8 +18,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 Dr. Xiao is an Associate Professor at the Department of Civil Engineering, Shanghai Jiao Tong University. His main research interests include geotechnical risk and reliability, machine learning and digital twins, uncertainty characterization in site investigation, landslide hazard chains, risk-informed decision-making, etc. He has authored 40+ peer-reviewed journal papers and one academic monograph. He is the recipient of the NSFC Excellent Young Scientists Fund (Overseas)，ISSMGE Bright Spark Lecture Award, and HKIE Geotechnical Paper Award.
-
+<!-- 
 <a href='https://scholar.google.com/citations?user=blUFYi4AAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fshortxiaote%2Fshortxiaote.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+-->
 <br><br>
 
 
@@ -45,10 +46,10 @@ Dr. Xiao is an Associate Professor at the Department of Civil Engineering, Shang
 
 ---
 # 💼 Projects
-- *2025 – 2027*,	**PI**, NSFC, Excellent Young Scientists Fund (Overseas), Digital twin-powered risk control and emergency management for landslide hazards
-- *2025 – 2027*,	**PI**, NSFC, Young Scientists Fund, Methods for regional landslide spatiotemporal prediction and risk-informed early warning using incomplete data
-- *2024 – 2028*,	Co-I, RGC, Theme-based Research Scheme, Digital twin-empowered landslide emergency risk management
-- *2021 – 2024*,	Co-I, NSFC-RGC, Joint Research Scheme, Evolution of landslide hazard chains triggered by strong earthquakes and the associated dynamic risk management
+- *2025 – 2027*,	**PI**, **NSFC Excellent Young Scientists Fund (Overseas)**, Digital twin-powered risk control and emergency management for landslide hazards
+- *2025 – 2027*,	**PI**, NSFC Young Scientists Fund, Methods for regional landslide spatiotemporal prediction and risk-informed early warning using incomplete data
+- *2024 – 2028*,	Co-I, RGC Theme-based Research Scheme, Digital twin-empowered landslide emergency risk management
+- *2021 – 2024*,	Co-I, NSFC-RGC Joint Research Scheme, Evolution of landslide hazard chains triggered by strong earthquakes and the associated dynamic risk management
 - *2023 – 2024*,	Co-I, Geotechnical Engineering Office of HKSAR Government, Uncertainties and target reliability of slopes
 <br><br>
 
@@ -70,6 +71,13 @@ Dr. Xiao is an Associate Professor at the Department of Civil Engineering, Shang
 - The machine learning model significantly outperforms the statistical rainfall-landslide correlations.
 </div></div>
 - **Xiao, T.**, Zhang, L. M.* (2023). [Data-driven landslide forecasting: methods, data completeness, and real-time warning](https://doi.org/10.1016/j.enggeo.2023.107068). Engineering Geology, 317, 107068.
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Geotechnique 2023</div><img src='images/research/2023_Geotechnique_500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**Data-driven landslide forecasting: methods, data completeness, and real-time warning** \| [\[pdf\]](https://github.com/shortxiaote/shortxiaote.github.io/blob/main/_files/papers/2023_Xiao_Geotechnique.pdf)
+<br>
+- The machine learning model incorporates landslide time and consequences into susceptibility mapping to achieve spatio-temporal forecasting.
+- The machine learning model significantly outperforms the statistical rainfall-landslide correlations.
+</div></div>
 - Ju, L. Y., **Xiao, T.***, He, J., Wang, H. J., Zhang, L. M. (2022). [Predicting landslide runout paths using terrain matching-targeted machine learning](https://doi.org/10.1016/j.enggeo.2022.106902). Engineering Geology, 311, 106902.
 - Qiang, Y. J., **Xiao, T.***, He, J., Zhang, L. M. (2025). [Multi-hazard stress testing under extreme rainstorms in the Shenzhen metropolitan area](https://doi.org/10.1080/17499518.2024.2443477). Georisk: Assessment and Management of Risk for Engineered Systems and Geohazards, 19(3), 467-485.
 - Zhang, L. M.*, **Xiao, T.**, He, J., Chen, C. (2019). [Erosion-based analysis of breaching of Baige landslide dams on the Jinsha River, China, in 2018](https://doi.org/10.1007/s10346-019-01247-y). Landslides, 16(10), 1965-1979.
