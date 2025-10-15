@@ -18,8 +18,6 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 Dr. Xiao is an Associate Professor at the Department of Civil Engineering, Shanghai Jiao Tong University. His main research interests include geotechnical risk and reliability, machine learning and digital twins, uncertainty characterization in site investigation, landslide hazard chains, risk-informed decision-making, etc. He has authored 40+ peer-reviewed journal papers and one academic monograph. He is the recipient of the NSFC Excellent Young Scientists Fund (Overseas)，ISSMGE Bright Spark Lecture Award, and HKIE Geotechnical Paper Award.
-
-Several positions are available for Ph.D./M.Phil. students and Postdoc fellows. Candidates with majors in civil engineering, hydraulic engineering, or engineering geology are preferred. Interested applicants may contact Dr. Xiao through [email](mailto:xiaote@sjtu.edu.cn).
 <br><br><br>
 
 
