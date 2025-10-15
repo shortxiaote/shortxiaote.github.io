@@ -326,7 +326,10 @@ Zhao, F. Y., Zhang, L. L., **Xiao, T.***, Chen, Y. M. (2025). [An equivalent sta
 
 ---
 # 👥 Group Activities
-- *2025.10*: 🎉🎉 To be updated. 
+<div class='image-box'><div class='image-box-image'><div><img src='images/activities/2025_New Year.jpg' alt="sym" width="100%"></div></div>
+<div class='image-box-text' markdown="1">
+- *2025.01*: 🎉🎉 Happy New Year!
+</div></div>
 <br><br><br>
 
 
