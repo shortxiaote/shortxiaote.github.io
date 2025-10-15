@@ -18,8 +18,11 @@ main:
   - title: "Invited Talks"
     url: "/#-invited-talks"
 
-  - title: "Professional Services"
-    url: "/#-professional-services"
+  - title: "Services"
+    url: "/#-services"
 
-  - title: "Honors and Awards"
+  - title: "Honors & Awards"
     url: "/#-honors-and-awards"
+
+  - title: "Group"
+    url: "/#-group"
