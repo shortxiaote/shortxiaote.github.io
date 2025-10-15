@@ -17,7 +17,7 @@ redirect_from:
 
 
 <span class='anchor' id='about-me'></span>
-Dr. Xiao is an Associate Professor at the Department of Civil Engineering, Shanghai Jiao Tong University. His main research interests include geotechnical risk and reliability, machine learning and digital twins, uncertainty characterization in site investigation, landslide hazard chains, risk-informed decision-making, etc. He has authored 40+ peer-reviewed journal papers and one academic monograph. He is the recipient of the NSFC Excellent Young Scientists Fund (Overseas)，ISSMGE Bright Spark Lecture Award, and HKIE Geotechnical Paper Award.
+Dr. Te Xiao is an Associate Professor at the Department of Civil Engineering, Shanghai Jiao Tong University. His main research interests include geotechnical risk and reliability, machine learning and digital twins, uncertainty characterization in site investigation, landslide hazard chains, risk-informed decision-making, etc. He has authored 40+ peer-reviewed journal papers and one academic monograph. He is the recipient of the NSFC Excellent Young Scientists Fund (Overseas)，ISSMGE Bright Spark Lecture Award, and HKIE Geotechnical Paper Award.
 <!-- 
 <a href='https://scholar.google.com/citations?user=blUFYi4AAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fshortxiaote%2Fshortxiaote.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 -->
@@ -26,7 +26,7 @@ Dr. Xiao is an Associate Professor at the Department of Civil Engineering, Shang
 
 ---
 # 🔥 News
-- *2025.02*: 🎉🎉 To be updated. 
+- *2025.10*: 🎉🎉 To be updated. 
 <br><br>
 
 
@@ -66,7 +66,7 @@ Dr. Xiao is an Associate Professor at the Department of Civil Engineering, Shang
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Geotechnique 2023</div><img src='images/research/2023_Xiao_Geotechnique_500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-  **Xiao, T.**, Zhang, L. M.*, Cheung, R. W. M., Lacasse, S. (2023). [Predicting spatio-temporal man-made slope failures induced by rainfall in Hong Kong using machine learning techniques](https://doi.org/10.1680/jgeot.21.0016). Géotechnique, 73(9), 749-765. \| [\[pdf\]](https://github.com/shortxiaote/shortxiaote.github.io/blob/main/_files/papers/2023_Xiao_Geotechnique.pdf) \| [\[poster\]](https://github.com/shortxiaote/shortxiaote.github.io/blob/main/_files/posters/Geotechnique%20Poster.pdf)
+**Xiao, T.**, Zhang, L. M.*, Cheung, R. W. M., Lacasse, S. (2023). [Predicting spatio-temporal man-made slope failures induced by rainfall in Hong Kong using machine learning techniques](https://doi.org/10.1680/jgeot.21.0016). Géotechnique, 73(9), 749-765. \| [\[pdf\]](https://github.com/shortxiaote/shortxiaote.github.io/blob/main/_files/papers/2023_Xiao_Geotechnique.pdf) \| [\[poster\]](https://github.com/shortxiaote/shortxiaote.github.io/blob/main/_files/posters/Geotechnique%20Poster.pdf)
 
 **Highlights**
 - The machine learning model incorporates landslide time and consequences into susceptibility mapping to achieve spatio-temporal forecasting.
@@ -75,7 +75,7 @@ Dr. Xiao is an Associate Professor at the Department of Civil Engineering, Shang
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EG 2023</div><img src='images/research/2023_Xiao_EG_500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-  
+
 **Xiao, T.**, Zhang, L. M.* (2023). [Data-driven landslide forecasting: methods, data completeness, and real-time warning](https://doi.org/10.1016/j.enggeo.2023.107068). Engineering Geology, 317, 107068. \| [\[pdf\]](https://github.com/shortxiaote/shortxiaote.github.io/blob/main/_files/papers/2023_Xiao_EG.pdf)
 
 **Highlights**
@@ -85,16 +85,24 @@ Dr. Xiao is an Associate Professor at the Department of Civil Engineering, Shang
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EG 2022</div><img src='images/research/2022_Ju_EG_500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-  
+
 Ju, L. Y., **Xiao, T.***, He, J., Wang, H. J., Zhang, L. M. (2022). [Predicting landslide runout paths using terrain matching-targeted machine learning](https://doi.org/10.1016/j.enggeo.2022.106902). Engineering Geology, 311, 106902. \| [\[pdf\]](https://github.com/shortxiaote/shortxiaote.github.io/blob/main/_files/papers/2022_Ju_EG.pdf)
 
 **Highlights**
-- The ‘at least one failure’ strategy enables the use of incomplete data in landslide forecasting.
-- Machine learning-powered spatio-temporal prediction enables real-time landslide warning.
+- A novel machine learning model is proposed for predicting landslide runout paths.
+- Internal terrain matching is introduced to consider terrain reality and trace features.
 </div></div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Georisk 2025</div><img src='images/research/2025_Qiang_Georisk_500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-- Qiang, Y. J., **Xiao, T.***, He, J., Zhang, L. M. (2025). [Multi-hazard stress testing under extreme rainstorms in the Shenzhen metropolitan area](https://doi.org/10.1080/17499518.2024.2443477). Georisk: Assessment and Management of Risk for Engineered Systems and Geohazards, 19(3), 467-485.
+Qiang, Y. J., **Xiao, T.***, He, J., Zhang, L. M. (2025). [Multi-hazard stress testing under extreme rainstorms in the Shenzhen metropolitan area](https://doi.org/10.1080/17499518.2024.2443477). Georisk, 19(3), 467-485. \| [\[pdf\]](https://github.com/shortxiaote/shortxiaote.github.io/blob/main/_files/papers/2025_Qiang_Georisk.pdf)
+
+**Highlights**
+- The probable maximum precipitation in Shenzhen is estimated.
+- An integrated multi-hazard simulation is conducted under extreme rainstorms.
+</div></div>
+
 - Zhang, L. M.*, **Xiao, T.**, He, J., Chen, C. (2019). [Erosion-based analysis of breaching of Baige landslide dams on the Jinsha River, China, in 2018](https://doi.org/10.1007/s10346-019-01247-y). Landslides, 16(10), 1965-1979.
 - Ju, L. Y., **Xiao, T.**, He, J., Xu, W. F., Xiao, S. H., Zhang, L. M.* (2025). A simulation-enabled slope digital twin for real-time assessment of rain-induced landslides. Engineering Geology, 353, 108116.
 - Xiao, S. H., **Xiao, T.**, Jiang, R. C., Wang, H. J., Ju, L. Y., Zhang, L. M.* (2024). Two-phase strategy for rapid and unbiased assessment of earthquake-induced landslides. Engineering Geology, 336, 107562.
@@ -215,7 +223,7 @@ Ju, L. Y., **Xiao, T.***, He, J., Wang, H. J., Zhang, L. M. (2022). [Predicting 
 
 ---
 # 👥 Group
-- *2025.02*: 🎉🎉 To be updated. 
+- *2025.10*: 🎉🎉 To be updated. 
 <br><br><br>
 
 
