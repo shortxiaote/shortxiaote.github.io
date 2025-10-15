@@ -28,7 +28,7 @@ Dr. Te Xiao is an Associate Professor at the Department of Civil Engineering, Sh
 # 🔥 News
 - *2025.09*: 🎉🎉 Welcome Xianchong Li, Bingkun Song, and Shakhnoza Kambaralieva (Sasha) to our research group! Sasha from Uzbekistan is the first international student in our group.
 - *2024.09*: 🎉🎉 Welcome Heng Zhou and Jinbo Yi to our research group!
-- *2024.01*: 🎉🎉 Engineering Risk Group @SJTU is established. Welcome to following our WeChat Official Account [SJU工程风险课题组](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzkwMDY5Mjg0NA==&scene=117#wechat_redirect).
+- *2024.01*: 🎉🎉 Engineering Risk Group @SJTU is established. Welcome to following our WeChat Official Account [SJU工程风险课题组](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzkwMDY5Mjg0NA==).
 <div class='image-box'><div class='image-box-image'><div><img src='images/Wechat QR code.jpg' alt="img" width="40%"></div></div></div>
 <br><br>
 
