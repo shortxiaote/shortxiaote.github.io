@@ -103,7 +103,16 @@ Qiang, Y. J., **Xiao, T.***, He, J., Zhang, L. M. (2025). [Multi-hazard stress t
 - An integrated multi-hazard simulation is conducted under extreme rainstorms.
 </div></div>
 
-- Zhang, L. M.*, **Xiao, T.**, He, J., Chen, C. (2019). [Erosion-based analysis of breaching of Baige landslide dams on the Jinsha River, China, in 2018](https://doi.org/10.1007/s10346-019-01247-y). Landslides, 16(10), 1965-1979.
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Landslides 2019</div><img src='images/research/2019_Zhang_Landslides_500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Zhang, L. M.*, **Xiao, T.**, He, J., Chen, C. (2019). [Erosion-based analysis of breaching of Baige landslide dams on the Jinsha River, China, in 2018](https://doi.org/10.1007/s10346-019-01247-y). Landslides, 16(10), 1965-1979. \| [\[pdf\]](https://github.com/shortxiaote/shortxiaote.github.io/blob/main/_files/papers/2019_Zhang_Landslides.pdf)
+
+**Highlights**
+- A erosion-based landslide dam breaching model is proposed.
+- A case study of two Baige landslide dams on the Jinsha River is conducted.
+</div></div>
+
 - Ju, L. Y., **Xiao, T.**, He, J., Xu, W. F., Xiao, S. H., Zhang, L. M.* (2025). A simulation-enabled slope digital twin for real-time assessment of rain-induced landslides. Engineering Geology, 353, 108116.
 - Xiao, S. H., **Xiao, T.**, Jiang, R. C., Wang, H. J., Ju, L. Y., Zhang, L. M.* (2024). Two-phase strategy for rapid and unbiased assessment of earthquake-induced landslides. Engineering Geology, 336, 107562.
 - Wang, H. J., **Xiao, T.**, Li, X. Y., Zhang, L. L., Zhang, L. M.* (2019). A novel physically-based model for updating landslide susceptibility. Engineering Geology, 251, 71-80.
