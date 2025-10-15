@@ -18,13 +18,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 Dr. Xiao is an Associate Professor at the Department of Civil Engineering, Shanghai Jiao Tong University. His main research interests include geotechnical risk and reliability, machine learning and digital twins, uncertainty characterization in site investigation, landslide hazard chains, risk-informed decision-making, etc. He has authored 40+ peer-reviewed journal papers and one academic monograph. He is the recipient of the NSFC Excellent Young Scientists Fund (Overseas)，ISSMGE Bright Spark Lecture Award, and HKIE Geotechnical Paper Award.
-<br><br><br>
+<br><br>
 
 
 ---
 # 🔥 News
 - *2025.02*: 🎉🎉 To be updated. 
-<br><br><br>
+<br><br>
 
 
 ---
@@ -33,12 +33,12 @@ Dr. Xiao is an Associate Professor at the Department of Civil Engineering, Shang
 - *2024.01 - present*, **Associate Professor**, Dept. of Civil Engineering, Shanghai Jiao Tong University
 - *2021.07 - 2023.12*, **Research Assistant Professor**, Dept. of Civil & Environmental Engineering, Hong Kong University of Science and Technology
 - *2018.09 - 2021.06*, **Postdoctoral Research Fellow**, Dept. of Civil & Environmental Engineering, Hong Kong University of Science and Technology
-<br><br>
+<br>
 
 **Educations**
 - *2013.09 - 2018.06*, **Ph.D.** in Hydraulic Structure Engineering, Wuhan University 
 - *2009.09 - 2013.06*, **B.Sc.** in Water Conservancy and Hydropower Engineering, Wuhan University
-<br><br><br>
+<br><br>
 
 
 ---
@@ -48,14 +48,14 @@ Dr. Xiao is an Associate Professor at the Department of Civil Engineering, Shang
 - *2024 – 2028*,	Co-I, RGC, Theme-based Research Scheme, Digital twin-empowered landslide emergency risk management
 - *2021 – 2024*,	Co-I, NSFC-RGC, Joint Research Scheme, Evolution of landslide hazard chains triggered by strong earthquakes and the associated dynamic risk management
 - *2023 – 2024*,	Co-I, Geotechnical Engineering Office of HKSAR Government, Uncertainties and target reliability of slopes
-<br><br><br>
+<br><br>
 
 
 ---
 # 📝 Publications
 **Monographs**
 - Zhang, J., **Xiao, T.**, Ji, J., Zeng, P., Cao, Z. (2023). [Geotechnical Reliability Analysis: Theories, Methods and Algorithms](https://doi.org/10.1007/978-981-19-6254-7). Springer, Singapore. 310p.
-<br><br>
+<br>
 
 **Journal papers**<br>
 [**Intelligent hazard risk management**]
@@ -83,7 +83,7 @@ Dr. Xiao is an Associate Professor at the Department of Civil Engineering, Shang
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-<br><br><br>
+<br><br>
 
 
 ---
@@ -93,7 +93,7 @@ Dr. Xiao is an Associate Professor at the Department of Civil Engineering, Shang
 - *2024*, Machine learning for landslides: from spatio-temporal forecasting to risk assessment,The 6th National Young Scholar Symposium on Engineering Risk Analysis & Management, Nanjing
 - *2022*, Landslide hazard mitigation and early warning system in Hong Kong, The 2022 Summit on Diagnosis and Treatment for Civil Engineering, Shenzhen
 - *2021*, Probabilistic site characterization and data fusion in geotechnical engineering, The Youth Forum of Engineering Risk and Insurance Research, Shanghai
-<br><br><br>
+<br><br>
 
 
 ---
@@ -102,7 +102,7 @@ Dr. Xiao is an Associate Professor at the Department of Civil Engineering, Shang
 - *2024 – present*, **Assistant Editor & Editorial Board Member**, Georisk: Assessment and Management of Risk for Engineered Systems and Geohazards
 - *2024 – present*, Early Career Editorial Board Member, Intelligent Geoengineering
 - *2025*, Guest Editor, Geodata and AI
-<br><br>
+<br>
 
 **Professional societies**
 - *2022 – present*, **Member**, ASCE Embankments, Dams, and Slopes Committee
@@ -114,7 +114,7 @@ Dr. Xiao is an Associate Professor at the Department of Civil Engineering, Shang
 - *2024 – present*, Member, China Civil Engineering Society
 - *2022 – present*, Member, Hong Kong Geotechnical Society
 - *2017 – present*, Associate Member, American Society of Civil Engineers (ASCE)
-<br><br>
+<br>
 
 **Conference services**
 - *2025*, **Secretary of Congress Question**, The 28th Congress of International Commission on Large Dams, Chengdu
@@ -124,7 +124,7 @@ Dr. Xiao is an Associate Professor at the Department of Civil Engineering, Shang
 - *2023*, Session Chair, ASCE Geo-Risk 2023, Arlington, United States
 - *2024*, Session Chair, The 6th National Young Scholar Symposium on Engineering Risk Analysis & Management, Nanjing
 - *2023*, Session Chair, The 8th Youth Scientist Forum of Earth Science, Wuhan
-<br><br>
+<br>
 
 **Journal reviews**
 - Géotechnique
@@ -138,7 +138,7 @@ Dr. Xiao is an Associate Professor at the Department of Civil Engineering, Shang
 - Georisk: Assessment and Management of Risk for Engineered Systems and Geohazards
 - ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems, Part A: Civil Engineering
 - Journal of Rock Mechanics and Geotechnical Engineering
-<br><br><br>
+<br><br>
 
 
 ---
@@ -153,7 +153,7 @@ Dr. Xiao is an Associate Professor at the Department of Civil Engineering, Shang
 - *2013*, Outstanding Bachelor’s Thesis, Education Board of Hubei Province
 - *2021*, Frontrunner 5000 - Top Articles in Outstanding S&T Journals of China, Institute of Scientific and Technical Information of China, twice
 - *2023*, Excellent Paper Award, Joint Workshop on Future of Machine Learning in Geotechnics & Use of Urban Geoinformation for Geotechnical Practice
-<br><br><br>
+<br><br>
 
 
  \| [\[poster\]](https://github.com/)
