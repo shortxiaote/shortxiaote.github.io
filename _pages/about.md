@@ -128,26 +128,108 @@ Zhang, L. M.*, **Xiao, T.**, He, J., Chen, C. (2019). [Erosion-based analysis of
 - He, J., Zhang, L. M.*, **Xiao, T.**, Chen, C. (2022). Emergency risk management for landslide dam breaks in 2018 on the Yangtze River, China. Resilient Cities and Structures, 1(3), 1-11.
 
 ### \[Geotechnical risk and reliability\]
-- **Xiao, T.**, Li, D. Q.*, Cao, Z. J., Au, S. K., Phoon, K. K. (2016). [Three-dimensional slope reliability and risk assessment using auxiliary random finite element method](https://doi.org/10.1016/j.compgeo.2016.05.024). Computers and Geotechnics, 79, 146-158.
-- **Xiao, T.**, Li, D. Q.*, Cao, Z. J., Tang, X. S. (2017). [Full probabilistic design of slopes in spatially variable soils using simplified reliability analysis method](https://doi.org/10.1080/17499518.2016.1250279). Georisk: Assessment and Management of Risk for Engineered Systems and Geohazards, 11(1), 146-159.
-- Li, D. Q., **Xiao, T.**, Cao, Z. J.*, Zhou, C. B., Zhang, L. M. (2016). [Enhancement of random finite element method in reliability analysis and risk assessment of soil slopes using Subset Simulation](https://doi.org/10.1007/s10346-015-0569-2). Landslides, 13(2), 293-303.
-- Li, D. Q., **Xiao, T.**, Cao, Z. J.*, Phoon, K. K., Zhou, C. B. (2016). [Efficient and consistent reliability analysis of soil slope stability using both limit equilibrium analysis and finite element analysis](https://doi.org/10.1016/j.apm.2015.11.044). Applied Mathematical Modelling, 40(9-10), 5216-5229.
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CG 2016</div><img src='images/research/2016_Xiao_CG_500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Xiao, T.**, Li, D. Q.*, Cao, Z. J., Au, S. K., Phoon, K. K. (2016). [Three-dimensional slope reliability and risk assessment using auxiliary random finite element method](https://doi.org/10.1016/j.compgeo.2016.05.024). Computers and Geotechnics, 79, 146-158. \| [\[pdf\]](https://github.com/shortxiaote/shortxiaote.github.io/blob/main/_files/papers/2016_Xiao_CG.pdf)
+
+**Highlights**
+- XXX
+- XXX
+</div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Georisk 2017</div><img src='images/research/2017_Xiao_Georisk_500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Xiao, T.**, Li, D. Q.*, Cao, Z. J., Tang, X. S. (2017). [Full probabilistic design of slopes in spatially variable soils using simplified reliability analysis method](https://doi.org/10.1080/17499518.2016.1250279). Georisk, 11(1), 146-159. \| [\[pdf\]](https://github.com/shortxiaote/shortxiaote.github.io/blob/main/_files/papers/2017_Xiao_Georisk.pdf)
+
+**Highlights**
+- XXX
+- XXX
+</div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Landslides 2016</div><img src='images/research/2016_Li_Landslides_500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Li, D. Q., **Xiao, T.**, Cao, Z. J.*, Zhou, C. B., Zhang, L. M. (2016). [Enhancement of random finite element method in reliability analysis and risk assessment of soil slopes using Subset Simulation](https://doi.org/10.1007/s10346-015-0569-2). Landslides, 13(2), 293-303. \| [\[pdf\]](https://github.com/shortxiaote/shortxiaote.github.io/blob/main/_files/papers/2016_Li_Landslides.pdf)
+
+**Highlights**
+- XXX
+- XXX
+</div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AMM 2016</div><img src='images/research/2016_Li_AMM_500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Li, D. Q., **Xiao, T.**, Cao, Z. J.*, Phoon, K. K., Zhou, C. B. (2016). [Efficient and consistent reliability analysis of soil slope stability using both limit equilibrium analysis and finite element analysis](https://doi.org/10.1016/j.apm.2015.11.044). Applied Mathematical Modelling, 40(9-10), 5216-5229. \| [\[pdf\]](https://github.com/shortxiaote/shortxiaote.github.io/blob/main/_files/papers/2016_Li_AMM.pdf)
+
+**Highlights**
+- XXX
+- XXX
+</div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CGE 2025</div><img src='images/research/2025_Xiao_CGE_500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Xiao, T.**, Li, D. Q.*, Zhou, C. B. (2025). [Collaborative risk assessment approach in geotechnical engineering 岩土工程协同式风险评估方法](https://doi.org/). Chinese Journal of Geotechnical Engineering, 47(7), 1335-1343. (in Chinese) \| [\[pdf\]](https://github.com/shortxiaote/shortxiaote.github.io/blob/main/_files/papers/2025_Xiao_CGE.pdf)
+
+**Highlights**
+- XXX
+- XXX
+</div></div>
+
 - Wang, S., **Xiao, T.**, Li, G., Lv, Y., Dai, C., Zhan, L., Chen, Y., Zhang, S.* (2024). Spatial variability characterization of clayey waste soils and its impact on probabilistic stability assessment of a landfill slope. Acta Geotechnica, 19(8), 5157-5174.
 - Zhu, H., Zhang, L. M.*, **Xiao, T.** (2019). Evaluating the stability of anisotropically deposited soil slopes. Canadian Geotechnical Journal, 56(5), 753-760.
 - Zhu, H., Zhang, L. M.*, **Xiao, T.**, Li, X. Y. (2017). Enhancement of slope stability by vegetation considering uncertainties in root distribution. Computers and Geotechnics, 85, 84-89.
 - Zhou, Z., Li, D. Q.*, **Xiao, T.**, Cao, Z. J., Du, W. (2021). Response surface guided adaptive slope reliability analysis in spatially varying soils. Computers and Geotechnics, 132, 103966.
 - Li, X. Y., Zhang, L. M.*, **Xiao, T.**, Zhang, S., Chen, C. (2019). Learning failure modes of soil slopes using monitoring data. Probabilistic Engineering Mechanics, 56, 50-57.
 - Li, X. Y., Fan, Z. B., Lu, T., **Xiao, T.**, Zhang, L. M.* (2018). A resilience model for engineered slopes subject to anchor corrosion. KSCE Journal of Civil Engineering, 22(3), 887-895.
-- **Xiao, T.**, Li, D. Q.*, Zhou, C. B. (2025). [Collaborative risk assessment approach in geotechnical engineering 岩土工程协同式风险评估方法](https://doi.org/). Chinese Journal of Geotechnical Engineering, 47(7), 1335-1343. (in Chinese)
 - **Xiao, T.**, Li, D. Q.*, Zhou, C. B., Phoon, K. K. (2014). [Non-intrusive reliability analysis of multi-layered slopes using strength reduction FEM 基于有限元强度折减法的多层边坡非侵入式可靠度分析](https://doi.org/). Journal of Basic Science and Engineering, 22(4), 718-732. (in Chinese)
 - Li, D. Q., **Xiao, T.**, Cao, Z. J.*, Tang, S. X., Phoon, K. K. (2016). [Auxiliary slope reliability analysis using limit equilibrium analysis and finite element analysis 基于极限平衡法和有限元法的边坡协同式可靠度分析](https://doi.org/). Chinese Journal of Geotechnical Engineering, 38(6), 1004-1013. (in Chinese)
 - Li, D. Q.*, **Xiao, T.**, Cao, Z. J., Zhou, C. B., Phoon, K. K. (2016). [Slope risk assessment using efficient random finite element method 基于高效随机有限元法的边坡风险评估](https://doi.org/). Rock and Soil Mechanics, 37(7), 1994-2003. (in Chinese)
 
 ### \[Probabilistic site characterization and modeling\]
-- **Xiao, T.**, Li, D. Q.*, Cao, Z. J., Zhang, L. M. (2018). [CPT-based probabilistic characterization of three-dimensional spatial variability using MLE](https://doi.org/10.1061/(ASCE)GT.1943-5606.0001875). Journal of Geotechnical and Geoenvironmental Engineering, 114(5), 04018023.
-- **Xiao, T.**, Zhang, L. M.*, Li, X. Y., Li, D. Q. (2017). [Probabilistic stratification modeling in geotechnical site characterization](https://doi.org/10.1061/AJRUA6.0000924). ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems, Part A: Civil Engineering, 3(4), 04017019.
-- **Xiao, T.**, Zou, H. F., Yin, K. S., Du, Y., Zhang, L. M.* (2021). [Machine learning-enhanced soil classification by integrating borehole and CPTU data with noise filtering](https://doi.org/10.1007/s10064-021-02478-x). Bulletin of Engineering Geology and the Environment, 80(12), 9157-9171.
-- Li, D. Q.*, **Xiao, T.**, Zhang, L. M., Cao, Z. J. (2019). [Stepwise covariance matrix decomposition for efficient simulation of multivariate large-scale three-dimensional random fields](https://doi.org/10.1016/j.apm.2018.11.011). Applied Mathematical Modelling, 68, 169-181.
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JGGE 2018</div><img src='images/research/2018_Xiao_JGGE_500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Xiao, T.**, Li, D. Q.*, Cao, Z. J., Zhang, L. M. (2018). [CPT-based probabilistic characterization of three-dimensional spatial variability using MLE](https://doi.org/10.1061/(ASCE)GT.1943-5606.0001875). Journal of Geotechnical and Geoenvironmental Engineering, 114(5), 04018023. \| [\[pdf\]](https://github.com/shortxiaote/shortxiaote.github.io/blob/main/_files/papers/2018_Xiao_JGGE.pdf)
+
+**Highlights**
+- XXX
+- XXX
+</div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JRUES 2017</div><img src='images/research/2017_Xiao_JRUES_500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Xiao, T.**, Zhang, L. M.*, Li, X. Y., Li, D. Q. (2017). [Probabilistic stratification modeling in geotechnical site characterization](https://doi.org/10.1061/AJRUA6.0000924). ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems, Part A: Civil Engineering, 3(4), 04017019. \| [\[pdf\]](https://github.com/shortxiaote/shortxiaote.github.io/blob/main/_files/papers/2017_Xiao_JRUES.pdf)
+
+**Highlights**
+- XXX
+- XXX
+</div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BOEG 2021</div><img src='images/research/2021_Xiao_BOEG_500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Xiao, T.**, Zou, H. F., Yin, K. S., Du, Y., Zhang, L. M.* (2021). [Machine learning-enhanced soil classification by integrating borehole and CPTU data with noise filtering](https://doi.org/10.1007/s10064-021-02478-x). Bulletin of Engineering Geology and the Environment, 80(12), 9157-9171. \| [\[pdf\]](https://github.com/shortxiaote/shortxiaote.github.io/blob/main/_files/papers/2021_Xiao_BOEG.pdf)
+
+**Highlights**
+- XXX
+- XXX
+</div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AMM 2019</div><img src='images/research/2019_Li_AMM_500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Li, D. Q.*, **Xiao, T.**, Zhang, L. M., Cao, Z. J. (2019). [Stepwise covariance matrix decomposition for efficient simulation of multivariate large-scale three-dimensional random fields](https://doi.org/10.1016/j.apm.2018.11.011). Applied Mathematical Modelling, 68, 169-181. \| [\[pdf\]](https://github.com/shortxiaote/shortxiaote.github.io/blob/main/_files/papers/2019_Li_AMM.pdf)
+
+**Highlights**
+- XXX
+- XXX
+</div></div>
+
 - Yin, K. S., **Xiao, T.**, Luo, H. Y., Zou, H. F., Zhang, L. M.* (2023). Probabilistic modeling of offshore deep cement mixing improved ground. Computers and Geotechnics, 156, 105266.
 - Zhu, H., Zhang, L. M.*, **Xiao, T.**, Li, X. Y. (2017). Generation of multivariate cross-correlated geotechnical random fields. Computers and Geotechnics, 86, 95-107.
 - Miao, C., Cao, Z. J.*, **Xiao, T.**, Li, D. Q., Du, W. (2023). BayLUP: A Bayesian framework for conditional random field simulation of the liquefaction-induced settlement considering statistical uncertainty and model error. Gondwana Research, 123, 140-163.
@@ -156,7 +238,15 @@ Zhang, L. M.*, **Xiao, T.**, He, J., Chen, C. (2019). [Erosion-based analysis of
 - Li, P. P., Li, D. Q., **Xiao, T.***, Cao, Z. J. (2018). Bayesian updating of excavation considering model uncertainty 考虑经验模型不确定性的基坑开挖贝叶斯更新. Journal of Natural Disasters, 27(4), 143-150. (in Chinese)
 
 ### \[Offshore geotechnics\]
-- Zhao, F. Y., Zhang, L. L., **Xiao, T.***, Chen, Y. M. (2025). [An equivalent state method for submarine spread modeling subject to hydrate dissociation](https://doi.org/10.1016/j.enggeo.2025.108070). Engineering Geology, 352, 108070.
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EG 2025</div><img src='images/research/2025_Zhao_EG_500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Zhao, F. Y., Zhang, L. L., **Xiao, T.***, Chen, Y. M. (2025). [An equivalent state method for submarine spread modeling subject to hydrate dissociation](https://doi.org/10.1016/j.enggeo.2025.108070). Engineering Geology, 352, 108070. \| [\[pdf\]](https://github.com/shortxiaote/shortxiaote.github.io/blob/main/_files/papers/2025_Zhao_EG.pdf)
+
+**Highlights**
+- XXX
+- XXX
+</div></div>
 <br><br>
 
 
