@@ -64,9 +64,8 @@ Dr. Xiao is an Associate Professor at the Department of Civil Engineering, Shang
 - **Xiao, T.**, Zhang, L. M.*, Cheung, R. W. M., Lacasse, S. (2023). [Predicting spatio-temporal man-made slope failures induced by rainfall in Hong Kong using machine learning techniques](https://doi.org/10.1680/jgeot.21.0016). Géotechnique, 73(9), 749-765.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Geotechnique 2023</div><img src='images/research/2023_Geotechnique_500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Predicting spatio-temporal man-made slope failures induced by rainfall in Hong Kong using machine learning techniques](https://github.com/shortxiaote/shortxiaote.github.io/blob/main/_files/papers/2023_Xiao_Geotechnique.pdf)\| [\[poster\]](https://github.com/shortxiaote/shortxiaote.github.io/blob/main/_files/posters/Geotechnique%20Poster.pdf)
+**Predicting spatio-temporal man-made slope failures induced by rainfall in Hong Kong using machine learning techniques** \| [\[pdf\]](https://github.com/shortxiaote/shortxiaote.github.io/blob/main/_files/papers/2023_Xiao_Geotechnique.pdf) \| [\[poster\]](https://github.com/shortxiaote/shortxiaote.github.io/blob/main/_files/posters/Geotechnique%20Poster.pdf)
 <br>
-**Xiao, T.**, Zhang, L. M.*, Cheung, R. W. M., Lacasse, S.
 - The machine learning model incorporates landslide time and consequences into susceptibility mapping to achieve spatio-temporal forecasting.
 - The machine learning model significantly outperforms the statistical rainfall-landslide correlations.
 </div></div>
