@@ -169,10 +169,10 @@ Li, D. Q., **Xiao, T.**, Cao, Z. J.*, Phoon, K. K., Zhou, C. B. (2016). [Efficie
 - XXX
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CGE 2025</div><img src='images/research/2025_Xiao_CGE_500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CJGE 2025</div><img src='images/research/2025_Xiao_CJGE_500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Xiao, T.**, Li, D. Q.*, Zhou, C. B. (2025). [Collaborative risk assessment approach in geotechnical engineering 岩土工程协同式风险评估方法](https://doi.org/). Chinese Journal of Geotechnical Engineering, 47(7), 1335-1343. (in Chinese) \| [\[pdf\]](https://github.com/shortxiaote/shortxiaote.github.io/blob/main/_files/papers/2025_Xiao_CGE.pdf)
+**Xiao, T.**, Li, D. Q.*, Zhou, C. B. (2025). [Collaborative risk assessment approach in geotechnical engineering 岩土工程协同式风险评估方法](https://doi.org/). Chinese Journal of Geotechnical Engineering, 47(7), 1335-1343. (in Chinese) \| [\[pdf\]](https://github.com/shortxiaote/shortxiaote.github.io/blob/main/_files/papers/2025_Xiao_CJGE.pdf)
 
 **Highlights**
 - XXX
