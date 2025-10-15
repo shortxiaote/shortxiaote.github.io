@@ -62,6 +62,23 @@ Dr. Xiao is an Associate Professor at the Department of Civil Engineering, Shang
 **Journal papers**<br>
 [**Intelligent hazard risk management**]
 - **Xiao, T.**, Zhang, L. M.*, Cheung, R. W. M., Lacasse, S. (2023). [Predicting spatio-temporal man-made slope failures induced by rainfall in Hong Kong using machine learning techniques](https://doi.org/10.1680/jgeot.21.00160). Géotechnique, 73(9), 749-765.
+- **Xiao, T.**, Zhang, L. M.* (2023). [Data-driven landslide forecasting: methods, data completeness, and real-time warning](https://doi.org/). Engineering Geology, 317, 107068.
+- Ju, L. Y., **Xiao, T.***, He, J., Wang, H. J., Zhang, L. M. (2022). [Predicting landslide runout paths using terrain matching-targeted machine learning](https://doi.org/). Engineering Geology, 311, 106902.
+- Qiang, Y. J., **Xiao, T.***, He, J., Zhang, L. M. (2025). [Multi-hazard stress testing under extreme rainstorms in the Shenzhen metropolitan area](https://doi.org/). Georisk: Assessment and Management of Risk for Engineered Systems and Geohazards, 19(3), 467-485.
+- Zhang, L. M.*, **Xiao, T.**, He, J., Chen, C. (2019). [Erosion-based analysis of breaching of Baige landslide dams on the Jinsha River, China, in 2018](https://doi.org/). Landslides, 16(10), 1965-1979.
+- Ju, L. Y., **Xiao, T.**, He, J., Xu, W. F., Xiao, S. H., Zhang, L. M.* (2025). [A simulation-enabled slope digital twin for real-time assessment of rain-induced landslides](https://doi.org/). Engineering Geology, 353, 108116.
+- Xiao, S. H., **Xiao, T.**, Jiang, R. C., Wang, H. J., Ju, L. Y., Zhang, L. M.* (2024). [Two-phase strategy for rapid and unbiased assessment of earthquake-induced landslides](https://doi.org/). Engineering Geology, 336, 107562.
+- Wang, H. J., **Xiao, T.**, Li, X. Y., Zhang, L. L., Zhang, L. M.* (2019). [A novel physically-based model for updating landslide susceptibility](https://doi.org/). Engineering Geology, 251, 71-80.
+- Xiao, S. H., Zhang, L. M.*, **Xiao, T.**, Jiang, R. C., Peng, D. L., Lu, W. J., He, X. (2024). Landslide damming threats along the Jinsha River, China. Engineering, 42, 326-339.
+- Ju, L. Y., Zhang, L. M.*, **Xiao, T.** (2023). Power laws for accurate determination of landslide volume based on high-resolution LiDAR data. Engineering Geology, 312, 106935.
+- Qiang, Y. J., Zhang, L. M.*, **Xiao, T.** (2020). Spatial-temporal rain field generation for the Guangdong-Hong Kong-Macau Greater Bay Area considering climate change. Journal of Hydrology, 583, 124584.
+- He, J., Zhang, L. M.*, **Xiao, T.**, Wang, H. J., Luo, H. Y. (2023). Prompt quantitative risk assessment for rain-induced landslides. Journal of Geotechnical and Geoenvironmental Engineering, 149(5), 04023023.
+- He, J., Zhang, L. M.*, **Xiao, T.**, Wang, H. J., Luo, H. Y. (2023). Deep learning enables super-resolution hydrodynamic flooding process modelling under spatiotemporally varying rainstorms. Water Research, 239, 120057.
+- Chen, C., Zhang, L. M.*, **Xiao, T.**, He, J. (2020). Barrier lake bursting and flood routing in the Yarlung Tsangpo Grand Canyon in October 2018. Journal of Hydrology, 583, 124603.
+- Qiang, Y. J., He, J., **Xiao, T.**, Lu, W. J., Li, J. H., Zhang, L. M.* (2021). Coastal town flooding upon compound rainfall-wave overtopping-storm surge during extreme tropical cyclones in Hong Kong. Journal of Hydrology: Regional Studies, 37, 100890.
+- Wang, J., Zeng, P.*, **Xiao, T.**, Peng, M., Li, T., Zhang, H., Sun, X. (2025). Calibrating soil erodibility parameters of landslide dams using back analyses. Georisk: Assessment and Management of Risk for Engineered Systems and Geohazards, 1-22.
+- Qiang, Y. J., Zhang, L. M.*, He, J., **Xiao, T.**, Huang, H. H., Wang, H. J. (2021). Urban flood analysis for Pearl River Delta cities using an equivalent drainage method upon combined rainfall-high tide-storm surge events. Journal of Hydrology, 597, 126293.
+- He, J., Zhang, L. M.*, **Xiao, T.**, Chen, C. (2022). Emergency risk management for landslide dam breaks in 2018 on the Yangtze River, China. Resilient Cities and Structures, 1(3), 1-11.
 
 [**Geotechnical risk and reliability**]
 - **Xiao, T.**, Li, D. Q.*, Cao, Z. J., Au, S. K., Phoon, K. K. (2016). [Three-dimensional slope reliability and risk assessment using auxiliary random finite element method](https://doi.org/). Computers and Geotechnics, 79, 146-158.
