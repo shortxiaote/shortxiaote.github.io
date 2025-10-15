@@ -61,9 +61,10 @@ Dr. Xiao is an Associate Professor at the Department of Civil Engineering, Shang
 
 **Journal papers**<br>
 [**Intelligent hazard risk management**]
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Geotechnique 2023</div><img src='images/research/2023_Geotechnique_500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Predicting spatio-temporal man-made slope failures induced by rainfall in Hong Kong using machine learning techniques](https://github.com/shortxiaote/shortxiaote.github.io/blob/main/_files/papers/2023_Xiao_Geotechnique.pdf)
+<br>
 **Xiao, T.**, Zhang, L. M.*, Cheung, R. W. M., Lacasse, S.
 - The machine learning model incorporates landslide time and consequences into conventional landslide susceptibility mapping to achieve spatio-temporal landslide forecasting.
 - The machine learning model significantly outperforms the statistical rainfall-landslide correlations, not only in the prediction accuracy but also in the ability to predict both landslide locations and consequences.
