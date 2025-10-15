@@ -90,7 +90,8 @@
     flex-direction: row;
     flex-wrap: wrap;
     border-bottom: 1px #efefef solid;
-    padding: 2em 0 2em 0;
+    padding: 0.5em 0 0.5em 0;
+    margin: 0 auto;
 
     .image-box-image{
         justify-content: center;
@@ -98,7 +99,7 @@
         width: 100%;
         order: 2;
         img {
-            max-width: 600px;
+            max-width: 800px;
             box-shadow: 3px 3px 6px #888;
             object-fit: cover;
         }
