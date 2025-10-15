@@ -139,7 +139,7 @@ Dr. Xiao is an Associate Professor at the Department of Civil Engineering, Shang
 
 
 ---
-# 🌍 Professional Services
+# 🌍 Services
 **Journal editorial services**
 - *2024 – present*, **Assistant Editor & Editorial Board Member**, [Georisk: Assessment and Management of Risk for Engineered Systems and Geohazards](https://www.tandfonline.com/toc/ngrk20/current)
 - *2024 – present*, Early Career Editorial Board Member, Intelligent Geoengineering
@@ -195,6 +195,12 @@ Dr. Xiao is an Associate Professor at the Department of Civil Engineering, Shang
 - *2013*, Outstanding Bachelor’s Thesis, Education Board of Hubei Province
 - *2021*, Frontrunner 5000 - Top Articles in Outstanding S&T Journals of China, Institute of Scientific and Technical Information of China, twice
 - *2023*, Excellent Paper Award, Joint Workshop on Future of Machine Learning in Geotechnics & Use of Urban Geoinformation for Geotechnical Practice
+<br><br>
+
+
+---
+# 👥 Group
+- *2025.02*: 🎉🎉 To be updated. 
 <br><br><br>
 
 
