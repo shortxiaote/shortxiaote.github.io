@@ -18,16 +18,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 Dr. Te Xiao is an Associate Professor at the Department of Civil Engineering, Shanghai Jiao Tong University. His main research interests include geotechnical risk and reliability, machine learning and digital twins, uncertainty characterization in site investigation, landslide hazard chains, risk-informed decision-making, etc. He has authored 40+ peer-reviewed journal papers and one academic monograph. He is the recipient of the NSFC Excellent Young Scientists Fund (Overseas)，ISSMGE Bright Spark Lecture Award, and HKIE Geotechnical Paper Award.
-<!-- 
+
 <a href='https://scholar.google.com/citations?user=blUFYi4AAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fshortxiaote%2Fshortxiaote.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
--->
+
 <br><br>
 
 
 ---
 # 🔥 News
-- *2025.09*: 🎉🎉 Welcome Xianchong Li, Bingkun Song, and Shakhnoza Kambaralieva (Sasha) to our research group! Sasha from Uzbekistan is the first international student in our group.
-- *2024.09*: 🎉🎉 Welcome Heng Zhou and Jinbo Yi to our research group!
+- *2025.09*: 🎉🎉 Welcome **Xianchong Li**, **Bingkun Song**, and **Shakhnoza Kambaralieva (Sasha)** to our research group! Sasha from Uzbekistan is the first international student in our group.
+- *2024.09*: 🎉🎉 Welcome **Heng Zhou** and **Jinbo Yi** to our research group!
 - *2024.01*: 🎉🎉 Engineering Risk Group @SJTU is established. Welcome to following our WeChat Official Account <span style="color:#00008B">**SJU工程风险课题组**</span>.
 <div class='image-box'><div class='image-box-image'><div><img src='images/Wechat QR code.jpg' alt="img" width="40%"></div></div></div>
 <br><br>
@@ -138,8 +138,8 @@ Dr. Te Xiao is an Associate Professor at the Department of Civil Engineering, Sh
 - **Xiao, T.**, Li, D. Q.*, Cao, Z. J., Au, S. K., Phoon, K. K. (2016). [Three-dimensional slope reliability and risk assessment using auxiliary random finite element method](https://doi.org/10.1016/j.compgeo.2016.05.024). Computers and Geotechnics, 79, 146-158. \| [\[pdf\]](https://github.com/shortxiaote/shortxiaote.github.io/blob/main/_files/papers/2016_Xiao_CG.pdf)
 
   **Highlights**
-  - XXX
-  - XXX
+  - An auxiliary random finite element method is proposed for efficient 3-D slope reliability analysis and risk assessment.
+  - Spatial variability can significantly influence the failure mode, reliability and risk of 3-D slopes.
 </div></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Georisk 2017</div><img src='images/research/2017_Xiao_Georisk_500x300.png' alt="img" width="100%"></div></div>
@@ -148,8 +148,8 @@ Dr. Te Xiao is an Associate Professor at the Department of Civil Engineering, Sh
 - **Xiao, T.**, Li, D. Q.*, Cao, Z. J., Tang, X. S. (2017). [Full probabilistic design of slopes in spatially variable soils using simplified reliability analysis method](https://doi.org/10.1080/17499518.2016.1250279). Georisk, 11(1), 146-159. \| [\[pdf\]](https://github.com/shortxiaote/shortxiaote.github.io/blob/main/_files/papers/2017_Xiao_Georisk.pdf)
 
   **Highlights**
-  - XXX
-  - XXX
+  - A simplified reliability analysis method is proposed for efficient full probabilistic design of soil slopes in spatially variable soils.
+  - The spatial variability has considerable effects on the optimal slope design.
 </div></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Landslides 2016</div><img src='images/research/2016_Li_Landslides_500x300.png' alt="img" width="100%"></div></div>
@@ -158,8 +158,7 @@ Dr. Te Xiao is an Associate Professor at the Department of Civil Engineering, Sh
 - Li, D. Q., **Xiao, T.**, Cao, Z. J.*, Zhou, C. B., Zhang, L. M. (2016). [Enhancement of random finite element method in reliability analysis and risk assessment of soil slopes using Subset Simulation](https://doi.org/10.1007/s10346-015-0569-2). Landslides, 13(2), 293-303. \| [\[pdf\]](https://github.com/shortxiaote/shortxiaote.github.io/blob/main/_files/papers/2016_Li_Landslides.pdf)
 
   **Highlights**
-  - XXX
-  - XXX
+  - A subset-simulation-based random finite element method (RFEM) is proposed to extend RFEM from reliability analysis to risk assessment in an efficient manner.
 </div></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AMM 2016</div><img src='images/research/2016_Li_AMM_500x300.png' alt="img" width="100%"></div></div>
@@ -168,18 +167,18 @@ Dr. Te Xiao is an Associate Professor at the Department of Civil Engineering, Sh
 - Li, D. Q., **Xiao, T.**, Cao, Z. J.*, Phoon, K. K., Zhou, C. B. (2016). [Efficient and consistent reliability analysis of soil slope stability using both limit equilibrium analysis and finite element analysis](https://doi.org/10.1016/j.apm.2015.11.044). Applied Mathematical Modelling, 40(9-10), 5216-5229. \| [\[pdf\]](https://github.com/shortxiaote/shortxiaote.github.io/blob/main/_files/papers/2016_Li_AMM.pdf)
 
   **Highlights**
-  - XXX
-  - XXX
+  - A probabilistic simulation-based method is proposed for slope reliability analysis based on two models, i.e., a simple LEM and a complex FEM.
+  - The method can obtain an efficient and unbiased estimation of failure probability. 
 </div></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CJGE 2025</div><img src='images/research/2025_Xiao_CJGE_500x300.png' alt="img" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- **Xiao, T.**, Li, D. Q.*, Zhou, C. B. (2025). [Collaborative risk assessment approach in geotechnical engineering 岩土工程协同式风险评估方法](https://doi.org/). Chinese Journal of Geotechnical Engineering, 47(7), 1335-1343. (in Chinese) \| [\[pdf\]](https://github.com/shortxiaote/shortxiaote.github.io/blob/main/_files/papers/2025_Xiao_CJGE.pdf)
+- **Xiao, T.**, Li, D. Q.*, Zhou, C. B. (2025). [Collaborative risk assessment approach in geotechnical engineering 岩土工程协同式风险评估方法](https://doi.org/10.11779/CJGE20240581). Chinese Journal of Geotechnical Engineering, 47(7), 1335-1343. (in Chinese) \| [\[pdf\]](https://github.com/shortxiaote/shortxiaote.github.io/blob/main/_files/papers/2025_Xiao_CJGE.pdf)
 
   **Highlights**
-  - XXX
-  - XXX
+  - A collaborative risk assessment approach is proposed for real-world geotechnical engineering problems.
+  - The approach can integrate the advantages of multiple models in terms of efficiency and accuracy.
 </div></div>
 
 - Wang, S., **Xiao, T.**, Li, G., Lv, Y., Dai, C., Zhan, L., Chen, Y., Zhang, S.* (2024). Spatial variability characterization of clayey waste soils and its impact on probabilistic stability assessment of a landfill slope. Acta Geotechnica, 19(8), 5157-5174.
@@ -334,7 +333,7 @@ Dr. Te Xiao is an Associate Professor at the Department of Civil Engineering, Sh
 <div class='image-box-text' markdown="1">
 - *2025.01*: 🎉🎉 Happy New Year!!
 </div></div>
-<br><br><br>
+<br><br>
 
 
 Copyright © 2025 Te Xiao. All rights reserved.
