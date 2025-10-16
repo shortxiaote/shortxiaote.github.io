@@ -195,8 +195,8 @@ Dr. Te Xiao (肖特) is an Associate Professor at the Department of Civil Engine
 - **Xiao, T.**, Li, D. Q.*, Cao, Z. J., Zhang, L. M. (2018). [CPT-based probabilistic characterization of three-dimensional spatial variability using MLE](https://doi.org/10.1061/(ASCE)GT.1943-5606.0001875). Journal of Geotechnical and Geoenvironmental Engineering, 114(5), 04018023. \| [\[pdf\]](https://github.com/shortxiaote/shortxiaote.github.io/blob/main/_files/papers/2018_Xiao_JGGE.pdf) <strong><span class='show_paper_citations' data='blUFYi4AAAAJ:5nxA0vEk-isC'></span></strong>
 
   **Highlights**
-  - XXX
-  - XXX
+  - A CPT–based probabilistic approach for characterizing 3D spatial variability underlying the framework of MLE.
+  - Simultaneous vertical and horizontal characterization based on multiple CPTs is a feasible way for 3D spatial variability characterization in the presence of limited data.
 </div></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JRUES 2017</div><img src='images/research/2017_Xiao_JRUES_500x300.png' alt="img" width="100%"></div></div>
@@ -205,8 +205,8 @@ Dr. Te Xiao (肖特) is an Associate Professor at the Department of Civil Engine
 - **Xiao, T.**, Zhang, L. M.*, Li, X. Y., Li, D. Q. (2017). [Probabilistic stratification modeling in geotechnical site characterization](https://doi.org/10.1061/AJRUA6.0000924). ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems, Part A: Civil Engineering, 3(4), 04017019. \| [\[pdf\]](https://github.com/shortxiaote/shortxiaote.github.io/blob/main/_files/papers/2017_Xiao_JRUES.pdf) <strong><span class='show_paper_citations' data='blUFYi4AAAAJ:hqOjcs7Dif8C'></span></strong>
 
   **Highlights**
-  - XXX
-  - XXX
+  - A three-level probabilistic framework is proposed for geotechnical stratification modeling considering stratigraphic uncertainty.
+  - A heuristic combination model is recommended to combine the advantages of the boundary-based and category-based stratigraphic models.
 </div></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">BOEG 2021</div><img src='images/research/2021_Xiao_BOEG_500x300.png' alt="img" width="100%"></div></div>
@@ -215,8 +215,8 @@ Dr. Te Xiao (肖特) is an Associate Professor at the Department of Civil Engine
 - **Xiao, T.**, Zou, H. F., Yin, K. S., Du, Y., Zhang, L. M.* (2021). [Machine learning-enhanced soil classification by integrating borehole and CPTU data with noise filtering](https://doi.org/10.1007/s10064-021-02478-x). Bulletin of Engineering Geology and the Environment, 80(12), 9157-9171. \| [\[pdf\]](https://github.com/shortxiaote/shortxiaote.github.io/blob/main/_files/papers/2021_Xiao_BOEG.pdf) <strong><span class='show_paper_citations' data='blUFYi4AAAAJ:r0BpntZqJG4C'></span></strong>
 
   **Highlights**
-  - XXX
-  - XXX
+  - A coupled machine learning method is proposed to integrate the borehole and CPTU data under a rigorous Bayesian framework and to identify and separate the noisy CPTU data.
+  - The method is applied to the marine site characterization of the Hong Kong-Zhuhai-Macao Bridge.
 </div></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AMM 2019</div><img src='images/research/2019_Li_AMM_500x300.png' alt="img" width="100%"></div></div>
@@ -225,8 +225,8 @@ Dr. Te Xiao (肖特) is an Associate Professor at the Department of Civil Engine
 - Li, D. Q.*, **Xiao, T.**, Zhang, L. M., Cao, Z. J. (2019). [Stepwise covariance matrix decomposition for efficient simulation of multivariate large-scale three-dimensional random fields](https://doi.org/10.1016/j.apm.2018.11.011). Applied Mathematical Modelling, 68, 169-181. \| [\[pdf\]](https://github.com/shortxiaote/shortxiaote.github.io/blob/main/_files/papers/2019_Li_AMM.pdf) <strong><span class='show_paper_citations' data='blUFYi4AAAAJ:aqlVkmm33-oC'></span></strong>
 
   **Highlights**
-  - XXX
-  - XXX
+  - A stepwise covariance matrix decomposition method is proposed for multivariate large-scale 3-D random field simulation.
+  - The requirement on memory space can be reduced by ten orders of magnitude.
 </div></div>
 
 - Yin, K. S., **Xiao, T.**, Luo, H. Y., Zou, H. F., Zhang, L. M.* (2023). Probabilistic modeling of offshore deep cement mixing improved ground. Computers and Geotechnics, 156, 105266.
@@ -243,8 +243,8 @@ Dr. Te Xiao (肖特) is an Associate Professor at the Department of Civil Engine
 - Zhao, F. Y., Zhang, L. L., **Xiao, T.***, Chen, Y. M. (2025). [An equivalent state method for submarine spread modeling subject to hydrate dissociation](https://doi.org/10.1016/j.enggeo.2025.108070). Engineering Geology, 352, 108070. \| [\[pdf\]](https://github.com/shortxiaote/shortxiaote.github.io/blob/main/_files/papers/2025_Zhao_EG.pdf)
 
   **Highlights**
-  - XXX
-  - XXX
+  - An equivalent state method is proposed to couple hydrate dissociation and submarine spreading.
+  - Three key stages of hydrate-induced submarine spreading are identified.
 </div></div>
 <br><br>
 
