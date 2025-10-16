@@ -67,6 +67,7 @@ Dr. Te Xiao (肖特) is an Associate Professor at the Department of Civil Engine
 <div class='paper-box-text' markdown="1">
 
 - **Xiao, T.**, Zhang, L. M.*, Cheung, R. W. M., Lacasse, S. (2023). [Predicting spatio-temporal man-made slope failures induced by rainfall in Hong Kong using machine learning techniques](https://doi.org/10.1680/jgeot.21.0016). Géotechnique, 73(9), 749-765. \| [\[pdf\]](https://github.com/shortxiaote/shortxiaote.github.io/blob/main/_files/papers/2023_Xiao_Geotechnique.pdf) \| [\[poster\]](https://github.com/shortxiaote/shortxiaote.github.io/blob/main/_files/posters/Geotechnique%20Poster.pdf)
+<span class='show_paper_citations' data='blUFYi4AAAAJ:iH-uZ7U-co4C'></span>
 
   **Highlights**
   - The machine learning model incorporates landslide time and consequences into susceptibility mapping to achieve spatio-temporal forecasting.
