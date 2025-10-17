@@ -25,6 +25,17 @@ Dr. Te Xiao (肖特) is an Associate Professor at the Department of Civil Engine
 # 🔥 News
 - *2025.10*: 🎉🎉 Bingkun Song makes a presentation at the Third Workshop on the Future of Machine Learning in Geotechnics (3FOMLIG), Florence, Italy.
 - *2025.09*: 🎉🎉 Welcome **Xianchong Li**, **Bingkun Song**, and **Shakhnoza Kambaralieva (Sasha)** to our research group! Sasha from Uzbekistan is the first international student in our group.
+
+<div class='news-box'><div class='news-box-image'><div><img src='images/activities/2025_ISGSR.jpg' alt="img" width="100%"></div></div>
+<div class='news-box-text' markdown="1">
+- *2025.08*: 🎉🎉 Dr. Te Xiao chairs the IS8 (Risk management practice in geotechnical engineering) at the 9th International Symposium for Geotechnical Safety and Risk, Oslo, Norway.
+</div></div>
+
+<div class='news-box'><div class='news-box-image'><div><img src='images/activities/2025_ICOLD.jpg' alt="img" width="100%"></div></div>
+<div class='news-box-text' markdown="1">
+- *2025.04*: 🎉🎉 Dr. Te Xiao serves as the technical secretary for Question 109 (Dams and levees fit for the future) at the 28th Congress of International Commission on Large Dams, Chengdu.
+</div></div>
+
 - *2024.09*: 🎉🎉 Welcome **Heng Zhou** and **Jinbo Yi** to our research group.
 - *2024.08*: 🎉🎉 Dr. Te Xiao is awarded the NSFC Young Scientists Fund.
 
