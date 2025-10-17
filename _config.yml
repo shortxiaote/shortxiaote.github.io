@@ -24,13 +24,14 @@ author:
   name             : "Te Xiao"
   avatar           : "images/profile.png"
   bio              :
-  location         : "Shanghai, China"
   employer         : "Shanghai Jiao Tong University"
-  pubmed           : 
-  googlescholar    : "https://scholar.google.com.hk/citations?user=blUFYi4AAAAJ"
+  location         : "Shanghai, China"
   email            : "xiaote@sjtu.edu.cn"
-  researchgate     : "https://www.researchgate.net/profile/Te-Xiao-2"
   uri              : "https://oce.sjtu.edu.cn/teachers/xiaote.html"
+  googlescholar    : "https://scholar.google.com.hk/citations?user=blUFYi4AAAAJ"
+  researchgate     : "https://www.researchgate.net/profile/Te-Xiao-2"
+  orcid            : "https://orcid.org/0000-0003-4935-892X"
+  pubmed           : 
   bitbucket        :
   codepen          :
   dribbble         :
@@ -45,7 +46,6 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0000-0003-4935-892X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
