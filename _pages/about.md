@@ -61,7 +61,7 @@ Dr. Te Xiao (肖特) is an Associate Professor at the Department of Civil Engine
 <br>
 
 ## Journal papers
-## \[Intelligent hazard risk management\]
+## <span style="color:#19469D">\[Intelligent hazard risk management\]</span>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Geotechnique 2023</div><img src='images/research/2023_Xiao_Geotechnique_500x300.png' alt="img" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -127,7 +127,7 @@ Dr. Te Xiao (肖特) is an Associate Professor at the Department of Civil Engine
 - Qiang, Y. J., Zhang, L. M.*, He, J., **Xiao, T.**, Huang, H. H., Wang, H. J. (2021). Urban flood analysis for Pearl River Delta cities using an equivalent drainage method upon combined rainfall-high tide-storm surge events. Journal of Hydrology, 597, 126293.
 - He, J., Zhang, L. M.*, **Xiao, T.**, Chen, C. (2022). Emergency risk management for landslide dam breaks in 2018 on the Yangtze River, China. Resilient Cities and Structures, 1(3), 1-11.
 
-## \[Geotechnical risk and reliability\]
+## <span style="color:#19469D">\[Geotechnical risk and reliability\]</span>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CG 2016</div><img src='images/research/2016_Xiao_CG_500x300.png' alt="img" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -188,7 +188,8 @@ Dr. Te Xiao (肖特) is an Associate Professor at the Department of Civil Engine
 - Li, D. Q., **Xiao, T.**, Cao, Z. J.*, Tang, S. X., Phoon, K. K. (2016). [Auxiliary slope reliability analysis using limit equilibrium analysis and finite element analysis 基于极限平衡法和有限元法的边坡协同式可靠度分析](https://doi.org/). Chinese Journal of Geotechnical Engineering, 38(6), 1004-1013. (in Chinese)
 - Li, D. Q.*, **Xiao, T.**, Cao, Z. J., Zhou, C. B., Phoon, K. K. (2016). [Slope risk assessment using efficient random finite element method 基于高效随机有限元法的边坡风险评估](https://doi.org/). Rock and Soil Mechanics, 37(7), 1994-2003. (in Chinese)
 
-## \[Probabilistic site characterization and modeling\]
+## <span style="color:#19469D">\[Probabilistic site characterization and modeling\]</span>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JGGE 2018</div><img src='images/research/2018_Xiao_JGGE_500x300.png' alt="img" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -236,7 +237,8 @@ Dr. Te Xiao (肖特) is an Associate Professor at the Department of Civil Engine
 - Zhang, F. P., Li, D. Q., Cao, Z. J.*, **Xiao, T.**, Zhao, J. (2018). Revisiting statistical correlation between Mohr-Coulomb shear strength parameters of Hoek-Brown rock masses. Tunnelling and Underground Space Technology, 77, 36-44.
 - Li, P. P., Li, D. Q., **Xiao, T.***, Cao, Z. J. (2018). Bayesian updating of excavation considering model uncertainty 考虑经验模型不确定性的基坑开挖贝叶斯更新. Journal of Natural Disasters, 27(4), 143-150. (in Chinese)
 
-## \[Offshore geotechnics\]
+## <span style="color:#19469D">\[Offshore geotechnics\]</span>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EG 2025</div><img src='images/research/2025_Zhao_EG_500x300.png' alt="img" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
