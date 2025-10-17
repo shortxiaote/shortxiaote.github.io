@@ -28,12 +28,16 @@ Dr. Te Xiao (肖特) is an Associate Professor at the Department of Civil Engine
 
 <div class='news-box'><div class='news-box-image'><div><img src='images/activities/2025_ISGSR.jpg' alt="img" width="100%"></div></div>
 <div class='news-box-text' markdown="1">
+
 - *2025.08*: 🎉🎉 Dr. Te Xiao chairs the IS8 (Risk management practice in geotechnical engineering) at the 9th International Symposium for Geotechnical Safety and Risk, Oslo, Norway.
+
 </div></div>
 
 <div class='news-box'><div class='news-box-image'><div><img src='images/activities/2025_ICOLD.jpg' alt="img" width="100%"></div></div>
 <div class='news-box-text' markdown="1">
+
 - *2025.04*: 🎉🎉 Dr. Te Xiao serves as the technical secretary for Question 109 (Dams and levees fit for the future) at the 28th Congress of International Commission on Large Dams, Chengdu.
+
 </div></div>
 
 - *2024.09*: 🎉🎉 Welcome **Heng Zhou** and **Jinbo Yi** to our research group.
@@ -41,12 +45,16 @@ Dr. Te Xiao (肖特) is an Associate Professor at the Department of Civil Engine
 
 <div class='news-box'><div class='news-box-image'><div><img src='images/activities/2024_HKIE Geotechnical Paper Award.jpg' alt="img" width="100%"></div></div>
 <div class='news-box-text' markdown="1">
+
 - *2024.05*: 🎉🎉 Dr. Te Xiao wins the HKIE Geotechnical Paper Award 2024.
+
 </div></div>
 
-<div class='news-box'><div class='news-box-image'><div><img src='images/Wechat QR code.jpg' alt="img" width="70%"></div></div>
+<div class='news-box'><div class='news-box-image'><div><img src='images/Wechat QR code.jpg' alt="img" width="60%"></div></div>
 <div class='news-box-text' markdown="1">
-- *2024.01*: 🎉🎉 Engineering Risk Group @SJTU is established. Welcome to following our WeChat Official Account <span style="color:#19469D">**SJU工程风险课题组**</span>.
+  
+- *2024.01*: 🎉🎉 Engineering Risk Group @SJTU is established. Welcome to following our WeChat Official Account **SJU工程风险课题组**.
+
 </div></div>
 <br><br>
 
@@ -346,12 +354,16 @@ Dr. Te Xiao (肖特) is an Associate Professor at the Department of Civil Engine
 # 👥 Group Activities
 <div class='image-box'><div class='image-box-image'><div><img src='images/activities/2025_Icebreaker Dinner.jpg' alt="img" width="100%"></div></div>
 <div class='image-box-text' markdown="1">
+
 - *2025.09*: 🎉🎉 Icebreaker Dinner
+
 </div></div>
 
 <div class='image-box'><div class='image-box-image'><div><img src='images/activities/2025_New Year.jpg' alt="img" width="100%"></div></div>
 <div class='image-box-text' markdown="1">
+
 - *2025.01*: 🎉🎉 Happy New Year!!
+
 </div></div>
 <br><br>
 
