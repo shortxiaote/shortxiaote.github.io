@@ -252,7 +252,7 @@ Dr. Te Xiao (肖特) is an Associate Professor at the Department of Civil Engine
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AMM 2019</div><img src='images/research/2019_Li_AMM_500x300.png' alt="img" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- Li, D. Q.*, **Xiao, T.**, Zhang, L. M., Cao, Z. J. (2019). [Stepwise covariance matrix decomposition for efficient simulation of multivariate large-scale three-dimensional random fields](https://doi.org/10.1016/j.apm.2018.11.011). Applied Mathematical Modelling, 68, 169-181. \| [\[pdf\]](https://github.com/shortxiaote/shortxiaote.github.io/blob/main/_files/papers/2019_Li_AMM.pdf) <strong><span class='show_paper_citations' data='blUFYi4AAAAJ:aqlVkmm33-oC'></span></strong>
+- Li, D. Q.*, **Xiao, T.**, Zhang, L. M., Cao, Z. J. (2019). [Stepwise covariance matrix decomposition for efficient simulation of multivariate large-scale three-dimensional random fields](https://doi.org/10.1016/j.apm.2018.11.011). Applied Mathematical Modelling, 68, 169-181. \| [\[pdf\]](https://github.com/shortxiaote/shortxiaote.github.io/blob/main/_files/papers/2019_Li_AMM.pdf) \| [\[code\]](https://github.com/shortxiaote/shortxiaote.github.io/blob/main/_files/code/StepwiseCMD_demo.m) <strong><span class='show_paper_citations' data='blUFYi4AAAAJ:aqlVkmm33-oC'></span></strong>
 
   **Highlights**
   - A stepwise covariance matrix decomposition method is proposed for multivariate large-scale 3-D random field simulation.
