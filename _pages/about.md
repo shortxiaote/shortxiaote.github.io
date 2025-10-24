@@ -75,7 +75,7 @@ Dr. Te Xiao (肖特) is an Associate Professor at the Department of Civil Engine
 
 ---
 # 💼 Projects
-- *2025 – 2027*,	**PI**, **NSFC Excellent Young Scientists Fund (Overseas)**, Digital twin-powered risk control and emergency management for landslide hazards
+- *2025 – 2027*,	**PI**, **NSFC Excellent Young Scientists Fund (Overseas)**, Digital twin-powered risk mitigation and emergency management for landslide hazards
 - *2025 – 2027*,	**PI**, NSFC Young Scientists Fund, Methods for regional landslide spatiotemporal prediction and risk-informed early warning using incomplete data
 - *2024 – 2028*,	Co-I, RGC Theme-based Research Scheme, Digital twin-empowered landslide emergency risk management
 - *2021 – 2024*,	Co-I, NSFC-RGC Joint Research Scheme, Evolution of landslide hazard chains triggered by strong earthquakes and the associated dynamic risk management
@@ -213,9 +213,9 @@ Dr. Te Xiao (肖特) is an Associate Professor at the Department of Civil Engine
 - Zhou, Z., Li, D. Q.*, **Xiao, T.**, Cao, Z. J., Du, W. (2021). Response surface guided adaptive slope reliability analysis in spatially varying soils. Computers and Geotechnics, 132, 103966.
 - Li, X. Y., Zhang, L. M.*, **Xiao, T.**, Zhang, S., Chen, C. (2019). Learning failure modes of soil slopes using monitoring data. Probabilistic Engineering Mechanics, 56, 50-57.
 - Li, X. Y., Fan, Z. B., Lu, T., **Xiao, T.**, Zhang, L. M.* (2018). A resilience model for engineered slopes subject to anchor corrosion. KSCE Journal of Civil Engineering, 22(3), 887-895.
-- **Xiao, T.**, Li, D. Q.*, Zhou, C. B., Phoon, K. K. (2014). [Non-intrusive reliability analysis of multi-layered slopes using strength reduction FEM 基于有限元强度折减法的多层边坡非侵入式可靠度分析](https://doi.org/). Journal of Basic Science and Engineering, 22(4), 718-732. (in Chinese)
-- Li, D. Q., **Xiao, T.**, Cao, Z. J.*, Tang, S. X., Phoon, K. K. (2016). [Auxiliary slope reliability analysis using limit equilibrium analysis and finite element analysis 基于极限平衡法和有限元法的边坡协同式可靠度分析](https://doi.org/). Chinese Journal of Geotechnical Engineering, 38(6), 1004-1013. (in Chinese)
-- Li, D. Q.*, **Xiao, T.**, Cao, Z. J., Zhou, C. B., Phoon, K. K. (2016). [Slope risk assessment using efficient random finite element method 基于高效随机有限元法的边坡风险评估](https://doi.org/). Rock and Soil Mechanics, 37(7), 1994-2003. (in Chinese)
+- **Xiao, T.**, Li, D. Q.*, Zhou, C. B., Phoon, K. K. (2014). Non-intrusive reliability analysis of multi-layered slopes using strength reduction FEM 基于有限元强度折减法的多层边坡非侵入式可靠度分析. Journal of Basic Science and Engineering, 22(4), 718-732. (in Chinese)
+- Li, D. Q., **Xiao, T.**, Cao, Z. J.*, Tang, S. X., Phoon, K. K. (2016). Auxiliary slope reliability analysis using limit equilibrium analysis and finite element analysis 基于极限平衡法和有限元法的边坡协同式可靠度分析. Chinese Journal of Geotechnical Engineering, 38(6), 1004-1013. (in Chinese)
+- Li, D. Q.*, **Xiao, T.**, Cao, Z. J., Zhou, C. B., Phoon, K. K. (2016). Slope risk assessment using efficient random finite element method 基于高效随机有限元法的边坡风险评估. Rock and Soil Mechanics, 37(7), 1994-2003. (in Chinese)
 
 ## <span style="color:#19469D">\[Probabilistic site characterization and modeling\]</span>
 
@@ -305,6 +305,7 @@ Dr. Te Xiao (肖特) is an Associate Professor at the Department of Civil Engine
 - *2024 – present*, Early Career Member, Future of Machine Learning in Geotechnics (FOMLIG) Council
 - *2021 – present*, Member, International Society for Soil Mechanics and Geotechnical Engineering (ISSMGE)
 - *2018 – present*, Member, International Society for Rock Mechanics
+- *2018 – present*, Member, China National Committee on Large Dams
 - *2024 – present*, Member, China Civil Engineering Society
 - *2022 – present*, Member, Hong Kong Geotechnical Society
 - *2017 – present*, Associate Member, American Society of Civil Engineers (ASCE)
