@@ -40,6 +40,13 @@ Dr. Te Xiao (肖特) is an Associate Professor at the Department of Civil Engine
 
 </div></div>
 
+<div class='news-box'><div class='news-box-image'><div><img src='images/activities/2025_Short Course.jpg' alt="img" width="100%"></div></div>
+<div class='news-box-text' markdown="1">
+
+- *2025.04*: 🎉🎉 Dr. Te Xiao gives an ISSMGE TC304 Short Course on Geotechnical Reliability Analysis.
+
+</div></div>
+
 - *2024.09*: 🎉🎉 Welcome **Heng Zhou** and **Jinbo Yi** to our research group.
 - *2024.08*: 🎉🎉 Dr. Te Xiao is awarded the NSFC Young Scientists Fund.
 
@@ -286,6 +293,7 @@ Dr. Te Xiao (肖特) is an Associate Professor at the Department of Civil Engine
 ---
 # 💬 Invited Talks
 - *2023*, Machine learning-powered landslide forecasting: from initiation to mobility, **ISSMGE Bright Spark Lecture**, Hong Kong \| [\[pdf\]](https://github.com/shortxiaote/shortxiaote.github.io/blob/main/_files/papers/2023_ISSMGE%20Bright%20Spark%20Lecture.pdf)
+- *2025*, Machine learning-powered landslide forecasting, Webinar Talk for The Institution of Engineers, Malaysia
 - *2025*, 3-D marine geological modeling driven by machine learning and data fusion, The 7th National Young Scholar Symposium on Engineering Risk Analysis & Management, Nanchang
 - *2024*, Machine learning for landslides: from spatio-temporal forecasting to risk assessment,The 6th National Young Scholar Symposium on Engineering Risk Analysis & Management, Nanjing
 - *2022*, Landslide hazard mitigation and early warning system in Hong Kong, The 2022 Summit on Diagnosis and Treatment for Civil Engineering, Shenzhen
