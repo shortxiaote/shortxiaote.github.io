@@ -29,7 +29,7 @@ Dr. Te Xiao (肖特) is an Associate Professor at the Department of Civil Engine
 <div class='news-box'><div class='news-box-image'><div><img src='images/activities/2025_ISGSR.jpg' alt="img" width="100%"></div></div>
 <div class='news-box-text' markdown="1">
 
-- *2025.08*: 🎉🎉 Dr. Te Xiao chairs the IS8 (Risk management practice in geotechnical engineering) at the 9th International Symposium for Geotechnical Safety and Risk, Oslo, Norway.
+- *2025.08*: 🎉🎉 Dr. Te Xiao chairs the IS8 (Risk management practice in geotechnical engineering) at the 9th International Symposium for Geotechnical Safety and Risk, Oslo, Norway, with Prof. Lulu Zhang and Dr. Jian He.
 
 </div></div>
 
@@ -43,7 +43,14 @@ Dr. Te Xiao (肖特) is an Associate Professor at the Department of Civil Engine
 <div class='news-box'><div class='news-box-image'><div><img src='images/activities/2025_Short Course.jpg' alt="img" width="100%"></div></div>
 <div class='news-box-text' markdown="1">
 
-- *2025.04*: 🎉🎉 Dr. Te Xiao gives an ISSMGE TC304 Short Course on Geotechnical Reliability Analysis.
+- *2025.04*: 🎉🎉 Dr. Te Xiao gives an ISSMGE TC304 Short Course on Geotechnical Reliability Analysis, with Prof. Zijun Cao.
+
+</div></div>
+
+<div class='news-box'><div class='news-box-image'><div><img src='images/activities/2024_Student Contest.jpg' alt="img" width="100%"></div></div>
+<div class='news-box-text' markdown="1">
+
+- *2024.10*: 🎉🎉 Dr. Te Xiao organizes the 8th ISSMGE TC304/TC309 Student Contest on landslide detection using machine learning techniques, with Prof. Iason Papaioannou, Prof. Jinhui Li, and Dr. Ronald Schneider.
 
 </div></div>
 
