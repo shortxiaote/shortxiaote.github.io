@@ -362,10 +362,10 @@ Dr. Te Xiao (肖特) is an Associate Professor at the Department of Civil Engine
 - *2023*, 75th Géotechnique Anniversary Early Career Award, Journal Géotechnique
 - *2018*, Georisk Best Paper Award, Journal Georisk
 - *2020*, Georisk Most Cited Award, Journal Georisk
+- *2023*, Excellent Paper Award, Workshop on Future of Machine Learning in Geotechnics
 - *2019*, Outstanding Doctoral Thesis in Hydraulic Engineering, China Association of Hydraulic Engineering Education
 - *2013*, Outstanding Bachelor’s Thesis, Education Board of Hubei Province
 - *2021*, Frontrunner 5000 - Top Articles in Outstanding S&T Journals of China, Institute of Scientific and Technical Information of China, twice
-- *2023*, Excellent Paper Award, Joint Workshop on Future of Machine Learning in Geotechnics & Use of Urban Geoinformation for Geotechnical Practice
 <br><br>
 
 
