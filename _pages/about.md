@@ -371,6 +371,13 @@ Dr. Te Xiao (肖特) is an Associate Professor at the Department of Civil Engine
 
 ---
 # 👥 Group Activities
+<div class='image-box'><div class='image-box-image'><div><img src='images/activities/2026_New Year.jpg' alt="img" width="100%"></div></div>
+<div class='image-box-text' markdown="1">
+
+- *2026.01*: 🎉🎉 Happy New Year!!
+
+</div></div>
+
 <div class='image-box'><div class='image-box-image'><div><img src='images/activities/2025_Icebreaker Dinner.jpg' alt="img" width="100%"></div></div>
 <div class='image-box-text' markdown="1">
 
@@ -382,13 +389,6 @@ Dr. Te Xiao (肖特) is an Associate Professor at the Department of Civil Engine
 <div class='image-box-text' markdown="1">
 
 - *2025.01*: 🎉🎉 Happy New Year!!
-
-</div></div>
-
-<div class='image-box'><div class='image-box-image'><div><img src='images/activities/2026_New Year.jpg' alt="img" width="100%"></div></div>
-<div class='image-box-text' markdown="1">
-
-- *2026.01*: 🎉🎉 Happy New Year!!
 
 </div></div>
 <br><br>
