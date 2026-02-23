@@ -21,11 +21,11 @@ main:
   - title: "Services"
     url: "/#-services"
 
-  - title: "Honors & Awards"
-    url: "/#-honors-and-awards"
+  - title: "Awards"
+    url: "/#-awards"
 
   - title: "Teaching"
     url: "/#-teaching"
 
-  - title: "Group Activities"
-    url: "/#-group-activities"
+  - title: "Group"
+    url: "/#-group"
