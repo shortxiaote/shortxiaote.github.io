@@ -301,10 +301,10 @@ Dr. Te Xiao (肖特) is an Associate Professor at the Department of Civil Engine
 # 💬 Invited Talks
 - *2023*, Machine learning-powered landslide forecasting: from initiation to mobility, **ISSMGE Bright Spark Lecture**, Hong Kong \| [\[pdf\]](https://github.com/shortxiaote/shortxiaote.github.io/blob/main/_files/papers/2023_ISSMGE%20Bright%20Spark%20Lecture.pdf)
 - *2025*, Machine learning-powered landslide forecasting, Webinar Talk for The Institution of Engineers, Malaysia
-- *2025*, 3-D marine geological modeling driven by machine learning and data fusion, The 7th National Young Scholar Symposium on Engineering Risk Analysis & Management, Nanchang
-- *2024*, Machine learning for landslides: from spatio-temporal forecasting to risk assessment,The 6th National Young Scholar Symposium on Engineering Risk Analysis & Management, Nanjing
-- *2022*, Landslide hazard mitigation and early warning system in Hong Kong, The 2022 Summit on Diagnosis and Treatment for Civil Engineering, Shenzhen
-- *2021*, Probabilistic site characterization and data fusion in geotechnical engineering, The Youth Forum of Engineering Risk and Insurance Research, Shanghai
+- *2025*, 3-D marine geological modeling by fusing multi-source site investigation data 基于多源勘察数据融合的三维海洋地质建模, The 7th National Young Scholar Symposium on Engineering Risk Analysis & Management, Nanchang
+- *2024*, Machine learning for landslides: from spatio-temporal forecasting to risk assessment 滑坡机器学习：从时空预测到风险评估,The 6th National Young Scholar Symposium on Engineering Risk Analysis & Management, Nanjing
+- *2022*, Landslide hazard mitigation and early warning system in Hong Kong 香港边坡防治与滑坡预警系统的运维, The 2022 Summit on Diagnosis and Treatment for Civil Engineering, Shenzhen
+- *2021*, CPT-based probabilistic site characterization: spatial variability and machine learning 基于CPT的概率化场地勘察：空间变异性与机器学习, The Youth Forum of Engineering Risk and Insurance Research, Shanghai
 <br><br>
 
 
@@ -350,7 +350,12 @@ Dr. Te Xiao (肖特) is an Associate Professor at the Department of Civil Engine
 - Bulletin of Engineering Geology and the Environment
 - Georisk: Assessment and Management of Risk for Engineered Systems and Geohazards
 - ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems, Part A: Civil Engineering
+- Reliability Engineering and System Safety
 - Journal of Rock Mechanics and Geotechnical Engineering
+- Tunnelling and Underground Space Technology
+- Journal of Hydrology
+- Natural Hazards
+- Chinese Journal of Geotechnical Engineering 岩土工程学报
 <br><br>
 
 
