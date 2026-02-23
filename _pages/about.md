@@ -17,7 +17,7 @@ redirect_from:
 
 
 <span class='anchor' id='about-me'></span>
-Dr. Te Xiao (肖特) is an Associate Professor at the Department of Civil Engineering, Shanghai Jiao Tong University. His main research interests include geotechnical risk and reliability, machine learning and digital twins, uncertainty characterization in site investigation, landslide hazard chains, risk-informed decision-making, etc. He has authored 40+ peer-reviewed journal papers <a href='https://scholar.google.com/citations?user=blUFYi4AAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fshortxiaote%2Fshortxiaote.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> and one academic monograph. He is the recipient of the NSFC Excellent Young Scientists Fund (Overseas)，ISSMGE Bright Spark Lecture Award, and HKIE Geotechnical Paper Award.
+Dr. Te Xiao (肖特) is an Associate Professor at the Department of Civil Engineering, Shanghai Jiao Tong University. His main research interests include geotechnical risk and reliability, machine learning and digital twins, uncertainty characterization in site investigation, landslide hazard chains, risk-informed decision-making, etc. He has authored 40+ peer-reviewed journal papers <a href='https://scholar.google.com/citations?user=blUFYi4AAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fshortxiaote%2Fshortxiaote.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> and one academic monograph. He is the recipient of the NSFC Excellent Young Scientists Fund (Overseas)，ISSMGE Bright Spark Lecture Award, HKIE Geotechnical Paper Award, ICE Early Career Award, and many other awards.
 <br><br>
 
 
@@ -355,7 +355,7 @@ Dr. Te Xiao (肖特) is an Associate Professor at the Department of Civil Engine
 
 
 ---
-# 🏆 Honors and Awards
+# 🏆 Awards
 - *2023*, **Shanghai Magnolia Talents (Youth)**
 - *2023*, **ISSMGE Bright Spark Lecture Award**, International Society for Soil Mechanics and Geotechnical Engineering (ISSMGE)
 - *2024*, **HKIE Geotechnical Paper Award**, Hong Kong Institution of Engineers (HKIE)
@@ -378,7 +378,7 @@ Dr. Te Xiao (肖特) is an Associate Professor at the Department of Civil Engine
 
 
 ---
-# 👥 Group Activities
+# 👥 Group
 <div class='image-box'><div class='image-box-image'><div><img src='images/activities/2026_New Year.jpg' alt="img" width="100%"></div></div>
 <div class='image-box-text' markdown="1">
 
