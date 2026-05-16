@@ -23,6 +23,13 @@ Dr. Te Xiao (肖特) is an Associate Professor at the Department of Civil Engine
 
 ---
 # 🔥 News
+<div class='news-box'><div class='news-box-image'><div><img src='images/activities/2026_ISMLG.jpg' alt="img" width="100%"></div></div>
+<div class='news-box-text' markdown="1">
+
+- *2026.05*: 🎉🎉 Dr. Te Xiao chairs the SS1 (Advances in machine learning for landslide hazards) at the 5th International Symposium on Machine Learning & Big Data in Geoscience, Hong Kong, with Dr. Xin Liu and Prof. Shuai Zhang. Heng Zhou makes a presentation at this conference.
+
+</div></div>
+
 - *2025.10*: 🎉🎉 Bingkun Song makes a presentation at the Third Workshop on the Future of Machine Learning in Geotechnics (3FOMLIG), Florence, Italy.
 - *2025.09*: 🎉🎉 Welcome **Xianchong Li**, **Bingkun Song**, and **Shakhnoza Kambaralieva (Sasha)** to our research group! Sasha from Uzbekistan is the first international student in our group.
 
@@ -384,6 +391,13 @@ Dr. Te Xiao (肖特) is an Associate Professor at the Department of Civil Engine
 
 ---
 # 👥 Group
+<div class='image-box'><div class='image-box-image'><div><img src='images/activities/2026_SJTU 130 Anniversary.jpg' alt="img" width="100%"></div></div>
+<div class='image-box-text' markdown="1">
+
+- *2026.04*: 🎉🎉 Happy 130th Anniversary, SJTU!!
+
+</div></div>
+
 <div class='image-box'><div class='image-box-image'><div><img src='images/activities/2026_New Year.jpg' alt="img" width="100%"></div></div>
 <div class='image-box-text' markdown="1">
 
