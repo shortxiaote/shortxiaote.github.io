@@ -173,8 +173,10 @@ Dr. Te Xiao (肖特) is an Associate Professor at the Department of Civil Engine
 - He, J., Zhang, L. M.*, **Xiao, T.**, Wang, H. J., Luo, H. Y. (2023). Deep learning enables super-resolution hydrodynamic flooding process modelling under spatiotemporally varying rainstorms. Water Research, 239, 120057.
 - Chen, C., Zhang, L. M.*, **Xiao, T.**, He, J. (2020). Barrier lake bursting and flood routing in the Yarlung Tsangpo Grand Canyon in October 2018. Journal of Hydrology, 583, 124603.
 - Qiang, Y. J., He, J., **Xiao, T.**, Lu, W. J., Li, J. H., Zhang, L. M.* (2021). Coastal town flooding upon compound rainfall-wave overtopping-storm surge during extreme tropical cyclones in Hong Kong. Journal of Hydrology: Regional Studies, 37, 100890.
-- Wang, J., Zeng, P.*, **Xiao, T.**, Peng, M., Li, T., Zhang, H., Sun, X. (2025). Calibrating soil erodibility parameters of landslide dams using back analyses. Georisk: Assessment and Management of Risk for Engineered Systems and Geohazards, 1-22.
+- Wang, J., Zeng, P.*, **Xiao, T.**, Peng, M., Li, T., Zhang, H., Sun, X. (2026). Calibrating soil erodibility parameters of landslide dams using back analyses. Georisk: Assessment and Management of Risk for Engineered Systems and Geohazards, 20(1), 212-233.
+- Wang, S. R., Zhang, S.*, **Xiao, T.**, Ren, W. L., Zhang, L. L., Tian, Y. H. (2026). Physics-informed neural networks for predicting the coupled hydro-mechanical behaviour of partially saturated soils. Georisk: Assessment and Management of Risk for Engineered Systems and Geohazards, 1-20.
 - Qiang, Y. J., Zhang, L. M.*, He, J., **Xiao, T.**, Huang, H. H., Wang, H. J. (2021). Urban flood analysis for Pearl River Delta cities using an equivalent drainage method upon combined rainfall-high tide-storm surge events. Journal of Hydrology, 597, 126293.
+- Mu, Q. Y., Song, T. Q., Lu, Z.*, **Xiao, T.**, Zhang, L. M. (2024). Evaluation of the collapse susceptibility of loess using machine learning. Transportation Geotechnics, 48, 101327.
 - He, J., Zhang, L. M.*, **Xiao, T.**, Chen, C. (2022). Emergency risk management for landslide dam breaks in 2018 on the Yangtze River, China. Resilient Cities and Structures, 1(3), 1-11.
 
 ## <span style="color:#19469D">\[Geotechnical risk and reliability\]</span>
@@ -324,6 +326,7 @@ Dr. Te Xiao (肖特) is an Associate Professor at the Department of Civil Engine
 <br>
 
 ## Professional societies
+- *2026 – present*, **Member**, Chinese National Committee of International Society for Digital Earth (CNISDE), Technical Committee on Digital Disaster Reduction
 - *2022 – present*, **Member**, ASCE Embankments, Dams, and Slopes Committee
 - *2022 – present*, **Corresponding Member**, ISSMGE Technical Committees TC304 (Risk) / TC309 (Machine Learning) / TC222 (BIM and Digital Twin)
 - *2019 – present*, **Member**, Youth Committee of Risk and Insurance Research Branch of China Civil Engineering Society
@@ -339,6 +342,8 @@ Dr. Te Xiao (肖特) is an Associate Professor at the Department of Civil Engine
 ## Conference services
 - *2025*, **Secretary of Congress Question**, The 28th Congress of International Commission on Large Dams, Chengdu
 - *2024*, **Organizing Committee Secretary**, The 2nd Workshop on Future of Machine Learning in Geotechnics, Chengdu
+- *2026*, Session Chair, The 1st TC304 International Workshop on Geotechnical Risk and Uncertainty, Shanghai
+- *2026*, Session Chair, The 5th International Symposium on Machine Learning & Big Data in Geoscience, Hong Kong
 - *2025*, Session Chair, The 9th International Symposium for Geotechnical Safety and Risk, Oslo, Norway
 - *2023*, Session Chair, The XIV Congress of the International Association for Engineering Geology and the Environment, Chengdu
 - *2023*, Session Chair, ASCE Geo-Risk 2023, Arlington, United States
@@ -362,6 +367,7 @@ Dr. Te Xiao (肖特) is an Associate Professor at the Department of Civil Engine
 - Tunnelling and Underground Space Technology
 - Journal of Hydrology
 - Natural Hazards
+- Geodata and AI
 - Chinese Journal of Geotechnical Engineering 岩土工程学报
 <br><br>
 
