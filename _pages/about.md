@@ -166,18 +166,19 @@ Dr. Te Xiao (肖特) is an Associate Professor at the Department of Civil Engine
 - Ju, L. Y., **Xiao, T.**, He, J., Xu, W. F., Xiao, S. H., Zhang, L. M.* (2025). A simulation-enabled slope digital twin for real-time assessment of rain-induced landslides. Engineering Geology, 353, 108116.
 - Xiao, S. H., **Xiao, T.**, Jiang, R. C., Wang, H. J., Ju, L. Y., Zhang, L. M.* (2024). Two-phase strategy for rapid and unbiased assessment of earthquake-induced landslides. Engineering Geology, 336, 107562.
 - Wang, H. J., **Xiao, T.**, Li, X. Y., Zhang, L. L., Zhang, L. M.* (2019). A novel physically-based model for updating landslide susceptibility. Engineering Geology, 251, 71-80.
+- Wang, S. R., Zhang, S.*, **Xiao, T.**, Ren, W. L., Zhang, L. L., Tian, Y. H. (2026). Physics-informed neural networks for predicting the coupled hydro-mechanical behaviour of partially saturated soils. Georisk: Assessment and Management of Risk for Engineered Systems and Geohazards, 1-20.
+- Wang, J., Zeng, P.*, **Xiao, T.**, Peng, M., Li, T., Zhang, H., Sun, X. (2026). Calibrating soil erodibility parameters of landslide dams using back analyses. Georisk: Assessment and Management of Risk for Engineered Systems and Geohazards, 20(1), 212-233.
 - Xiao, S. H., Zhang, L. M.*, **Xiao, T.**, Jiang, R. C., Peng, D. L., Lu, W. J., He, X. (2024). Landslide damming threats along the Jinsha River, China. Engineering, 42, 326-339.
 - Ju, L. Y., Zhang, L. M.*, **Xiao, T.** (2023). Power laws for accurate determination of landslide volume based on high-resolution LiDAR data. Engineering Geology, 312, 106935.
-- Qiang, Y. J., Zhang, L. M.*, **Xiao, T.** (2020). Spatial-temporal rain field generation for the Guangdong-Hong Kong-Macau Greater Bay Area considering climate change. Journal of Hydrology, 583, 124584.
 - He, J., Zhang, L. M.*, **Xiao, T.**, Wang, H. J., Luo, H. Y. (2023). Prompt quantitative risk assessment for rain-induced landslides. Journal of Geotechnical and Geoenvironmental Engineering, 149(5), 04023023.
 - He, J., Zhang, L. M.*, **Xiao, T.**, Wang, H. J., Luo, H. Y. (2023). Deep learning enables super-resolution hydrodynamic flooding process modelling under spatiotemporally varying rainstorms. Water Research, 239, 120057.
-- Chen, C., Zhang, L. M.*, **Xiao, T.**, He, J. (2020). Barrier lake bursting and flood routing in the Yarlung Tsangpo Grand Canyon in October 2018. Journal of Hydrology, 583, 124603.
-- Qiang, Y. J., He, J., **Xiao, T.**, Lu, W. J., Li, J. H., Zhang, L. M.* (2021). Coastal town flooding upon compound rainfall-wave overtopping-storm surge during extreme tropical cyclones in Hong Kong. Journal of Hydrology: Regional Studies, 37, 100890.
-- Wang, J., Zeng, P.*, **Xiao, T.**, Peng, M., Li, T., Zhang, H., Sun, X. (2026). Calibrating soil erodibility parameters of landslide dams using back analyses. Georisk: Assessment and Management of Risk for Engineered Systems and Geohazards, 20(1), 212-233.
-- Wang, S. R., Zhang, S.*, **Xiao, T.**, Ren, W. L., Zhang, L. L., Tian, Y. H. (2026). Physics-informed neural networks for predicting the coupled hydro-mechanical behaviour of partially saturated soils. Georisk: Assessment and Management of Risk for Engineered Systems and Geohazards, 1-20.
-- Qiang, Y. J., Zhang, L. M.*, He, J., **Xiao, T.**, Huang, H. H., Wang, H. J. (2021). Urban flood analysis for Pearl River Delta cities using an equivalent drainage method upon combined rainfall-high tide-storm surge events. Journal of Hydrology, 597, 126293.
-- Mu, Q. Y., Song, T. Q., Lu, Z.*, **Xiao, T.**, Zhang, L. M. (2024). Evaluation of the collapse susceptibility of loess using machine learning. Transportation Geotechnics, 48, 101327.
 - He, J., Zhang, L. M.*, **Xiao, T.**, Chen, C. (2022). Emergency risk management for landslide dam breaks in 2018 on the Yangtze River, China. Resilient Cities and Structures, 1(3), 1-11.
+- Qiang, Y. J., He, J., **Xiao, T.**, Lu, W. J., Li, J. H., Zhang, L. M.* (2021). Coastal town flooding upon compound rainfall-wave overtopping-storm surge during extreme tropical cyclones in Hong Kong. Journal of Hydrology: Regional Studies, 37, 100890.
+- Qiang, Y. J., Zhang, L. M.*, **Xiao, T.** (2020). Spatial-temporal rain field generation for the Guangdong-Hong Kong-Macau Greater Bay Area considering climate change. Journal of Hydrology, 583, 124584.
+- Chen, C., Zhang, L. M.*, **Xiao, T.**, He, J. (2020). Barrier lake bursting and flood routing in the Yarlung Tsangpo Grand Canyon in October 2018. Journal of Hydrology, 583, 124603.
+- Mu, Q. Y., Song, T. Q., Lu, Z.*, **Xiao, T.**, Zhang, L. M. (2024). Evaluation of the collapse susceptibility of loess using machine learning. Transportation Geotechnics, 48, 101327.
+- Qiang, Y. J., Zhang, L. M.*, He, J., **Xiao, T.**, Huang, H. H., Wang, H. J. (2021). Urban flood analysis for Pearl River Delta cities using an equivalent drainage method upon combined rainfall-high tide-storm surge events. Journal of Hydrology, 597, 126293.
+
 
 ## <span style="color:#19469D">\[Geotechnical risk and reliability\]</span>
 
@@ -231,10 +232,10 @@ Dr. Te Xiao (肖特) is an Associate Professor at the Department of Civil Engine
 </div></div>
 
 - Wang, S., **Xiao, T.**, Li, G., Lv, Y., Dai, C., Zhan, L., Chen, Y., Zhang, S.* (2024). Spatial variability characterization of clayey waste soils and its impact on probabilistic stability assessment of a landfill slope. Acta Geotechnica, 19(8), 5157-5174.
-- Zhu, H., Zhang, L. M.*, **Xiao, T.** (2019). Evaluating the stability of anisotropically deposited soil slopes. Canadian Geotechnical Journal, 56(5), 753-760.
-- Zhu, H., Zhang, L. M.*, **Xiao, T.**, Li, X. Y. (2017). Enhancement of slope stability by vegetation considering uncertainties in root distribution. Computers and Geotechnics, 85, 84-89.
 - Zhou, Z., Li, D. Q.*, **Xiao, T.**, Cao, Z. J., Du, W. (2021). Response surface guided adaptive slope reliability analysis in spatially varying soils. Computers and Geotechnics, 132, 103966.
+- Zhu, H., Zhang, L. M.*, **Xiao, T.** (2019). Evaluating the stability of anisotropically deposited soil slopes. Canadian Geotechnical Journal, 56(5), 753-760.
 - Li, X. Y., Zhang, L. M.*, **Xiao, T.**, Zhang, S., Chen, C. (2019). Learning failure modes of soil slopes using monitoring data. Probabilistic Engineering Mechanics, 56, 50-57.
+- Zhu, H., Zhang, L. M.*, **Xiao, T.**, Li, X. Y. (2017). Enhancement of slope stability by vegetation considering uncertainties in root distribution. Computers and Geotechnics, 85, 84-89.
 - Li, X. Y., Fan, Z. B., Lu, T., **Xiao, T.**, Zhang, L. M.* (2018). A resilience model for engineered slopes subject to anchor corrosion. KSCE Journal of Civil Engineering, 22(3), 887-895.
 - **Xiao, T.**, Li, D. Q.*, Zhou, C. B., Phoon, K. K. (2014). Non-intrusive reliability analysis of multi-layered slopes using strength reduction FEM 基于有限元强度折减法的多层边坡非侵入式可靠度分析. Journal of Basic Science and Engineering, 22(4), 718-732. (in Chinese)
 - Li, D. Q., **Xiao, T.**, Cao, Z. J.*, Tang, S. X., Phoon, K. K. (2016). Auxiliary slope reliability analysis using limit equilibrium analysis and finite element analysis 基于极限平衡法和有限元法的边坡协同式可靠度分析. Chinese Journal of Geotechnical Engineering, 38(6), 1004-1013. (in Chinese)
@@ -283,8 +284,8 @@ Dr. Te Xiao (肖特) is an Associate Professor at the Department of Civil Engine
 </div></div>
 
 - Yin, K. S., **Xiao, T.**, Luo, H. Y., Zou, H. F., Zhang, L. M.* (2023). Probabilistic modeling of offshore deep cement mixing improved ground. Computers and Geotechnics, 156, 105266.
-- Zhu, H., Zhang, L. M.*, **Xiao, T.**, Li, X. Y. (2017). Generation of multivariate cross-correlated geotechnical random fields. Computers and Geotechnics, 86, 95-107.
 - Miao, C., Cao, Z. J.*, **Xiao, T.**, Li, D. Q., Du, W. (2023). BayLUP: A Bayesian framework for conditional random field simulation of the liquefaction-induced settlement considering statistical uncertainty and model error. Gondwana Research, 123, 140-163.
+- Zhu, H., Zhang, L. M.*, **Xiao, T.**, Li, X. Y. (2017). Generation of multivariate cross-correlated geotechnical random fields. Computers and Geotechnics, 86, 95-107.
 - Wang, L., Zhang, X., Hong, Y.*, **Xiao, T.**, Cao, Z., Li, S., Wu, S. (2025). Efficient 3D geological modeling for offshore wind farm with sparse CPTU and borehole data. Canadian Geotechnical Journal, 62, 1-23.
 - Zhang, F. P., Li, D. Q., Cao, Z. J.*, **Xiao, T.**, Zhao, J. (2018). Revisiting statistical correlation between Mohr-Coulomb shear strength parameters of Hoek-Brown rock masses. Tunnelling and Underground Space Technology, 77, 36-44.
 - Li, P. P., Li, D. Q., **Xiao, T.***, Cao, Z. J. (2018). Bayesian updating of excavation considering model uncertainty 考虑经验模型不确定性的基坑开挖贝叶斯更新. Journal of Natural Disasters, 27(4), 143-150. (in Chinese)
