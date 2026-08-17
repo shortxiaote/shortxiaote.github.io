@@ -318,6 +318,7 @@ Dr. Te Xiao (肖特) is an Associate Professor at the Department of Civil Engine
 # 💬 Invited Talks
 - *2023*, Machine learning-powered landslide forecasting: from initiation to mobility, **ISSMGE Bright Spark Lecture**, Hong Kong \| [\[pdf\]](https://github.com/shortxiaote/shortxiaote.github.io/blob/main/_files/papers/2023_ISSMGE%20Bright%20Spark%20Lecture.pdf)
 - *2026*, Transforming regional landslide risk control using modern AI techniques, **Keynote Lecture**, The International Workshop on Digital Twin and AI Empowered Emergency Risk Management, Hong Kong
+- *2026*, Machine learning-powered city-scale landslide forecasting, The 5th GeoAI Frontier Forum, Webinar
 - *2025*, Machine learning-powered landslide forecasting, Webinar Talk for The Institution of Engineers, Malaysia
 - *2025*, 3-D marine geological modeling by fusing multi-source site investigation data 基于多源勘察数据融合的三维海洋地质建模, The 7th National Young Scholar Symposium on Engineering Risk Analysis & Management, Nanchang
 - *2024*, Machine learning for landslides: from spatio-temporal forecasting to risk assessment 滑坡机器学习：从时空预测到风险评估, The 6th National Young Scholar Symposium on Engineering Risk Analysis & Management, Nanjing
