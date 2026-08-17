@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 
-<span class='anchor' id='about-me'></span>
+<span class='anchor' id='-about-me'></span>
 Dr. Te Xiao (肖特) is an Associate Professor at the Department of Civil Engineering, Shanghai Jiao Tong University. His main research interests include geotechnical risk and reliability, machine learning and digital twins, uncertainty characterization in site investigation, landslide hazard chains, risk-informed decision-making, etc. He has authored 40+ peer-reviewed journal papers <a href='https://scholar.google.com/citations?user=blUFYi4AAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fshortxiaote%2Fshortxiaote.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> and one academic monograph. He is the recipient of the NSFC Excellent Young Scientists Fund (Overseas)，ISSMGE Bright Spark Lecture Award, HKIE Geotechnical Paper Award, ICE Early Career Award, and many other awards.
 <br><br>
 
@@ -413,8 +413,11 @@ Dr. Te Xiao (肖特) is an Associate Professor at the Department of Civil Engine
 - **Shakhnoza Kambaralieva**, Ph.D. student, 2025-
 - **Xianchong Li**, Master student, 2025-
 - **Haoyu Wang**, Master student, 2026-
-<br>
+<br><br>
 
+
+---
+# 👥 Activities
 <div class='image-box'><div class='image-box-image'><div><img src='images/activities/2026_SJTU 130 Anniversary.jpg' alt="img" width="100%"></div></div>
 <div class='image-box-text' markdown="1">
 
