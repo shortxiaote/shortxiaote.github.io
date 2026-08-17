@@ -417,11 +417,18 @@ Dr. Te Xiao (肖特) is an Associate Professor at the Department of Civil Engine
 
 
 ---
-# 👥 Activities
+# ⛰️ Activities
 <div class='image-box'><div class='image-box-image'><div><img src='images/activities/2026_SJTU 130 Anniversary.jpg' alt="img" width="100%"></div></div>
 <div class='image-box-text' markdown="1">
 
 - *2026.04*: 🎉🎉 Happy 130th Anniversary, SJTU!!
+
+</div></div>
+
+<div class='image-box'><div class='image-box-image'><div><img src='images/activities/2026_New Year Hiking.jpg' alt="img" width="100%"></div></div>
+<div class='image-box-text' markdown="1">
+
+- *2026.01*: 🎉🎉 New Year Hiking!!
 
 </div></div>
 
