@@ -406,6 +406,14 @@ Dr. Te Xiao (肖特) is an Associate Professor at the Department of Civil Engine
 
 ---
 # 👥 Group
+- **Heng Zhou**, Ph.D. student, 2024-
+- **Jinbo Yi**, Master student, 2024-
+- **Bingkun Song**, Ph.D. student, 2025-
+- **Shakhnoza Kambaralieva**, Ph.D. student, 2025-
+- **Xianchong Li**, Master student, 2025-
+- **Haoyu Wang**, Master student, 2026-
+<br>
+
 <div class='image-box'><div class='image-box-image'><div><img src='images/activities/2026_SJTU 130 Anniversary.jpg' alt="img" width="100%"></div></div>
 <div class='image-box-text' markdown="1">
 
