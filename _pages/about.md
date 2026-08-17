@@ -431,21 +431,21 @@ Dr. Te Xiao (肖特) is an Associate Professor at the Department of Civil Engine
 <div class='image-box'><div class='image-box-image'><div><img src='images/activities/2026_SJTU 130 Anniversary.jpg' alt="img" width="100%"></div></div>
 <div class='image-box-text' markdown="1">
 
-- *2026.04*: 🎉🎉 Happy 130th Anniversary, SJTU!!
+- *2026.04*: 🎉🎉 Happy 130th Anniversary, SJTU !!
 
 </div></div>
 
 <div class='image-box'><div class='image-box-image'><div><img src='images/activities/2026_New Year Hiking.jpg' alt="img" width="100%"></div></div>
 <div class='image-box-text' markdown="1">
 
-- *2026.01*: 🎉🎉 New Year Hiking!!
+- *2026.01*: 🎉🎉 New Year Hiking
 
 </div></div>
 
 <div class='image-box'><div class='image-box-image'><div><img src='images/activities/2026_New Year.jpg' alt="img" width="100%"></div></div>
 <div class='image-box-text' markdown="1">
 
-- *2026.01*: 🎉🎉 Happy New Year!!
+- *2026.01*: 🎉🎉 Happy New Year !!
 
 </div></div>
 
@@ -459,7 +459,7 @@ Dr. Te Xiao (肖特) is an Associate Professor at the Department of Civil Engine
 <div class='image-box'><div class='image-box-image'><div><img src='images/activities/2025_New Year.jpg' alt="img" width="100%"></div></div>
 <div class='image-box-text' markdown="1">
 
-- *2025.01*: 🎉🎉 Happy New Year!!
+- *2025.01*: 🎉🎉 Happy New Year !!
 
 </div></div>
 <br><br>
