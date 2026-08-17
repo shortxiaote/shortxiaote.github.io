@@ -22,6 +22,7 @@ Dr. Te Xiao (肖特) is an Associate Professor at the Department of Civil Engine
 
 
 ---
+<span class='anchor' id='-news'></span>
 # 🔥 News
 <div class='news-box'><div class='news-box-image'><div><img src='images/activities/2026_DTERM.jpg' alt="img" width="100%"></div></div>
 <div class='news-box-text' markdown="1">
@@ -88,6 +89,7 @@ Dr. Te Xiao (肖特) is an Associate Professor at the Department of Civil Engine
 
 
 ---
+<span class='anchor' id='-background'></span>
 # 📖 Background
 ## Professional experiences
 - *2024.01 - present*, **Associate Professor**, Dept. of Civil Engineering, Shanghai Jiao Tong University
@@ -102,6 +104,7 @@ Dr. Te Xiao (肖特) is an Associate Professor at the Department of Civil Engine
 
 
 ---
+<span class='anchor' id='-projects'></span>
 # 💼 Projects
 - *2025 – 2027*,	**PI**, **NSFC Excellent Young Scientists Fund (Overseas)**, Digital twin-powered risk mitigation and emergency management for landslide hazards
 - *2025 – 2027*,	**PI**, NSFC Young Scientists Fund, Methods for regional landslide spatiotemporal prediction and risk-informed early warning using incomplete data
@@ -112,6 +115,7 @@ Dr. Te Xiao (肖特) is an Associate Professor at the Department of Civil Engine
 
 
 ---
+<span class='anchor' id='-publications'></span>
 # 📝 Publications
 ## Monographs
 - Zhang, J., **Xiao, T.**, Ji, J., Zeng, P., Cao, Z. (2023). [Geotechnical Reliability Analysis: Theories, Methods and Algorithms](https://doi.org/10.1007/978-981-19-6254-7). Springer, Singapore. 310p.
@@ -315,6 +319,7 @@ Dr. Te Xiao (肖特) is an Associate Professor at the Department of Civil Engine
 
 
 ---
+<span class='anchor' id='-invited-talks'></span>
 # 💬 Invited Talks
 - *2023*, Machine learning-powered landslide forecasting: from initiation to mobility, **ISSMGE Bright Spark Lecture**, Hong Kong \| [\[pdf\]](https://github.com/shortxiaote/shortxiaote.github.io/blob/main/_files/papers/2023_ISSMGE%20Bright%20Spark%20Lecture.pdf)
 - *2026*, Transforming regional landslide risk control using modern AI techniques, **Keynote Lecture**, The International Workshop on Digital Twin and AI Empowered Emergency Risk Management, Hong Kong
@@ -328,6 +333,7 @@ Dr. Te Xiao (肖特) is an Associate Professor at the Department of Civil Engine
 
 
 ---
+<span class='anchor' id='-services'></span>
 # 🌍 Services
 ## Journal editorial services
 - *2024 – present*, **Assistant Editor & Editorial Board Member**, [Georisk: Assessment and Management of Risk for Engineered Systems and Geohazards](https://www.tandfonline.com/toc/ngrk20/current)
@@ -383,6 +389,7 @@ Dr. Te Xiao (肖特) is an Associate Professor at the Department of Civil Engine
 
 
 ---
+<span class='anchor' id='-awards'></span>
 # 🏆 Awards
 - *2023*, **Shanghai Magnolia Talents (Youth)**
 - *2023*, **ISSMGE Bright Spark Lecture Award**, International Society for Soil Mechanics and Geotechnical Engineering (ISSMGE)
@@ -398,6 +405,7 @@ Dr. Te Xiao (肖特) is an Associate Professor at the Department of Civil Engine
 
 
 ---
+<span class='anchor' id='-teaching'></span>
 # 📖 Teaching
 - *2026 Spring*, CE8019: Urban Resilience and AI-powered Hazard Prevention, SJTU
 - *2026 Spring*, CE3646: Artificial Intelligence Algorithms, SJTU
@@ -406,6 +414,7 @@ Dr. Te Xiao (肖特) is an Associate Professor at the Department of Civil Engine
 
 
 ---
+<span class='anchor' id='-group'></span>
 # 👥 Group
 - **Heng Zhou**, Ph.D. student, 2024-
 - **Jinbo Yi**, Master student, 2024-
@@ -417,6 +426,7 @@ Dr. Te Xiao (肖特) is an Associate Professor at the Department of Civil Engine
 
 
 ---
+<span class='anchor' id='-activities'></span>
 # ⛰️ Activities
 <div class='image-box'><div class='image-box-image'><div><img src='images/activities/2026_SJTU 130 Anniversary.jpg' alt="img" width="100%"></div></div>
 <div class='image-box-text' markdown="1">
