@@ -108,6 +108,7 @@ Dr. Te Xiao (肖特) is an Associate Professor at the Department of Civil Engine
 <span class='anchor' id='-projects'></span>
 # 💼 Projects
 - *2025 – 2027*,	**PI**, **NSFC Excellent Young Scientists Fund (Overseas)**, Digital twin-powered risk mitigation and emergency management for landslide hazards
+- *2027 – 2030*,	**PI**, NSFC General Program, AI agent for landslide risk decision-making in reservoir areas based on intelligent computation of landslide movement
 - *2025 – 2027*,	**PI**, NSFC Young Scientists Fund, Methods for regional landslide spatiotemporal prediction and risk-informed early warning using incomplete data
 - *2024 – 2028*,	Co-I, RGC Theme-based Research Scheme, Digital twin-empowered landslide emergency risk management
 - *2021 – 2024*,	Co-I, NSFC-RGC Joint Research Scheme, Evolution of landslide hazard chains triggered by strong earthquakes and the associated dynamic risk management
