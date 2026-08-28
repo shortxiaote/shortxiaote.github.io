@@ -305,6 +305,16 @@ Dr. Te Xiao (肖特) is an Associate Professor at the Department of Civil Engine
 
 ## <span style="color:#19469D">\[Offshore geotechnics\]</span>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">OE 2026</div><img src='images/research/2026_Zhou_OE_500x300.png' alt="img" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- Zhou, H., **Xiao, T.***, Zhang, L. L. (2026). Coupled and decoupled aero-hydro-geotech reliability analyses of monopile-supported offshore wind turbines considering multi-source uncertainty propagation. Ocean Engineering.
+
+  **Highlights**
+  - A coupled aero-hydro-geotech reliability method is proposed for OWT to consider multisource uncertainty propagation.
+  - A counter-intuitive “false sense of security” in the decoupled method is uncovered.
+</div></div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EG 2025</div><img src='images/research/2025_Zhao_EG_500x300.png' alt="img" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -350,7 +360,8 @@ Dr. Te Xiao (肖特) is an Associate Professor at the Department of Civil Engine
 - *2019 – present*, **Member**, Youth Committee of Risk and Insurance Research Branch of China Civil Engineering Society
 - *2024 – present*, Early Career Member, Future of Machine Learning in Geotechnics (FOMLIG) Council
 - *2021 – present*, Member, International Society for Soil Mechanics and Geotechnical Engineering (ISSMGE)
-- *2018 – present*, Member, International Society for Rock Mechanics
+- *2018 – present*, Member, International Society for Rock Mechanics (ISRM)
+- *2026 – present*, Member, Geotechnical Safety Network (GEOSNet)
 - *2018 – present*, Member, China National Committee on Large Dams
 - *2024 – present*, Member, China Civil Engineering Society
 - *2022 – present*, Member, Hong Kong Geotechnical Society
