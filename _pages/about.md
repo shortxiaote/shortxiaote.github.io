@@ -24,6 +24,7 @@ Dr. Te Xiao (肖特) is an Associate Professor at the Department of Civil Engine
 ---
 <span class='anchor' id='-news'></span>
 # 🔥 News
+- *2026.08*: 🎉🎉 Dr. Te Xiao is awarded the **NSFC General Program**.
 <div class='news-box'><div class='news-box-image'><div><img src='images/activities/2026_DTERM.jpg' alt="img" width="100%"></div></div>
 <div class='news-box-text' markdown="1">
 
@@ -70,7 +71,7 @@ Dr. Te Xiao (肖特) is an Associate Professor at the Department of Civil Engine
 </div></div>
 
 - *2024.09*: 🎉🎉 Welcome **Heng Zhou** and **Jinbo Yi** to our research group.
-- *2024.08*: 🎉🎉 Dr. Te Xiao is awarded the NSFC Young Scientists Fund.
+- *2024.08*: 🎉🎉 Dr. Te Xiao is awarded the **NSFC Young Scientists Fund**.
 
 <div class='news-box'><div class='news-box-image'><div><img src='images/activities/2024_HKIE Geotechnical Paper Award.jpg' alt="img" width="100%"></div></div>
 <div class='news-box-text' markdown="1">
