@@ -32,18 +32,6 @@ main:
 
   - title: "Services"
     url: "/#-services"
-    children:
-      - title: "Journal editorial services"
-        url: "/#journal-editorial-services"
-
-      - title: "Professional societies"
-        url: "/#professional-societies"
-
-      - title: "Conference services"
-        url: "/#conference-services"
-
-      - title: "Journal reviews"
-        url: "/#journal-reviews"
   
   - title: "Awards"
     url: "/#-awards"
