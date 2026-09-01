@@ -435,6 +435,11 @@ Several PhD/MPhil and postdoctoral positions are available. Candidates with back
 
 
 ---
+<span class='anchor' id='-collaborators'></span>
+# 🌐 Collaborators
+- **[Prof. Limin Zhang](https://cezhangl.people.ust.hk/)**, Hong Kong University of Science and Technology
+
+---
 <span class='anchor' id='-group'></span>
 # 👥 Group
 - **Heng Zhou**, Ph.D. student, 2024-
