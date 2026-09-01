@@ -17,7 +17,7 @@ redirect_from:
 
 
 <span class='anchor' id='about-me'></span>
-Dr. Te Xiao (肖特) is an Associate Professor at the Department of Civil Engineering, Shanghai Jiao Tong University. His main research interests include geotechnical risk and reliability, machine learning and digital twins, uncertainty characterization in site investigation, landslide hazard chains, risk-informed decision-making, etc. He has authored 40+ peer-reviewed journal papers <a href='https://scholar.google.com/citations?user=blUFYi4AAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fshortxiaote%2Fshortxiaote.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> and one academic monograph. He is the recipient of the NSFC Excellent Young Scientists Fund (Overseas)，ISSMGE Bright Spark Lecture Award, HKIE Geotechnical Paper Award, ICE Early Career Award, and many other awards.
+Dr. Te Xiao (肖特) is an Associate Professor at the Department of Civil Engineering, Shanghai Jiao Tong University. His main research interests include intelligent multi-hazard management, geotechnical risk and reliability, probabilistic site characterization, offshore geotechnics, landslide hazard chains, risk-informed decision-making, etc. He has authored 40+ peer-reviewed journal papers <a href='https://scholar.google.com/citations?user=blUFYi4AAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fshortxiaote%2Fshortxiaote.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> and one academic monograph. He is the recipient of the NSFC Excellent Young Scientists Fund (Overseas)，ISSMGE Bright Spark Lecture Award, HKIE Geotechnical Paper Award, ICE Early Career Award, and many other awards.
 <br><br>
 
 
@@ -124,7 +124,7 @@ Dr. Te Xiao (肖特) is an Associate Professor at the Department of Civil Engine
 <br>
 
 ## Journal papers
-## <span style="color:#19469D">\[Intelligent hazard risk management\]</span>
+## <span style="color:#19469D">\[Intelligent multi-hazard management\]</span>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Geotechnique 2023</div><img src='images/research/2023_Xiao_Geotechnique_500x300.png' alt="img" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -254,7 +254,7 @@ Dr. Te Xiao (肖特) is an Associate Professor at the Department of Civil Engine
 - Li, D. Q., **Xiao, T.**, Cao, Z. J.*, Tang, S. X., Phoon, K. K. (2016). Auxiliary slope reliability analysis using limit equilibrium analysis and finite element analysis 基于极限平衡法和有限元法的边坡协同式可靠度分析. Chinese Journal of Geotechnical Engineering, 38(6), 1004-1013. (in Chinese)
 - Li, D. Q.*, **Xiao, T.**, Cao, Z. J., Zhou, C. B., Phoon, K. K. (2016). Slope risk assessment using efficient random finite element method 基于高效随机有限元法的边坡风险评估. Rock and Soil Mechanics, 37(7), 1994-2003. (in Chinese)
 
-## <span style="color:#19469D">\[Probabilistic site characterization and modeling\]</span>
+## <span style="color:#19469D">\[Probabilistic site characterization\]</span>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JGGE 2018</div><img src='images/research/2018_Xiao_JGGE_500x300.png' alt="img" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
