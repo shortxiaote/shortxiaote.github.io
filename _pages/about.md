@@ -353,14 +353,12 @@ Dr. Te Xiao (肖特) is an Associate Professor at the Department of Civil Engine
 ---
 <span class='anchor' id='-services'></span>
 # 🌍 Services
-<span class="anchor" id="journal-editorial-services"></span>
 ## Journal editorial services
 - *2024 – present*, **Assistant Editor & Editorial Board Member**, [Georisk: Assessment and Management of Risk for Engineered Systems and Geohazards](https://www.tandfonline.com/toc/ngrk20/current)
 - *2024 – present*, Early Career Editorial Board Member, Intelligent Geoengineering
 - *2025*, Guest Editor, Geodata and AI
 <br>
 
-<span class="anchor" id="professional-societies"></span>
 ## Professional societies
 - *2026 – present*, **Member**, Chinese National Committee of International Society for Digital Earth (CNISDE), Technical Committee on Digital Disaster Reduction
 - *2022 – present*, **Member**, ASCE Embankments, Dams, and Slopes Committee
@@ -376,7 +374,6 @@ Dr. Te Xiao (肖特) is an Associate Professor at the Department of Civil Engine
 - *2017 – present*, Associate Member, American Society of Civil Engineers (ASCE)
 <br>
 
-<span class="anchor" id="conference-services"></span>
 ## Conference services
 - *2025*, **Secretary of Congress Question**, The 28th Congress of International Commission on Large Dams, Chengdu
 - *2024*, **Organizing Committee Secretary**, The 2nd Workshop on Future of Machine Learning in Geotechnics, Chengdu
@@ -389,7 +386,6 @@ Dr. Te Xiao (肖特) is an Associate Professor at the Department of Civil Engine
 - *2023*, Session Chair, The 8th Youth Scientist Forum of Earth Science, Wuhan
 <br>
 
-<span class="anchor" id="journal-reviews"></span>
 ## Journal reviews
 - Géotechnique
 - Journal of Geotechnical and Geoenvironmental Engineering
