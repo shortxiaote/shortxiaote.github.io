@@ -124,6 +124,7 @@ Dr. Te Xiao (肖特) is an Associate Professor at the Department of Civil Engine
 <br>
 
 ## Journal papers
+<span class="anchor" id="intelligent-multi-hazard-management"></span>
 ## <span style="color:#19469D">\[Intelligent multi-hazard management\]</span>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Geotechnique 2023</div><img src='images/research/2023_Xiao_Geotechnique_500x300.png' alt="img" width="100%"></div></div>
@@ -193,6 +194,7 @@ Dr. Te Xiao (肖特) is an Associate Professor at the Department of Civil Engine
 - Qiang, Y. J., Zhang, L. M.*, He, J., **Xiao, T.**, Huang, H. H., Wang, H. J. (2021). Urban flood analysis for Pearl River Delta cities using an equivalent drainage method upon combined rainfall-high tide-storm surge events. Journal of Hydrology, 597, 126293.
 
 
+<span class="anchor" id="geotechnical-risk-and-reliability"></span>
 ## <span style="color:#19469D">\[Geotechnical risk and reliability\]</span>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CG 2016</div><img src='images/research/2016_Xiao_CG_500x300.png' alt="img" width="100%"></div></div>
@@ -254,6 +256,8 @@ Dr. Te Xiao (肖特) is an Associate Professor at the Department of Civil Engine
 - Li, D. Q., **Xiao, T.**, Cao, Z. J.*, Tang, S. X., Phoon, K. K. (2016). Auxiliary slope reliability analysis using limit equilibrium analysis and finite element analysis 基于极限平衡法和有限元法的边坡协同式可靠度分析. Chinese Journal of Geotechnical Engineering, 38(6), 1004-1013. (in Chinese)
 - Li, D. Q.*, **Xiao, T.**, Cao, Z. J., Zhou, C. B., Phoon, K. K. (2016). Slope risk assessment using efficient random finite element method 基于高效随机有限元法的边坡风险评估. Rock and Soil Mechanics, 37(7), 1994-2003. (in Chinese)
 
+
+<span class="anchor" id="probabilistic-site-characterization"></span>
 ## <span style="color:#19469D">\[Probabilistic site characterization\]</span>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JGGE 2018</div><img src='images/research/2018_Xiao_JGGE_500x300.png' alt="img" width="100%"></div></div>
@@ -303,6 +307,8 @@ Dr. Te Xiao (肖特) is an Associate Professor at the Department of Civil Engine
 - Zhang, F. P., Li, D. Q., Cao, Z. J.*, **Xiao, T.**, Zhao, J. (2018). Revisiting statistical correlation between Mohr-Coulomb shear strength parameters of Hoek-Brown rock masses. Tunnelling and Underground Space Technology, 77, 36-44.
 - Li, P. P., Li, D. Q., **Xiao, T.***, Cao, Z. J. (2018). Bayesian updating of excavation considering model uncertainty 考虑经验模型不确定性的基坑开挖贝叶斯更新. Journal of Natural Disasters, 27(4), 143-150. (in Chinese)
 
+
+<span class="anchor" id="offshore-geotechnics"></span>
 ## <span style="color:#19469D">\[Offshore geotechnics\]</span>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">OE 2026</div><img src='images/research/2026_Zhou_OE_500x300.png' alt="img" width="100%"></div></div>
@@ -347,12 +353,14 @@ Dr. Te Xiao (肖特) is an Associate Professor at the Department of Civil Engine
 ---
 <span class='anchor' id='-services'></span>
 # 🌍 Services
+<span class="anchor" id="journal-editorial-services"></span>
 ## Journal editorial services
 - *2024 – present*, **Assistant Editor & Editorial Board Member**, [Georisk: Assessment and Management of Risk for Engineered Systems and Geohazards](https://www.tandfonline.com/toc/ngrk20/current)
 - *2024 – present*, Early Career Editorial Board Member, Intelligent Geoengineering
 - *2025*, Guest Editor, Geodata and AI
 <br>
 
+<span class="anchor" id="professional-societies"></span>
 ## Professional societies
 - *2026 – present*, **Member**, Chinese National Committee of International Society for Digital Earth (CNISDE), Technical Committee on Digital Disaster Reduction
 - *2022 – present*, **Member**, ASCE Embankments, Dams, and Slopes Committee
@@ -368,6 +376,7 @@ Dr. Te Xiao (肖特) is an Associate Professor at the Department of Civil Engine
 - *2017 – present*, Associate Member, American Society of Civil Engineers (ASCE)
 <br>
 
+<span class="anchor" id="conference-services"></span>
 ## Conference services
 - *2025*, **Secretary of Congress Question**, The 28th Congress of International Commission on Large Dams, Chengdu
 - *2024*, **Organizing Committee Secretary**, The 2nd Workshop on Future of Machine Learning in Geotechnics, Chengdu
@@ -380,6 +389,7 @@ Dr. Te Xiao (肖特) is an Associate Professor at the Department of Civil Engine
 - *2023*, Session Chair, The 8th Youth Scientist Forum of Earth Science, Wuhan
 <br>
 
+<span class="anchor" id="journal-reviews"></span>
 ## Journal reviews
 - Géotechnique
 - Journal of Geotechnical and Geoenvironmental Engineering
