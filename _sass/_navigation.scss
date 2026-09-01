@@ -316,39 +316,40 @@
   position: relative;
 }
 
-.greedy-nav .masthead__dropdown-toggle {
-  white-space: nowrap;
-}
-
-.greedy-nav .masthead__dropdown-arrow {
-  display: inline-block;
-  margin-left: 0.25rem;
-  font-size: 0.75em;
-  transition: transform 0.2s ease;
-}
-
+/* 子菜单默认隐藏 */
 .greedy-nav .masthead__submenu {
   position: absolute;
   z-index: 1000;
   top: 100%;
   left: 50%;
+
   display: none;
+
   min-width: 320px;
   margin: 0;
   padding: 0.4rem 0;
   list-style: none;
+
   background: $background-color;
   border: 1px solid $border-color;
   border-radius: $border-radius;
   box-shadow: 0 5px 15px rgba(#000, 0.18);
+
   transform: translateX(-50%);
 }
 
+/* 悬停在 Publications 整个菜单项上时才显示 */
+.greedy-nav .masthead__menu-item--dropdown:hover > .masthead__submenu {
+  display: block;
+}
+
+/* 子菜单中的每一项 */
 .greedy-nav .masthead__submenu li {
   display: block;
   width: 100%;
 }
 
+/* 子菜单链接 */
 .greedy-nav .masthead__submenu a {
   display: block;
   margin: 0;
@@ -358,29 +359,15 @@
   line-height: 1.4;
 }
 
-.greedy-nav .masthead__submenu a:hover,
-.greedy-nav .masthead__submenu a:focus {
+/* 子菜单链接悬停效果 */
+.greedy-nav .masthead__submenu a:hover {
   color: $masthead-link-color-hover;
   background: mix(#fff, $primary-color, 85%);
 }
 
+/* 取消一级菜单下划线动画对子菜单的影响 */
 .greedy-nav .masthead__submenu a:before {
   display: none;
-}
-
-/* 鼠标悬停或键盘聚焦时展开 */
-.greedy-nav .masthead__menu-item--dropdown:hover > .masthead__submenu,
-.greedy-nav .masthead__menu-item--dropdown:focus-within > .masthead__submenu {
-  display: block;
-}
-
-.greedy-nav .masthead__menu-item--dropdown:hover
-  > .masthead__dropdown-toggle
-  .masthead__dropdown-arrow,
-.greedy-nav .masthead__menu-item--dropdown:focus-within
-  > .masthead__dropdown-toggle
-  .masthead__dropdown-arrow {
-  transform: rotate(180deg);
 }
 
 
