@@ -438,6 +438,12 @@ Several PhD/MPhil and postdoctoral positions are available. Candidates with back
 <span class='anchor' id='-collaborators'></span>
 # 🌐 Collaborators
 - **[Prof. Limin Zhang](https://cezhangl.people.ust.hk/)**, Hong Kong University of Science and Technology
+- **[Prof. Dianqing Li](https://risk.whu.edu.cn/index.htm)**, Wuhan University
+- **[Prof. Zijun Cao](https://iscit.swjtu.edu.cn/info/1199/11140.htm)**, Southwest Jiaotong University
+- Geotechnical Engineering Office, Civil Engineering and Development Department, Hong Kong SAR Government
+- Chongqing Bureau of Geology and Minerals Exploration
+<br><br>
+
 
 ---
 <span class='anchor' id='-group'></span>
