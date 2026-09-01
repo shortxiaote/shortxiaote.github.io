@@ -19,7 +19,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 Dr. Te Xiao (肖特) is an Associate Professor at the Department of Civil Engineering, Shanghai Jiao Tong University. His research interests include intelligent multi-hazard management, geotechnical risk and reliability, probabilistic site characterization, offshore geotechnics, landslide hazard chain, machine learning and digital twin, etc. He has authored 50+ peer-reviewed journal papers <a href='https://scholar.google.com/citations?user=blUFYi4AAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fshortxiaote%2Fshortxiaote.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> and one academic monograph. He is the recipient of the NSFC Excellent Young Scientists Fund (Overseas), ISSMGE Bright Spark Lecture Award, HKIE Geotechnical Paper Award, ICE Early Career Award, Georisk Best Paper Award, and many other awards.
 <br><br>
-Several PhD/MPhil and postdoctoral positions are available. Candidates with backgrounds in civil engineering, hydraulic engineering, engineering geology, or data science are highly preferred. Interested applicants are welcome to contact Dr. Xiao via email.
+Several M.Sc./M.Eng., Ph.D., and postdoctoral positions are available. Candidates with backgrounds in civil engineering, hydraulic engineering, engineering geology, or data science are highly preferred. Interested applicants are welcome to contact Dr. Xiao via email.
 <br><br>
 
 
