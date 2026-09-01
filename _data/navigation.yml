@@ -14,6 +14,18 @@ main:
 
   - title: "Publications"
     url: "/#-publications"
+    children:
+      - title: "Intelligent multi-hazard management"
+        url: "/#intelligent-multi-hazard-management"
+
+      - title: "Geotechnical risk and reliability"
+        url: "/#geotechnical-risk-and-reliability"
+
+      - title: "Probabilistic site characterization"
+        url: "/#probabilistic-site-characterization"
+
+      - title: "Offshore geotechnics"
+        url: "/#offshore-geotechnics"
 
   - title: "Invited Talks"
     url: "/#-invited-talks"
