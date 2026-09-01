@@ -343,6 +343,13 @@
   display: block;
 }
 
+/* 所有子菜单项统一不加粗 */
+.greedy-nav .masthead__submenu li,
+.greedy-nav .masthead__submenu li:first-child,
+.greedy-nav .masthead__submenu a {
+  font-weight: normal;
+}
+
 /* 子菜单中的每一项 */
 .greedy-nav .masthead__submenu li {
   display: block;
