@@ -308,10 +308,10 @@ Dr. Te Xiao (肖特) is an Associate Professor at the Department of Civil Engine
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">OE 2026</div><img src='images/research/2026_Zhou_OE_500x300.png' alt="img" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- Zhou, H., **Xiao, T.***, Zhang, L. L. (2026). Coupled and decoupled aero-hydro-geotech reliability analyses of monopile-supported offshore wind turbines considering multi-source uncertainty propagation. Ocean Engineering.
+- Zhou, H., **Xiao, T.***, Zhang, L. L. (2026). [Coupled and decoupled aero-hydro-geotech reliability analyses of monopile-supported offshore wind turbines considering multi-source uncertainty propagation](https://doi.org/10.1016/j.oceaneng.2026.127838). Ocean Engineering, 366, 127838. \| [\[pdf\]](https://github.com/shortxiaote/shortxiaote.github.io/blob/main/_files/papers/2026_Zhou_OE.pdf)
 
   **Highlights**
-  - A coupled aero-hydro-geotech reliability method is proposed for OWT to consider multisource uncertainty propagation.
+  - A coupled aero-hydro-geotech reliability method is proposed for OWT to consider multi-source uncertainty propagation.
   - A counter-intuitive “false sense of security” in the decoupled method is uncovered.
 </div></div>
 
