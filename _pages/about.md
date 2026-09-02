@@ -439,6 +439,7 @@ Several M.Sc./M.Eng., Ph.D., and postdoctoral positions are available. Candidate
 # 🌐 Collaborators
 - **[Prof. Limin Zhang](https://cezhangl.people.ust.hk/)**, Hong Kong University of Science and Technology
 - **[Prof. Dianqing Li](https://risk.whu.edu.cn/index.htm)**, Wuhan University
+- **[Prof. Lulu Zhang](https://oce.sjtu.edu.cn/teachers/zhanglulu.html)**, Shanghai Jiao Tong University
 - **[Prof. Zijun Cao](https://iscit.swjtu.edu.cn/info/1199/11140.htm)**, Southwest Jiaotong University
 - Geotechnical Engineering Office, Civil Engineering and Development Department, Hong Kong SAR Government
 - Chongqing Bureau of Geology and Minerals Exploration
