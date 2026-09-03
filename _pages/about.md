@@ -255,7 +255,7 @@ Several M.Sc./M.Eng., Ph.D., and postdoctoral positions are available. Candidate
 - Zhu, H., Zhang, L. M.*, **Xiao, T.**, Li, X. Y. (2017). Enhancement of slope stability by vegetation considering uncertainties in root distribution. Computers and Geotechnics, 85, 84-89.
 - Li, X. Y., Fan, Z. B., Lu, T., **Xiao, T.**, Zhang, L. M.* (2018). A resilience model for engineered slopes subject to anchor corrosion. KSCE Journal of Civil Engineering, 22(3), 887-895.
 - **Xiao, T.**, Li, D. Q.*, Zhou, C. B., Phoon, K. K. (2014). Non-intrusive reliability analysis of multi-layered slopes using strength reduction FEM 基于有限元强度折减法的多层边坡非侵入式可靠度分析. Journal of Basic Science and Engineering, 22(4), 718-732. (in Chinese)
-- Li, D. Q., **Xiao, T.**, Cao, Z. J.*, Tang, S. X., Phoon, K. K. (2016). Auxiliary slope reliability analysis using limit equilibrium analysis and finite element analysis 基于极限平衡法和有限元法的边坡协同式可靠度分析. Chinese Journal of Geotechnical Engineering, 38(6), 1004-1013. (in Chinese)
+- Li, D. Q., **Xiao, T.**, Cao, Z. J.*, Tang, X. S., Phoon, K. K. (2016). Auxiliary slope reliability analysis using limit equilibrium analysis and finite element analysis 基于极限平衡法和有限元法的边坡协同式可靠度分析. Chinese Journal of Geotechnical Engineering, 38(6), 1004-1013. (in Chinese)
 - Li, D. Q.*, **Xiao, T.**, Cao, Z. J., Zhou, C. B., Phoon, K. K. (2016). Slope risk assessment using efficient random finite element method 基于高效随机有限元法的边坡风险评估. Rock and Soil Mechanics, 37(7), 1994-2003. (in Chinese)
 
 
@@ -332,6 +332,9 @@ Several M.Sc./M.Eng., Ph.D., and postdoctoral positions are available. Candidate
   - An equivalent state method is proposed to couple hydrate dissociation and submarine spreading.
   - Three key stages of hydrate-induced submarine spreading are identified.
 </div></div>
+
+- Lin, J., Zhang, L. L.*, Liao, C., **Xiao, T.**, Zhu, C., Wang, W. (2026). Reliability-based design optimization for offshore wind turbine monopiles considering p-y model uncertainties. Ocean Engineering, 366, 127871.
+
 
 ## Reports
 - Li, D. Q., **Xiao, T.**, Liu, X., Cao, Z. J. (2016). Introduction to NIGPA (Non-Intrusive Geotechnical Probabilistic Analysis) (Version 1.1). Wuhan University, Wuhan. 19p. \| [\[report\]](https://github.com/shortxiaote/shortxiaote.github.io/blob/main/_files/others/NIGPA%20Tutorial.pdf)
