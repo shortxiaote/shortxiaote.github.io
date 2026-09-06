@@ -333,7 +333,7 @@ Several M.Sc./M.Eng., Ph.D., and postdoctoral positions are available. Candidate
   - Three key stages of hydrate-induced submarine spreading are identified.
 </div></div>
 
-- Lin, J., Zhang, L. L.*, Liao, C., **Xiao, T.**, Zhu, C., Wang, W. (2026). Reliability-based design optimization for offshore wind turbine monopiles considering p-y model uncertainties. Ocean Engineering, 366, 127871.
+- Lin, J., Zhang, L. L.*, Liao, C., **Xiao, T.**, Zhu, C., Wang, W. (2026). [Reliability-based design optimization for offshore wind turbine monopiles considering p-y model uncertainties](https://doi.org/10.1016/j.oceaneng.2026.127871). Ocean Engineering, 367, 127871.
 
 
 ## Reports
