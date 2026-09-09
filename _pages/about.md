@@ -26,7 +26,9 @@ Several M.Sc./M.Eng., Ph.D., and postdoctoral positions are available. Candidate
 ---
 <span class='anchor' id='-news'></span>
 # 🔥 News
+- *2026.09*: 🎉🎉 Welcome **Haoyu Wang** to our research group.
 - *2026.08*: 🎉🎉 Dr. Te Xiao is awarded the **NSFC General Program**.
+
 <div class='news-box'><div class='news-box-image'><div><img src='images/activities/2026_DTERM.jpg' alt="img" width="100%"></div></div>
 <div class='news-box-text' markdown="1">
 
@@ -42,7 +44,7 @@ Several M.Sc./M.Eng., Ph.D., and postdoctoral positions are available. Candidate
 </div></div>
 
 - *2025.10*: 🎉🎉 Bingkun Song makes a presentation at the Third Workshop on the Future of Machine Learning in Geotechnics (3FOMLIG), Florence, Italy.
-- *2025.09*: 🎉🎉 Welcome **Xianchong Li**, **Bingkun Song**, and **Shakhnoza Kambaralieva (Sasha)** to our research group! Sasha from Uzbekistan is the first international student in our group.
+- *2025.09*: 🎉🎉 Welcome **Xianchong Li**, **Bingkun Song**, and **Shakhnoza Kambaralieva (Sasha)** to our research group. Sasha from Uzbekistan is the first international student in our group.
 
 <div class='news-box'><div class='news-box-image'><div><img src='images/activities/2025_ISGSR.jpg' alt="img" width="100%"></div></div>
 <div class='news-box-text' markdown="1">
