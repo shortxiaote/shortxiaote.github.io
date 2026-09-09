@@ -109,12 +109,12 @@ Several M.Sc./M.Eng., Ph.D., and postdoctoral positions are available. Candidate
 ---
 <span class='anchor' id='-projects'></span>
 # 💼 Projects
-- *2025 – 2027*,	**PI**, **NSFC Excellent Young Scientists Fund (Overseas)**, Digital twin-powered risk mitigation and emergency management for landslide hazards
-- *2027 – 2030*,	**PI**, NSFC General Program, AI agent for landslide risk decision-making in reservoir areas based on intelligent computation of landslide movement
-- *2025 – 2027*,	**PI**, NSFC Young Scientists Fund, Methods for regional landslide spatiotemporal prediction and risk-informed early warning using incomplete data
-- *2024 – 2028*,	Co-I, RGC Theme-based Research Scheme, Digital twin-empowered landslide emergency risk management
-- *2021 – 2024*,	Co-I, NSFC-RGC Joint Research Scheme, Evolution of landslide hazard chains triggered by strong earthquakes and the associated dynamic risk management
-- *2023 – 2024*,	Co-I, Geotechnical Engineering Office of HKSAR Government, Uncertainties and target reliability of slopes
+- *2025 – 2027*, **PI**, **NSFC Excellent Young Scientists Fund (Overseas)**, Digital twin-powered risk mitigation and emergency management for landslide hazards
+- *2027 – 2030*, **PI**, NSFC General Program, AI agent for landslide risk decision-making in reservoir areas based on intelligent computation of landslide movement
+- *2025 – 2027*, **PI**, NSFC Young Scientists Fund, Methods for regional landslide spatiotemporal prediction and risk-informed early warning using incomplete data
+- *2024 – 2028*, Co-I, RGC Theme-based Research Scheme, Digital twin-empowered landslide emergency risk management
+- *2021 – 2024*, Co-I, NSFC-RGC Joint Research Scheme, Evolution of landslide hazard chains triggered by strong earthquakes and the associated dynamic risk management
+- *2023 – 2024*, Co-I, Geotechnical Engineering Office of HKSAR Government, Uncertainties and target reliability of slopes
 <br><br>
 
 
@@ -162,7 +162,7 @@ Several M.Sc./M.Eng., Ph.D., and postdoctoral positions are available. Candidate
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Georisk 2025</div><img src='images/research/2025_Qiang_Georisk_500x300.png' alt="img" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- Qiang, Y. J., **Xiao, T.***, He, J., Zhang, L. M. (2025). [Multi-hazard stress testing under extreme rainstorms in the Shenzhen metropolitan area](https://doi.org/10.1080/17499518.2024.2443477). Georisk, 19(3), 467-485. \| [\[pdf\]](https://github.com/shortxiaote/shortxiaote.github.io/blob/main/_files/papers/2025_Qiang_Georisk.pdf)
+- Qiang, Y., **Xiao, T.***, He, J., Zhang, L. M. (2025). [Multi-hazard stress testing under extreme rainstorms in the Shenzhen metropolitan area](https://doi.org/10.1080/17499518.2024.2443477). Georisk, 19(3), 467-485. \| [\[pdf\]](https://github.com/shortxiaote/shortxiaote.github.io/blob/main/_files/papers/2025_Qiang_Georisk.pdf)
 
   **Highlights**
   - The probable maximum precipitation in Shenzhen is estimated.
@@ -180,20 +180,18 @@ Several M.Sc./M.Eng., Ph.D., and postdoctoral positions are available. Candidate
 </div></div>
 
 - Ju, L. Y., **Xiao, T.**, He, J., Xu, W. F., Xiao, S. H., Zhang, L. M.* (2025). A simulation-enabled slope digital twin for real-time assessment of rain-induced landslides. Engineering Geology, 353, 108116.
-- Xiao, S. H., **Xiao, T.**, Jiang, R. C., Wang, H. J., Ju, L. Y., Zhang, L. M.* (2024). Two-phase strategy for rapid and unbiased assessment of earthquake-induced landslides. Engineering Geology, 336, 107562.
+- Xiao, S., **Xiao, T.**, Jiang, R., Wang, H., Ju, L., Zhang, L. M.* (2024). Two-phase strategy for rapid and unbiased assessment of earthquake-induced landslides. Engineering Geology, 336, 107562.
 - Wang, H. J., **Xiao, T.**, Li, X. Y., Zhang, L. L., Zhang, L. M.* (2019). A novel physically-based model for updating landslide susceptibility. Engineering Geology, 251, 71-80.
-- Wang, S. R., Zhang, S.*, **Xiao, T.**, Ren, W. L., Zhang, L. L., Tian, Y. H. (2026). Physics-informed neural networks for predicting the coupled hydro-mechanical behaviour of partially saturated soils. Georisk: Assessment and Management of Risk for Engineered Systems and Geohazards, 1-20.
 - Wang, J., Zeng, P.*, **Xiao, T.**, Peng, M., Li, T., Zhang, H., Sun, X. (2026). Calibrating soil erodibility parameters of landslide dams using back analyses. Georisk: Assessment and Management of Risk for Engineered Systems and Geohazards, 20(1), 212-233.
-- Xiao, S. H., Zhang, L. M.*, **Xiao, T.**, Jiang, R. C., Peng, D. L., Lu, W. J., He, X. (2024). Landslide damming threats along the Jinsha River, China. Engineering, 42, 326-339.
+- Xiao, S., Zhang, L. M.*, **Xiao, T.**, Jiang, R., Peng, D., Lu, W., He, X. (2024). Landslide damming threats along the Jinsha River, China. Engineering, 42, 326-339.
 - Ju, L. Y., Zhang, L. M.*, **Xiao, T.** (2023). Power laws for accurate determination of landslide volume based on high-resolution LiDAR data. Engineering Geology, 312, 106935.
-- He, J., Zhang, L. M.*, **Xiao, T.**, Wang, H. J., Luo, H. Y. (2023). Prompt quantitative risk assessment for rain-induced landslides. Journal of Geotechnical and Geoenvironmental Engineering, 149(5), 04023023.
-- He, J., Zhang, L. M.*, **Xiao, T.**, Wang, H. J., Luo, H. Y. (2023). Deep learning enables super-resolution hydrodynamic flooding process modelling under spatiotemporally varying rainstorms. Water Research, 239, 120057.
+- He, J., Zhang, L. M.*, **Xiao, T.**, Wang, H., Luo, H. (2023). Prompt quantitative risk assessment for rain-induced landslides. Journal of Geotechnical and Geoenvironmental Engineering, 149(5), 04023023.
+- He, J., Zhang, L. M.*, **Xiao, T.**, Wang, H., Luo, H. (2023). Deep learning enables super-resolution hydrodynamic flooding process modeling under spatiotemporally varying rainstorms. Water Research, 239, 120057.
 - He, J., Zhang, L. M.*, **Xiao, T.**, Chen, C. (2022). Emergency risk management for landslide dam breaks in 2018 on the Yangtze River, China. Resilient Cities and Structures, 1(3), 1-11.
-- Qiang, Y. J., He, J., **Xiao, T.**, Lu, W. J., Li, J. H., Zhang, L. M.* (2021). Coastal town flooding upon compound rainfall-wave overtopping-storm surge during extreme tropical cyclones in Hong Kong. Journal of Hydrology: Regional Studies, 37, 100890.
-- Qiang, Y. J., Zhang, L. M.*, **Xiao, T.** (2020). Spatial-temporal rain field generation for the Guangdong-Hong Kong-Macau Greater Bay Area considering climate change. Journal of Hydrology, 583, 124584.
+- Qiang, Y., He, J., **Xiao, T.**, Lu, W., Li, J., Zhang, L. M.* (2021). Coastal town flooding upon compound rainfall-wave overtopping-storm surge during extreme tropical cyclones in Hong Kong. Journal of Hydrology: Regional Studies, 37, 100890.
+- Qiang, Y., Zhang, L. M.*, **Xiao, T.** (2020). Spatial-temporal rain field generation for the Guangdong-Hong Kong-Macau Greater Bay Area considering climate change. Journal of Hydrology, 583, 124584.
 - Chen, C., Zhang, L. M.*, **Xiao, T.**, He, J. (2020). Barrier lake bursting and flood routing in the Yarlung Tsangpo Grand Canyon in October 2018. Journal of Hydrology, 583, 124603.
-- Mu, Q. Y., Song, T. Q., Lu, Z.*, **Xiao, T.**, Zhang, L. M. (2024). Evaluation of the collapse susceptibility of loess using machine learning. Transportation Geotechnics, 48, 101327.
-- Qiang, Y. J., Zhang, L. M.*, He, J., **Xiao, T.**, Huang, H. H., Wang, H. J. (2021). Urban flood analysis for Pearl River Delta cities using an equivalent drainage method upon combined rainfall-high tide-storm surge events. Journal of Hydrology, 597, 126293.
+- Qiang, Y., Zhang, L. M.*, He, J., **Xiao, T.**, Huang, H., Wang, H. (2021). Urban flood analysis for Pearl River Delta cities using an equivalent drainage method upon combined rainfall-high tide-storm surge events. Journal of Hydrology, 597, 126293.
 
 
 <span class="anchor" id="geotechnical-risk-and-reliability"></span>
@@ -251,11 +249,11 @@ Several M.Sc./M.Eng., Ph.D., and postdoctoral positions are available. Candidate
 - Wang, S., **Xiao, T.**, Li, G., Lv, Y., Dai, C., Zhan, L., Chen, Y., Zhang, S.* (2024). Spatial variability characterization of clayey waste soils and its impact on probabilistic stability assessment of a landfill slope. Acta Geotechnica, 19(8), 5157-5174.
 - Zhou, Z., Li, D. Q.*, **Xiao, T.**, Cao, Z. J., Du, W. (2021). Response surface guided adaptive slope reliability analysis in spatially varying soils. Computers and Geotechnics, 132, 103966.
 - Zhu, H., Zhang, L. M.*, **Xiao, T.** (2019). Evaluating the stability of anisotropically deposited soil slopes. Canadian Geotechnical Journal, 56(5), 753-760.
-- Li, X. Y., Zhang, L. M.*, **Xiao, T.**, Zhang, S., Chen, C. (2019). Learning failure modes of soil slopes using monitoring data. Probabilistic Engineering Mechanics, 56, 50-57.
+- Li, X., Zhang, L. M.*, **Xiao, T.**, Zhang, S., Chen, C. (2019). Learning failure modes of soil slopes using monitoring data. Probabilistic Engineering Mechanics, 56, 50-57.
 - Zhu, H., Zhang, L. M.*, **Xiao, T.**, Li, X. Y. (2017). Enhancement of slope stability by vegetation considering uncertainties in root distribution. Computers and Geotechnics, 85, 84-89.
 - Li, X. Y., Fan, Z. B., Lu, T., **Xiao, T.**, Zhang, L. M.* (2018). A resilience model for engineered slopes subject to anchor corrosion. KSCE Journal of Civil Engineering, 22(3), 887-895.
 - **Xiao, T.**, Li, D. Q.*, Zhou, C. B., Phoon, K. K. (2014). Non-intrusive reliability analysis of multi-layered slopes using strength reduction FEM 基于有限元强度折减法的多层边坡非侵入式可靠度分析. Journal of Basic Science and Engineering, 22(4), 718-732. (in Chinese)
-- Li, D. Q., **Xiao, T.**, Cao, Z. J.*, Tang, X. S., Phoon, K. K. (2016). Auxiliary slope reliability analysis using limit equilibrium analysis and finite element analysis 基于极限平衡法和有限元法的边坡协同式可靠度分析. Chinese Journal of Geotechnical Engineering, 38(6), 1004-1013. (in Chinese)
+- Li, D. Q., **Xiao, T.**, Cao, Z. J.*, Tang, X. S., Phoon, K. K. (2016). Auxiliary slope reliability analysis using limit equilibrium method and finite element method 基于极限平衡法和有限元法的边坡协同式可靠度分析. Chinese Journal of Geotechnical Engineering, 38(6), 1004-1013. (in Chinese)
 - Li, D. Q.*, **Xiao, T.**, Cao, Z. J., Zhou, C. B., Phoon, K. K. (2016). Slope risk assessment using efficient random finite element method 基于高效随机有限元法的边坡风险评估. Rock and Soil Mechanics, 37(7), 1994-2003. (in Chinese)
 
 
@@ -326,7 +324,7 @@ Several M.Sc./M.Eng., Ph.D., and postdoctoral positions are available. Candidate
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EG 2025</div><img src='images/research/2025_Zhao_EG_500x300.png' alt="img" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- Zhao, F. Y., Zhang, L. L., **Xiao, T.***, Chen, Y. M. (2025). [An equivalent state method for submarine spread modeling subject to hydrate dissociation](https://doi.org/10.1016/j.enggeo.2025.108070). Engineering Geology, 352, 108070. \| [\[pdf\]](https://github.com/shortxiaote/shortxiaote.github.io/blob/main/_files/papers/2025_Zhao_EG.pdf)
+- Zhao, F., Zhang, L. L., **Xiao, T.***, Chen, Y. (2025). [An equivalent state method for submarine spread modeling subject to hydrate dissociation](https://doi.org/10.1016/j.enggeo.2025.108070). Engineering Geology, 352, 108070. \| [\[pdf\]](https://github.com/shortxiaote/shortxiaote.github.io/blob/main/_files/papers/2025_Zhao_EG.pdf)
 
   **Highlights**
   - An equivalent state method is proposed to couple hydrate dissociation and submarine spreading.
