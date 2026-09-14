@@ -464,6 +464,13 @@ Several M.Sc./M.Eng., Ph.D., and postdoctoral positions are available. Candidate
 ---
 <span class='anchor' id='-activities'></span>
 # ⛰️ Activities
+<div class='image-box'><div class='image-box-image'><div><img src='images/activities/2026_Icebreaker Dinner.jpg' alt="img" width="100%"></div></div>
+<div class='image-box-text' markdown="1">
+
+- *2026.09*: 🎉🎉 Icebreaker Dinner
+
+</div></div>
+
 <div class='image-box'><div class='image-box-image'><div><img src='images/activities/2026_SJTU 130 Anniversary.jpg' alt="img" width="100%"></div></div>
 <div class='image-box-text' markdown="1">
 
