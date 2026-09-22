@@ -366,17 +366,17 @@ Several M.Sc./M.Eng., Ph.D., and postdoctoral positions are available. Candidate
 
 ## Professional societies
 - *2026 – present*, **Member**, Chinese National Committee of International Society for Digital Earth (CNISDE), Technical Committee on Digital Disaster Reduction
-- *2022 – present*, **Member**, ASCE Embankments, Dams, and Slopes Committee
 - *2022 – present*, **Corresponding Member**, ISSMGE Technical Committees TC304 (Risk) / TC309 (Machine Learning) / TC222 (BIM and Digital Twin)
 - *2019 – present*, **Member**, Youth Committee of Risk and Insurance Research Branch of China Civil Engineering Society
-- *2024 – present*, Early Career Member, Future of Machine Learning in Geotechnics (FOMLIG) Council
+- *2022 – 2025*, **Member**, ASCE Embankments, Dams, and Slopes Committee
+- *2017 – present*, Member, American Society of Civil Engineers (ASCE)
 - *2021 – present*, Member, International Society for Soil Mechanics and Geotechnical Engineering (ISSMGE)
 - *2018 – present*, Member, International Society for Rock Mechanics (ISRM)
 - *2026 – present*, Member, Geotechnical Safety Network (GEOSNet)
 - *2018 – present*, Member, China National Committee on Large Dams
 - *2024 – present*, Member, China Civil Engineering Society
 - *2022 – present*, Member, Hong Kong Geotechnical Society
-- *2017 – present*, Associate Member, American Society of Civil Engineers (ASCE)
+- *2024 – present*, Early Career Member, Future of Machine Learning in Geotechnics (FOMLIG) Council
 <br>
 
 ## Conference services
