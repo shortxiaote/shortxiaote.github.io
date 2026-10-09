@@ -410,6 +410,8 @@ Several M.Sc./M.Eng., Ph.D., and postdoctoral positions are available. Candidate
 - Natural Hazards
 - Geodata and AI
 - Chinese Journal of Geotechnical Engineering 岩土工程学报
+- Earth Science 地球科学
+- Journal of Engineering Geology 工程地质学报
 <br><br>
 
 
