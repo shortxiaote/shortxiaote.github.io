@@ -347,6 +347,7 @@ Several M.Sc./M.Eng., Ph.D., and postdoctoral positions are available. Candidate
 # 💬 Invited Talks
 - *2023*, Machine learning-powered landslide forecasting: from initiation to mobility, **ISSMGE Bright Spark Lecture**, Hong Kong \| [\[pdf\]](https://github.com/shortxiaote/shortxiaote.github.io/blob/main/_files/papers/2023_ISSMGE%20Bright%20Spark%20Lecture.pdf)
 - *2026*, Transforming regional landslide risk control using modern AI techniques, **Keynote Lecture**, The International Workshop on Digital Twin and AI Empowered Emergency Risk Management, Hong Kong
+- *2026*, Regional landslide spatiotemporal prediction and risk assessment 区域滑坡时空预测与风险评估, The 2nd National Forum on Standardization Development of Geotechnical Mechanics and Engineering, Wuhan
 - *2026*, Machine learning-powered city-scale landslide forecasting, The 5th GeoAI Frontier Forum, Webinar
 - *2025*, Machine learning-powered landslide forecasting, Webinar Talk for The Institution of Engineers, Malaysia
 - *2025*, 3-D marine geological modeling by fusing multi-source site investigation data 基于多源勘察数据融合的三维海洋地质建模, The 7th National Young Scholar Symposium on Engineering Risk Analysis & Management, Nanchang
@@ -383,6 +384,7 @@ Several M.Sc./M.Eng., Ph.D., and postdoctoral positions are available. Candidate
 ## Conference services
 - *2025*, **Secretary of Congress Question**, The 28th Congress of International Commission on Large Dams, Chengdu
 - *2024*, **Organizing Committee Secretary**, The 2nd Workshop on Future of Machine Learning in Geotechnics, Chengdu
+- *2026*, Session Chair, The 2nd National Forum on Standardization Development of Geotechnical Mechanics and Engineering, Wuhan
 - *2026*, Session Chair, The 1st TC304 International Workshop on Geotechnical Risk and Uncertainty, Shanghai
 - *2026*, Session Chair, The 5th International Symposium on Machine Learning & Big Data in Geoscience, Hong Kong
 - *2025*, Session Chair, The 9th International Symposium for Geotechnical Safety and Risk, Oslo, Norway
