@@ -1,29 +1,51 @@
 name: Get Citation Data
 
-on: 
- page_build: 
- schedule:
-  - cron:  '0 16 * * *'
+on:
+  schedule:
+    - cron: '0 16 * * *'
+  workflow_dispatch:
+
+# 显式授予写权限：下面要靠 GITHUB_TOKEN 把结果 push 到 google-scholar-stats 分支
+permissions:
+  contents: write
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     steps:
-    - uses: actions/checkout@v2
-    - name: Install Reqs
-      run: |
-        sudo apt-get install python3-setuptools
-    - name: Run
-      run: |
-        cd ./google_scholar_crawler
-        pip3 install -r requirements.txt
-        python3 main.py
-        cd ./results
-        git init
-        git config --local user.name "${GITHUB_ACTOR}"
-        export remote_repo="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
-        git add *.json
-        git commit -m "Updated Citation Data"
-        git push "${remote_repo}" HEAD:google-scholar-stats --force
-      env: 
-        GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
+      - uses: actions/checkout@v5
+
+      # 用 setup-python 指定解释器，避免系统 Python（24.04/26.04）的
+      # externally-managed-environment 限制，也避免 Python 版本随镜像漂移
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.11'
+
+      - name: Install Reqs
+        run: |
+          cd ./google_scholar_crawler
+          python -m pip install --upgrade pip
+          python -m pip install -r requirements.txt
+
+      - name: Run
+        env:
+          GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
+        run: |
+          cd ./google_scholar_crawler
+          python main.py
+
+      - name: Push results
+        run: |
+          cd ./google_scholar_crawler/results
+          git init
+          git config --local user.name "${GITHUB_ACTOR}"
+          git config --local user.email "${GITHUB_ACTOR}@users.noreply.github.com"
+          remote_repo="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
+          git add *.json
+          # 没有变化时直接跳过，避免 "nothing to commit" 退出码 1
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git commit -m "Updated Citation Data"
+          git push "${remote_repo}" HEAD:google-scholar-stats --force
