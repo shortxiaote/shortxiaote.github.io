@@ -5,18 +5,17 @@ on:
     - cron: '0 16 * * *'
   workflow_dispatch:
 
-# 显式授予写权限：下面要靠 GITHUB_TOKEN 把结果 push 到 google-scholar-stats 分支
 permissions:
   contents: write
 
 jobs:
   build:
     runs-on: ubuntu-24.04
+    # 整体上限修改
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@v5
 
-      # 用 setup-python 指定解释器，避免系统 Python（24.04/26.04）的
-      # externally-managed-environment 限制，也避免 Python 版本随镜像漂移
       - uses: actions/setup-python@v6
         with:
           python-version: '3.11'
@@ -27,12 +26,41 @@ jobs:
           python -m pip install --upgrade pip
           python -m pip install -r requirements.txt
 
+      # 先单独探一次 Google Scholar：能在 30 秒内判定 IP 是否被封，
+      # 不必等 scholarly 在死循环里耗到超时才知道结果
+      - name: Preflight check
+        env:
+          GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
+        run: |
+          ID="$(printf '%s' "$GOOGLE_SCHOLAR_ID" | tr -d '[:space:]')"
+          if [ -z "$ID" ]; then
+            echo "::error::secret GOOGLE_SCHOLAR_ID 为空或全是空白字符"
+            exit 1
+          fi
+          URL="https://scholar.google.com/citations?hl=en&user=${ID}"
+          UA="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+          CODE=$(curl -sS -L --max-time 30 -A "$UA" -o /tmp/scholar.html -w '%{http_code}' "$URL" || true)
+          SIZE=$(wc -c < /tmp/scholar.html 2>/dev/null || echo 0)
+          echo "HTTP 状态码: $CODE"
+          echo "响应字节数: $SIZE"
+          if [ "$CODE" != "200" ]; then
+            echo "::error::Google Scholar 返回 $CODE，runner 的出口 IP 很可能已被限制"
+            head -c 400 /tmp/scholar.html || true
+            exit 1
+          fi
+          if grep -qiE "unusual traffic|not a robot|enablejs|gs_captcha|sorry/image" /tmp/scholar.html; then
+            echo "::error::返回的是验证码 / 异常流量页面，scholarly 会在此无限重试"
+            exit 1
+          fi
+          echo "预检通过：可以正常访问作者主页"
+
       - name: Run
         env:
           GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
         run: |
           cd ./google_scholar_crawler
-          python main.py
+          # timeout 是最后一道保险：main.py 内部看门狗 240s，这里 300s 兜底
+          timeout -k 10 300 python -u main.py
 
       - name: Push results
         run: |
@@ -42,7 +70,6 @@ jobs:
           git config --local user.email "${GITHUB_ACTOR}@users.noreply.github.com"
           remote_repo="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
           git add *.json
-          # 没有变化时直接跳过，避免 "nothing to commit" 退出码 1
           if git diff --staged --quiet; then
             echo "No changes to commit"
             exit 0
