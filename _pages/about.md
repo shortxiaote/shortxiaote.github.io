@@ -334,7 +334,7 @@ Several M.Sc./M.Eng., Ph.D., and postdoctoral positions are available. Candidate
   - Three key stages of hydrate-induced submarine spreading are identified.
 </div></div>
 
-- Zhao, F., Zhang, L. L.*, **Xiao, T.**, Chen, Y. (2026). Risk assessment of submarine pipeline networks subject to hydrate exploitation-induced landslides. Ocean Engineering, 371, 129625.
+- Zhao, F., Zhang, L. L.*, **Xiao, T.**, Chen, Y. (2027). Risk assessment of submarine pipeline networks subject to hydrate exploitation-induced landslides. Ocean Engineering, 371, 129625.
 - Lin, J., Zhang, L. L.*, Liao, C., **Xiao, T.**, Zhu, C., Wang, W. (2026). Reliability-based design optimization for offshore wind turbine monopiles considering p-y model uncertainties. Ocean Engineering, 367, 127871.
 - Lin, W., Liao, C.*, Leng, J., **Xiao, T.**, Tong, D., Zhang, L., Jeng, D. (2026). Interpretability-enhanced temporal surrogate modeling for wave-induced scour vulnerability assessment of vertical-wall structures. Ocean Engineering, 368, 128607.
 
